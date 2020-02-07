@@ -1,0 +1,5 @@
+<templateSet group="HTML/XML">
+  <template name="A" value="&lt;a href=&quot;$URL$&quot;&gt;$SELECTION$&lt;/a&gt;" description="Surrond with &lt;a&gt;&lt;/a&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="clipboard()" defaultValue="$URL$" alwaysStopAt="true" />
+  </template>
+</templateSet>
