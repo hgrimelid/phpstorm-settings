@@ -1,11 +1,18 @@
-<scheme name="Classic Light Copy" version="142" parent_scheme="Default">
+<scheme name="Classic Light (Custom)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-03-13T11:00:00</property>
+    <property name="created">2020-03-15T19:17:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-03-13T11:00:54</property>
-    <property name="originalScheme">_@user_Default</property>
+    <property name="modified">2020-03-15T19:20:25</property>
+    <property name="originalScheme">Classic Light Copy</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.9" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Iosevka" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="f8f8f8" />
+  </colors>
   <attributes>
     <option name="HTML_CODE">
       <value />
