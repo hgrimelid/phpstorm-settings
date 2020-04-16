@@ -56,9 +56,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1585307911184">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_03_10_085651_create_sold_estates_table.php" timestamp="1587042484176">
         <mark key="[" line="25" column="103" />
         <mark key="]" line="26" column="12" />
@@ -70,11 +67,49 @@
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/illuminati/app/Http/Livewire/ProductSearch.php" timestamp="1585306709135">
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="40" />
-        <mark key="^" line="53" column="40" />
-        <mark key="." line="53" column="40" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1587044317887">
+        <mark key="'" line="53" column="40" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/estate.xml" timestamp="1585309548526">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/routes/web.php" timestamp="1585314134383">
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="89" />
+        <mark key="^" line="21" column="89" />
+        <mark key="." line="21" column="89" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/CommissionsImporterTest.php" timestamp="1587044279770">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="8" />
+        <mark key="." line="56" column="8" />
+        <mark key="^" line="32" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/simple_estate.xml" timestamp="1585309550867">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="63" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" timestamp="1585318525471">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="35" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/ControllerHelpers/ReportsControllerHelper.php" timestamp="1587044393963">
+        <mark key="[" line="139" column="44" />
+        <mark key="]" line="139" column="54" />
+        <mark key="." line="139" column="53" />
+        <mark key="^" line="139" column="54" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1585307911184">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" timestamp="1585309076156">
         <mark key="'" line="38" column="0" />
@@ -93,13 +128,6 @@
         <mark key="^" line="42" column="51" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1587042119901">
-        <mark key="'" line="54" column="40" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="54" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SingleCommissionImporter.php" timestamp="1585310579406">
         <mark key="'" line="62" column="21" />
         <mark key="]" line="62" column="20" />
@@ -111,33 +139,16 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/estate.xml" timestamp="1585309548526">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/routes/web.php" timestamp="1585314134383">
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="21" column="89" />
-        <mark key="^" line="21" column="89" />
-        <mark key="." line="21" column="89" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/ControllerHelpers/DepartmentsSummary.php" timestamp="1587044347681">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_03_09_112816_create_departments_table.php" timestamp="1587042911506">
         <mark key="[" line="18" column="46" />
         <mark key="]" line="18" column="45" />
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/CommissionsImporterTest.php" timestamp="1587043035066">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="28" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/simple_estate.xml" timestamp="1585309550867">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="63" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Unit/FilterEstatesByDateHelperTest.php" timestamp="1585312778852">
         <mark key="'" line="49" column="45" />
@@ -151,21 +162,8 @@
         <mark key="]" line="45" column="17" />
         <mark key="." line="45" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" timestamp="1585318525471">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="35" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/ImportSoldEstatesCommand.php" timestamp="1585303817106">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/DeleteCompressedSite.php" />
       <jump line="19" column="1" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" />
       <jump line="35" column="2" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Middleware/RedirectIfAuthenticated.php" />
@@ -265,15 +263,16 @@
       <jump line="53" column="40" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SoldEstatesImporter.php" />
       <jump line="38" column="24" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SoldEstatesImporter.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/CommissionsImporterTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>avdeling</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>avdeling</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</text>
@@ -282,31 +281,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Tm90TnVsbCgkZXN0YXRlLT50eXBlX2VpZW5kb21zdHlwZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IGludHxudWxsICRhdmRlbGluZ19pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ2RlcGFydG1lbnRfaWQnKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdkZXBhcnRtZW50X2lkJyktPnJlZmVyZW5jZXMoJ2lkJyktPm9uKCdkZXBhcnRtZW50cycpLT5vbkRlbGV0ZSgnY2FzY2FkZScpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEZpbGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUb3RhbENvbW1pc3Npb25BdHRyaWJ1dGUoKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyRlc3RhdGUtPmRlcGFydG1lbnRfaWQgPSAzOwogICAgICAgIC8vJGVzdGF0ZS0+c2F2ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgbWl4ZWQgJGNvbW1pc3Npb25zX3RvdGFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFNvbGRFc3RhdGUgYnlQZXJpb2QoJGZyb20sICR0bykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ2RlcGFydG1lbnRfaWQnKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdkZXBhcnRtZW50X2lkJyktPnJlZmVyZW5jZXMoJ2lkJyktPm9uKCdkZXBhcnRtZW50cycpLT5vbkRlbGV0ZSgnY2FzY2FkZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUb3RhbENvbW1pc3Npb25BdHRyaWJ1dGUoKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgbWl4ZWQgJGNvbW1pc3Npb25zX3RvdGFsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFNvbGRFc3RhdGUgYnlQZXJpb2QoJGZyb20sICR0bykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
