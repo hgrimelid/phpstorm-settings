@@ -56,13 +56,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/sold_estate.xml" timestamp="1585303410422">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1585307911184">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,11 +96,6 @@
         <mark key="^" line="62" column="20" />
         <mark key="." line="62" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/SoldEstatesParser.php" timestamp="1585303418103">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/estate.xml" timestamp="1585309548526">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="63" />
@@ -123,6 +111,12 @@
         <mark key="]" line="21" column="89" />
         <mark key="^" line="21" column="89" />
         <mark key="." line="21" column="89" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/DepartmentPeriodTest.php" timestamp="1587971487643">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/CommissionsImporterTest.php" timestamp="1585310655768">
         <mark key="'" line="49" column="8" />
@@ -142,8 +136,11 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/sold_estates.xml" timestamp="1585302994735">
-        <mark key="'" line="173" column="28" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1587972177336">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="61" column="37" />
+        <mark key="^" line="60" column="29" />
+        <mark key="." line="61" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SoldEstatesImporter.php" timestamp="1585303422244">
         <mark key="'" line="10" column="21" />
@@ -157,6 +154,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="35" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" timestamp="1587972200302">
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/ImportSoldEstatesCommand.php" timestamp="1585303817106">
         <mark key="'" line="0" column="0" />
@@ -270,44 +273,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgJHJlZ2lvbl9wZXJpb2QtPnJlZ2lvbigpLT5hc3NvY2lhdGUoJHJlZ2lvbik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">ID0+IDE1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Tm90TnVsbCgkZXN0YXRlLT50eXBlX2VpZW5kb21zdHlwZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ251bWJlcl9vZl9mdGVfYXNzaXN0YW50cycgPT4gMiwKICAgICAgICAgICAgJ3BlcmlvZF9ubycgPT4gMSwKICAgICAgICAgICAgJ3llYXInID0+IDIwMjAsCiAgICAgICAgICAgICdjb3N0X3Blcl9hZ2VudCcgPT4gMWU4LCAvLyAxIG1pbGwgTk9LCiAgICAgICAgICAgICdjb3N0X3Blcl9hc3Npc3RhbnQnID0+IDVlNywgLy8gNTAwayBOT0sKICAgICAgICAgICAgJ2JvbnVzX3BlcmNlbnRfb2ZfY29tbWlzc2lvbicgPT4gMTUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUb3RhbENvbW1pc3Npb25BdHRyaWJ1dGUoKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgJHJlZ2lvbl9wZXJpb2QtPnJlZ2lvbigpLT5hc3NvY2lhdGUoJHJlZ2lvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgbWl4ZWQgJGNvbW1pc3Npb25zX3RvdGFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ251bWJlcl9vZl9mdGVfYWdlbnRzJyA9PiAyLAogICAgICAgICAgICAgICAgJ251bWJlcl9vZl9mdGVfYXNzaXN0YW50cycgPT4gMiwKICAgICAgICAgICAgICAgICdwZXJpb2Rfbm8nID0+IDEsCiAgICAgICAgICAgICAgICAneWVhcicgPT4gMjAyMCwKICAgICAgICAgICAgICAgICdjb3N0X3Blcl9hZ2VudCcgPT4gMWU4LCAvLyAxIG1pbGwgTk9LCiAgICAgICAgICAgICAgICAnY29zdF9wZXJfYXNzaXN0YW50JyA9PiA1ZTcsIC8vIDUwMGsgTk9LCiAgICAgICAgICAgICAgICAnYm9udXNfcGVyY2VudF9vZl9jb21taXNzaW9uJyA9PiAxNSwKICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXFNvbGRFc3RhdGUgYnlQZXJpb2QoJGZyb20sICR0bykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkcmVnaW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyBmZWF0dXJlIHRlc3QgZXhhbXBsZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RFeGFtcGxlKCkKICAgIHsKICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyBmZWF0dXJlIHRlc3QgZXhhbXBsZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RFeGFtcGxlKCkKICAgIHsKICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUb3RhbENvbW1pc3Npb25BdHRyaWJ1dGUoKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZXJ2aWNlc1xDbGllbnRzXFNvbGRFc3RhdGVzQ2xpZW50Owo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgbWl4ZWQgJGNvbW1pc3Npb25zX3RvdGFsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
