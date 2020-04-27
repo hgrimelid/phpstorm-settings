@@ -103,12 +103,6 @@
         <mark key="^" line="62" column="20" />
         <mark key="." line="62" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1585298941067">
-        <mark key="'" line="60" column="47" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/SoldEstatesParser.php" timestamp="1585303418103">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -117,6 +111,12 @@
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/estate.xml" timestamp="1585309548526">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Clients/HttpClient.php" timestamp="1587970882071">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/routes/web.php" timestamp="1585314134383">
         <mark key="[" line="21" column="65" />
@@ -151,7 +151,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" timestamp="1585318525471">
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" timestamp="1587970834607">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -165,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/servers/index.blade.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
       <jump line="148" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/DeleteCompressedSite.php" />
@@ -265,15 +265,16 @@
       <jump line="48" column="8" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/CommissionsImporterTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Unit/FilterEstatesByDateHelperTest.php" />
       <jump line="49" column="45" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Unit/FilterEstatesByDateHelperTest.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUb3RhbENvbW1pc3Npb25BdHRyaWJ1dGUoKQogICAgewoKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>hasMany(Commission::class)</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</text>
