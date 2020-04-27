@@ -68,6 +68,12 @@
         <mark key="." line="17" column="65" />
         <mark key="^" line="17" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet/composer.json" timestamp="1587993969110">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="38" />
+        <mark key="^" line="33" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1587988175715">
         <mark key="'" line="12" column="3" />
         <mark key="[" line="75" column="0" />
@@ -87,12 +93,6 @@
         <mark key="]" line="49" column="27" />
         <mark key="^" line="49" column="27" />
         <mark key="." line="49" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/routes/web.php" timestamp="1587985158343">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1587985423444">
         <mark key="[" line="116" column="71" />
@@ -276,11 +276,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChmb3JtYXRfdG9fbm9rKCRyZWdpb25fcGVyaW9kLT50dXJub3ZlcikpOwoK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>dd</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</text>
