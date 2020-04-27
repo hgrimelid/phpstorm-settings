@@ -59,13 +59,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Clients/EstateClient.php" timestamp="1587986033034">
-        <mark key="[" line="22" column="98" />
-        <mark key="]" line="22" column="100" />
-        <mark key="." line="22" column="99" />
-        <mark key="^" line="22" column="100" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Clients/EstateClient.php" timestamp="1587987699066">
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="17" column="65" />
+        <mark key="^" line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1587985778889">
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1587988175715">
         <mark key="'" line="12" column="3" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -135,8 +135,16 @@
         <mark key="^" line="46" column="44" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/phpcs.xml" timestamp="1587986527045">
-        <mark key="[" line="21" column="23" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/phpcs.xml" timestamp="1587987432687">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/CompareCommissionsForAllEstates.php" timestamp="1587988315391">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Clients/HttpClient.php" timestamp="1587970882071">
         <mark key="[" line="20" column="33" />
@@ -144,17 +152,18 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Verification/PendingCommissionDownloader.php" timestamp="1587986453391">
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-        <mark key="." line="9" column="55" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Verification/PendingCommissionDownloader.php" timestamp="1587988181859">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/CompareCommissions.php" timestamp="1587985975017">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="83" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/CompareCommissions.php" timestamp="1587988474361">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="21" />
+        <mark key="^" line="52" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/CommissionsTableSeeder.php" timestamp="1587978654712">
         <mark key="'" line="15" column="0" />
@@ -165,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="8" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SyncSitesBuilder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/ImportDatabase.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreTeamRequest.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreTeamRequest.php" />
@@ -265,48 +273,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
       <jump line="86" column="45" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
       <jump line="12" column="3" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
+      <jump line="24" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/CompareCommissions.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="8">
+        <text>this
+this
+this</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVnaW9uIA==</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbWlzc2lvbjo6Y3JlYXRlKAogICAgICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgICAgICdzb2xkX2VzdGF0ZV9pZCcgPT4gJGVzdGF0ZS0+aWQsCiAgICAgICAgICAgICAgICAgICAgJ2FjY291bnQnID0+IDMwMTAsCiAgICAgICAgICAgICAgICAgICAgJ2NvbW1pc3Npb24nID0+IDVlNywgLy8gIDUwMGsgTk9LCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmVycm9yKCdDYWxjdWxhdGVkOiAnIC4gJGVzdGF0ZS0+Y29tbWlzc2lvbnNfdG90YWwpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>this
+this
+this</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29tbWlzc2lvbiA9IChuZXcgUGVuZGluZ0NvbW1pc3Npb25Eb3dubG9hZGVyKCkpCiAgICAgICAgICAgIC0+d2l0aEVzdGF0ZSgkZXN0YXRlKQogICAgICAgICAgICAtPndpdGhBY2NvdW50cyhjb25maWcoJ3dlYm1lZ2xlci5jb21taXNzaW9uX2FjY291bnRzLmJvbnVzX2ZvdW5kYXRpb25fYWNjb3VudHMnKSkKICAgICAgICAgICAgLT5kb3dubG9hZEFuZFNldERhdGEoKQogICAgICAgICAgICAtPmdldENvbW1pc3Npb24oKTsKCiAgICAgICAgaWYgKCRlc3RhdGUtPmNvbW1pc3Npb25zX3RvdGFsID09PSAkY29tbWlzc2lvbikgewogICAgICAgICAgICAkdGhpcy0+aW5mbygkZXN0YXRlLT5vcHBkcmFnc251bW1lciAuICc6IENhbGN1bGF0ZWQgY29tbWlzc2lvbiBjb3JyZXNwb25kcyB3aXRoIGRvd25sb2FkZWQgY29tbWlzc2lvbicpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICR0aGlzLT5lcnJvcigkZXN0YXRlLT5vcHBkcmFnc251bW1lcik7CiAgICAgICAgICAgICR0aGlzLT5lcnJvcignQ2FsY3VsYXRlZDogJyAuICRlc3RhdGUtPmNvbW1pc3Npb25zX3RvdGFsKTsKICAgICAgICAgICAgJHRoaXMtPmVycm9yKCdEb3dubG9hZGVkOiAnIC4gJGNvbW1pc3Npb24pOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIFNvbGRFc3RhdGUgKi8K</text>
+        <text encoding="base64">ICAgICAgICAkZXN0YXRlID0gU29sZEVzdGF0ZTo6d2hlcmVPcHBkcmFnc251bW1lcigkdGhpcy0+YXJndW1lbnQoJ29wcGRyYWdzbnVtbWVyJykpLT5maXJzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKiogQHZhciBhcnJheSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXN0YXRlcyA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIHN0cmluZyAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBjb21tYW5kIGluc3RhbmNlLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
