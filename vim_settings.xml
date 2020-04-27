@@ -59,6 +59,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1587993249062">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Clients/EstateClient.php" timestamp="1587987699066">
         <mark key="[" line="17" column="66" />
         <mark key="]" line="17" column="66" />
@@ -110,13 +113,6 @@
         <mark key="^" line="69" column="134" />
         <mark key="." line="68" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" timestamp="1587984564640">
-        <mark key="'" line="86" column="45" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="73" column="37" />
-        <mark key="^" line="73" column="37" />
-        <mark key="." line="73" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1587992503112">
         <mark key="[" line="36" column="16" />
         <mark key="]" line="36" column="17" />
@@ -167,9 +163,15 @@
         <mark key="." line="52" column="21" />
         <mark key="^" line="52" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet/phpcs.xml" timestamp="1587993324655">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="63" column="19" />
+        <mark key="^" line="63" column="19" />
+        <mark key="." line="63" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/DeleteCompressedSite.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncSourceBuilder.php" />
       <jump line="53" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Dns/DnsPropagationChecker.php" />
@@ -269,6 +271,7 @@
       <jump line="49" column="26" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/ControllerHelpers/Reports/ReportsControllerHelper.php" />
       <jump line="42" column="5" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/ControllerHelpers/Reports/ReportsControllerHelper.php" />
       <jump line="171" column="13" filename="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet/phpcs.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
