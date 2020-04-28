@@ -94,7 +94,7 @@
         <mark key="^" line="49" column="27" />
         <mark key="." line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/.github/workflows/tests.yml" timestamp="1588057616362" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/.github/workflows/tests.yml" timestamp="1588057664995" />
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Providers/AppServiceProvider.php" timestamp="1587992459625">
         <mark key="[" line="27" column="31" />
         <mark key="]" line="27" column="53" />
@@ -134,7 +134,7 @@
         <mark key="^" line="46" column="44" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/phpcs.xml" timestamp="1587990752700">
+      <file name="$USER_HOME$/Projects/laravel/reapistats/phpcs.xml" timestamp="1588058441261">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
