@@ -59,7 +59,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/.github/workflows/tests.yml" timestamp="1588057664995" />
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" timestamp="1588064854502">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="155" column="46" />
@@ -122,11 +121,10 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet/composer.json" timestamp="1587993969110">
-        <mark key="[" line="33" column="38" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="39" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/Auth/LoginController.php" timestamp="1588067300264">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/SyncSitesCommand.php" timestamp="1588066841820">
         <mark key="[" line="17" column="14" />
@@ -150,6 +148,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/Auth/ForgotPasswordController.php" timestamp="1588067310174">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/Auth/RegisterController.php" timestamp="1588067143482">
         <mark key="'" line="0" column="0" />
@@ -303,16 +306,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gYXJlU2V0dGluZ3NPaygpOiBib29sCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5hcmVCYXNlU2V0dGluZ3NPaygpICYmICR0aGlzLT5kb21haW47CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFVwZGF0ZSB0aGUgc3BlY2lmaWVkIHJlc291cmNlIGluIHN0b3JhZ2UuCiAgICAgKgogICAgICogQHBhcmFtICBcSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3QgICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gU2l0ZSAkc2l0ZQogICAgICogQHJldHVybiBSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlKFJlcXVlc3QgJHJlcXVlc3QsIFNpdGUgJHNpdGUpCiAgICB7CiAgICAgICAgLy8KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFJlbW92ZSB0aGUgc3BlY2lmaWVkIHJlc291cmNlIGZyb20gc3RvcmFnZS4KICAgICAqCiAgICAgKiBAcGFyYW0gU2l0ZSAkc2l0ZQogICAgICogQHJldHVybiBSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZGVzdHJveShTaXRlICRzaXRlKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gYXJlU2V0dGluZ3NPaygpOiBib29sCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5hcmVCYXNlU2V0dGluZ3NPaygpICYmICR0aGlzLT5kb21haW47CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFJlbW92ZSB0aGUgc3BlY2lmaWVkIHJlc291cmNlIGZyb20gc3RvcmFnZS4KICAgICAqCiAgICAgKiBAcGFyYW0gVGVhbSAkdGVhbQogICAgICogQHJldHVybiBSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZGVzdHJveShUZWFtICR0ZWFtKQogICAgewogICAgICAgIC8vCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFVwZGF0ZSB0aGUgc3BlY2lmaWVkIHJlc291cmNlIGluIHN0b3JhZ2UuCiAgICAgKgogICAgICogQHBhcmFtICBcSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3QgICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gU2l0ZSAkc2l0ZQogICAgICogQHJldHVybiBSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlKFJlcXVlc3QgJHJlcXVlc3QsIFNpdGUgJHNpdGUpCiAgICB7CiAgICAgICAgLy8KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
