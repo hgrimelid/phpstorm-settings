@@ -84,12 +84,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/View/Components/SubmitButton.php" timestamp="1588074435561">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1588078587508">
         <mark key="'" line="59" column="12" />
         <mark key="[" line="59" column="0" />
@@ -165,6 +159,7 @@
         <mark key="^" line="70" column="58" />
         <mark key="." line="70" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/realestate/.env" timestamp="1588092322508" />
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/servers/each.blade.php" timestamp="1588079077307">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="0" />
