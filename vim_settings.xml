@@ -150,11 +150,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="39" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Listeners/ProjectCreatedListener.php" timestamp="1588158883456">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="33" column="57" />
-        <mark key="." line="33" column="56" />
-        <mark key="^" line="33" column="57" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Listeners/ProjectCreatedListener.php" timestamp="1588158910209">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="25" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/factories/ServerFactory.php" timestamp="1588153573539">
         <mark key="[" line="19" column="9" />
