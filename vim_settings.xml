@@ -160,10 +160,6 @@
         <mark key="]" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/ProjectsTableSeeder.php" timestamp="1588151574771">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="46" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/migrations/2020_04_29_083312_create_sites_table.php" timestamp="1588158753850">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="19" column="0" />
@@ -177,6 +173,7 @@
         <mark key="^" line="21" column="66" />
         <mark key="." line="21" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/config/webmegler.php" timestamp="1588163125477" />
     </filemarks>
     <jumps>
       <jump line="17" column="20" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SoldEstatesImporter.php" />
