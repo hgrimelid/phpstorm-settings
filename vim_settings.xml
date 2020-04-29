@@ -116,7 +116,7 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1588168853120">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1588169166762">
         <mark key="'" line="86" column="21" />
         <mark key="[" line="94" column="44" />
         <mark key="]" line="94" column="51" />
@@ -173,7 +173,6 @@
       <file name="$USER_HOME$/Projects/laravel/reapistats/config/webmegler.php" timestamp="1588163125477" />
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" />
       <jump line="16" column="50" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/CommissionsImporterTest.php" />
       <jump line="39" column="73" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/CommissionsImporterTest.php" />
       <jump line="62" column="21" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SingleCommissionImporter.php" />
@@ -273,6 +272,7 @@
       <jump line="7" column="10" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="99" column="25" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="91" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
+      <jump line="86" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
