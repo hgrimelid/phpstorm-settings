@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
-        <entry encoding="base64">XDxudW1iZXJPZkRheXNUb0ltcG9ydEZvclw+</entry>
         <entry encoding="base64">XDxpbnRcPg==</entry>
         <entry encoding="base64">XDx3aXRoRGF0ZVw+</entry>
         <entry encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</entry>
@@ -24,7 +22,9 @@
         <entry encoding="base64">XDxwZXJpb2Rfbm9cPg==</entry>
         <entry encoding="base64">XDxieVRlcnRpYWxcPg==</entry>
         <entry encoding="base64">XDxyZWdpb25fcGVyaW9kXD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxyZWdpb25fcGVyaW9kX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxib251c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -72,30 +72,30 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="168" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1588539375590">
-        <mark key="'" line="104" column="20" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1588574285157">
+        <mark key="'" line="66" column="9" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="104" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1588453393732">
-        <mark key="'" line="111" column="28" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" timestamp="1588574324888">
+        <mark key="[" line="83" column="111" />
+        <mark key="]" line="85" column="32" />
+        <mark key="^" line="85" column="32" />
+        <mark key="." line="85" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" timestamp="1588539591412">
-        <mark key="'" line="68" column="52" />
-        <mark key="[" line="96" column="92" />
-        <mark key="]" line="96" column="93" />
-        <mark key="^" line="96" column="93" />
-        <mark key="." line="96" column="92" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/database/factories/SoldEstateFactory.php" timestamp="1588573343880">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/.env" timestamp="1588539929096">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/.env" timestamp="1588572835274">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/pages/region.blade.php" timestamp="1588527589879">
         <mark key="[" line="0" column="0" />
@@ -116,17 +116,19 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/ProjectController.php" timestamp="1588453398427">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="53" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Region.php" timestamp="1588531917304">
         <mark key="'" line="19" column="43" />
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/.env.github" timestamp="1588572854110">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1588540641343">
         <mark key="'" line="78" column="8" />
@@ -151,11 +153,11 @@
         <mark key="^" line="70" column="134" />
         <mark key="." line="69" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1588539517444">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1588573083037">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1588527734048">
         <mark key="[" line="0" column="0" />
@@ -176,12 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="10" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
-      <jump line="86" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/resources/js/app.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/resources/js/app.js" />
-      <jump line="73" column="33" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
-      <jump line="34" column="37" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/helpers.php" />
       <jump line="79" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="77" column="13" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="67" column="23" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
@@ -268,7 +264,6 @@
       <jump line="110" column="71" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
       <jump line="111" column="81" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
-      <jump line="19" column="19" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
       <jump line="63" column="4" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="105" column="20" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
       <jump line="103" column="4" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
@@ -276,48 +271,55 @@
       <jump line="53" column="57" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" />
       <jump line="48" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="78" column="8" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
+      <jump line="2" column="14" filename="$USER_HOME$/Projects/laravel/reapistats/.env.github" />
+      <jump line="50" column="58" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
+      <jump line="19" column="19" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" />
+      <jump line="90" column="22" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
+      <jump line="143" column="22" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
+      <jump line="45" column="25" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
+      <jump line="66" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUluKCdkZXBhcnRtZW50X2lkJywgJHRoaXMtPnJlZ2lvbi0+ZGVwYXJ0bWVudHMtPnBsdWNrKCdpZCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZChDb21taXNzaW9uOjp3aGVyZUluKCdzb2xkX2VzdGF0ZV9pZCcsIGNvbGxlY3QoJGVzdGF0ZXMpLT5wbHVjaygnaWQnKSktPmdldCgpLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>_testing</text>
+        <text encoding="base64">JGVzdGF0ZS0+aWQ=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpb25fcGVyaW9kX2RhdGFcPg==</text>
+        <text encoding="base64">XDxib251c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUluKCdkZXBhcnRtZW50X2lkJywgJHRoaXMtPnJlZ2lvbi0+ZGVwYXJ0bWVudHMtPnBsdWNrKCdpZCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZChDb21taXNzaW9uOjp3aGVyZUluKCdzb2xkX2VzdGF0ZV9pZCcsIGNvbGxlY3QoJGVzdGF0ZXMpLT5wbHVjaygnaWQnKSktPmdldCgpLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIERCOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChSZWdpb25QZXJpb2Q6OndoZXJlKCdyZWdpb25faWQnLCAkdGhpcy0+cmVnaW9uLT5pZCktPmdldCgpLT50b0FycmF5KCkpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVnaW9uLT5lc3RhdGVzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYXJyYXkgJHJlZ2lvbl9wZXJpb2RfZGF0YTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVnaW9uLT5lc3RhdGVzKTsK</text>
+        <text encoding="base64">dXNlIEFwcFxEZXBhcnRtZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVnaW9uX3BlcmlvZC0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUluKCdkZXBhcnRtZW50X2lkJywgJHRoaXMtPnJlZ2lvbi0+ZGVwYXJ0bWVudHMtPnBsdWNrKCdpZCcpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZXN0YXRlcyA9IFtdOwo=</text>
+        <text encoding="base64">dXNlIERCOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVnaW9uLT5lc3RhdGVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVnaW9uLT5lc3RhdGVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVnaW9uLT5zYXZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cmVnaW9uX3BlcmlvZC0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -326,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWdpb25fcGVyaW9kX2RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxib251c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpb25fcGVyaW9kX2RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxib251c1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
