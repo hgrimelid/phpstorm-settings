@@ -65,6 +65,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/realestate/config/firewall.php" timestamp="1588668292957">
+        <mark key="'" line="14" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1588584076762" />
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1588574285157">
         <mark key="'" line="66" column="9" />
@@ -144,13 +147,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/RegionPeriodsTableSeeder.php" timestamp="1588528202900">
-        <mark key="'" line="67" column="21" />
-        <mark key="[" line="81" column="35" />
-        <mark key="]" line="81" column="35" />
-        <mark key="." line="81" column="42" />
-        <mark key="^" line="25" column="43" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/composer.json" timestamp="1588576352080">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -172,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" />
       <jump line="50" column="17" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" />
       <jump line="61" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="52" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/helpers.php" />
@@ -272,6 +267,7 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.env" />
       <jump line="38" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/AddCorrectionCommand.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/.env" />
+      <jump line="14" column="8" filename="$USER_HOME$/Projects/laravel/realestate/config/firewall.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
