@@ -60,40 +60,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/CompanyController.php" timestamp="1588532623418">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" timestamp="1588576344737">
+        <mark key="]" line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/config/firewall.php" timestamp="1588668292957">
-        <mark key="'" line="14" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1588584076762" />
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1588574285157">
-        <mark key="'" line="66" column="9" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="104" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" timestamp="1588574324888">
-        <mark key="[" line="83" column="111" />
-        <mark key="]" line="85" column="32" />
-        <mark key="^" line="85" column="32" />
-        <mark key="." line="85" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/factories/SoldEstateFactory.php" timestamp="1588573343880">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/.env" timestamp="1588676034526">
+      <file name="$USER_HOME$/Projects/laravel/reapistats/.env" timestamp="1588677168967">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/CompanyController.php" timestamp="1588532623418">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1588576303989">
+        <mark key="'" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/realestate/config/firewall.php" timestamp="1588668292957">
+        <mark key="'" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/AddCorrectionCommand.php" timestamp="1588593704961">
         <mark key="'" line="39" column="9" />
@@ -101,6 +87,18 @@
         <mark key="]" line="52" column="53" />
         <mark key="." line="52" column="52" />
         <mark key="^" line="52" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1588589492518">
+        <mark key="'" line="81" column="8" />
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="19" />
+        <mark key="^" line="55" column="19" />
+        <mark key="." line="55" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/NoEstatesSeeder.php" timestamp="1588594522831">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" timestamp="1588578084243">
         <mark key="'" line="55" column="57" />
@@ -115,37 +113,19 @@
         <mark key="." line="28" column="14" />
         <mark key="^" line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1588574285157">
+        <mark key="'" line="66" column="9" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="104" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Region.php" timestamp="1588531917304">
         <mark key="'" line="19" column="43" />
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="28" />
         <mark key="^" line="31" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/.env.github" timestamp="1588572854110">
-        <mark key="'" line="2" column="14" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" timestamp="1588576344737">
-        <mark key="]" line="22" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1588576303989">
-        <mark key="'" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1588589492518">
-        <mark key="'" line="81" column="8" />
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="55" column="19" />
-        <mark key="^" line="55" column="19" />
-        <mark key="." line="55" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/NoEstatesSeeder.php" timestamp="1588594522831">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/composer.json" timestamp="1588576352080">
         <mark key="'" line="0" column="0" />
@@ -154,17 +134,36 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1588573083037">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="22" column="14" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/.env.github" timestamp="1588572854110">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/RegionPeriodTest.php" timestamp="1588574324888">
+        <mark key="[" line="83" column="111" />
+        <mark key="]" line="85" column="32" />
+        <mark key="^" line="85" column="32" />
+        <mark key="." line="85" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/GetDepartments.php" timestamp="1588588590367">
         <mark key="[" line="37" column="52" />
         <mark key="]" line="37" column="54" />
         <mark key="." line="37" column="53" />
         <mark key="^" line="37" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/database/factories/SoldEstateFactory.php" timestamp="1588573343880">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1588573083037">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="22" column="14" />
       </file>
     </filemarks>
     <jumps>
