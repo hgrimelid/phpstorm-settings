@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aXRoRGF0ZVw+</entry>
-        <entry encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</entry>
-        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
         <entry encoding="base64">XDxxdWFsaXR5XD4=</entry>
         <entry encoding="base64">XDxGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxzdGFnaW5nU2l0ZVdpdGhQcm9qZWN0QW5kU2VydmVyXD4=</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxyZWdpb25fcGVyaW9kX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxib251c1w+</entry>
         <entry encoding="base64">XDx0eXBlX2VpZW5kb21zdHlwZXJcPg==</entry>
+        <entry encoding="base64">XDxwaHBjc1w+</entry>
+        <entry encoding="base64">XDxleHRyYWN0X2JyYW5jaFw+</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -60,12 +60,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/.env" timestamp="1588677168967">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="3" column="11" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" timestamp="1588761717643">
+        <mark key="'" line="66" column="40" />
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/config/firewall.php" timestamp="1588668292957">
         <mark key="'" line="14" column="8" />
@@ -77,34 +76,11 @@
         <mark key="^" line="34" column="63" />
         <mark key="." line="34" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1588753233288">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1588589492518">
-        <mark key="'" line="81" column="8" />
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="55" column="19" />
-        <mark key="^" line="55" column="19" />
-        <mark key="." line="55" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/AddCorrectionCommand.php" timestamp="1588593704961">
-        <mark key="'" line="39" column="9" />
-        <mark key="[" line="52" column="33" />
-        <mark key="]" line="52" column="53" />
-        <mark key="." line="52" column="52" />
-        <mark key="^" line="52" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/NoEstatesSeeder.php" timestamp="1588594522831">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.phpcs" timestamp="1588760254759">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/woocommerce/checkout/form-pay.php" timestamp="1588677922532">
-        <mark key="[" line="72" column="21" />
-        <mark key="]" line="74" column="42" />
-        <mark key="^" line="74" column="42" />
-        <mark key="." line="74" column="41" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_product.scss" timestamp="1588679029400">
         <mark key="[" line="460" column="23" />
@@ -112,27 +88,24 @@
         <mark key="^" line="460" column="26" />
         <mark key="." line="460" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" timestamp="1588578084243">
-        <mark key="'" line="55" column="57" />
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="21" />
-        <mark key="." line="49" column="21" />
-        <mark key="^" line="49" column="41" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.php_cs" timestamp="1588760602597">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_cart.scss" timestamp="1588678256095">
-        <mark key="[" line="301" column="2" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/php-cs-fixer.yml" timestamp="1588761928489">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_fonts.scss" timestamp="1588753463935">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="57" column="12" />
         <mark key="]" line="57" column="12" />
         <mark key="." line="57" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/DeleteEstate.php" timestamp="1588590294990">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/webpack.mix.js" timestamp="1588753571573">
         <mark key="[" line="2" column="0" />
@@ -143,18 +116,38 @@
       <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_mega-menu.scss" timestamp="1588679022196">
         <mark key="[" line="112" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/composer.json" timestamp="1588576352080">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="42" column="6" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.gitignore" timestamp="1588761614747">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/GetDepartments.php" timestamp="1588588590367">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="54" />
-        <mark key="." line="37" column="53" />
-        <mark key="^" line="37" column="54" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/.env" timestamp="1588677168967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1588753233288">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/woocommerce/checkout/form-pay.php" timestamp="1588677922532">
+        <mark key="[" line="72" column="21" />
+        <mark key="]" line="74" column="42" />
+        <mark key="^" line="74" column="42" />
+        <mark key="." line="74" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1588761952274">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_cart.scss" timestamp="1588678256095">
+        <mark key="[" line="301" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -167,48 +160,56 @@
       <jump line="87" column="0" filename="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_fonts.scss" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_fonts.scss" />
       <jump line="67" column="0" filename="$USER_HOME$/Projects/Wordpress/akademiet/wp-content/themes/akademiet/app/assets/stylesheets/_fonts.scss" />
+      <jump line="66" column="40" filename="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" />
+      <jump line="29" column="52" filename="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/php-cs-fixer.yml" />
+      <jump line="21" column="14" filename="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/php-cs-fixer.yml" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" />
+      <jump line="6" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" />
+      <jump line="5" column="2" filename="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/php-cs-fixer.yml" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgIC0gbmFtZTogUnVuIFBocGluc2lnaHRzCiAgICAgICAgdXNlczogc3RlZmFuendlaWZlbC9sYXJhdmVsLXBocGluc2lnaHRzLWFjdGlvbkB2MS4xLjEKICAgICAgICB3aXRoOgogICAgICAgICAgYXJnczogLXYgLS1taW4tcXVhbGl0eT04MCAtLW1pbi1jb21wbGV4aXR5PTgwIC0tbWluLWFyY2hpdGVjdHVyZT04MCAtLW1pbi1zdHlsZT04MCAtLWRpc2FibGUtc2VjdXJpdHktY2hlY2sK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdHJcPg==</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAub3B0aW9ucyh7CiAgICBwcm9jZXNzQ3NzVXJsczogZmFsc2UKICB9KTsK</text>
+        <text encoding="base64">CiAgICAgIC0gbmFtZTogVXBsb2FkIGFydGlmYWN0cwogICAgICAgIHVzZXM6IGFjdGlvbnMvdXBsb2FkLWFydGlmYWN0QG1hc3RlcgogICAgICAgIGlmOiBmYWlsdXJlKCkKICAgICAgICB3aXRoOgogICAgICAgICAgbmFtZTogTG9ncwogICAgICAgICAgcGF0aDogLi9zdG9yYWdlL2xvZ3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5vcHRpb25zKHsKICAgICAgICBwcm9jZXNzQ3NzVXJsczogZmFsc2UKICAgIH0pCg==</text>
+        <text encoding="base64">CiAgICAgIC0gbmFtZTogUnVuIFBocGluc2lnaHRzCiAgICAgICAgdXNlczogc3RlZmFuendlaWZlbC9sYXJhdmVsLXBocGluc2lnaHRzLWFjdGlvbkB2MS4xLjEKICAgICAgICB3aXRoOgogICAgICAgICAgYXJnczogLXYgLS1taW4tcXVhbGl0eT04MCAtLW1pbi1jb21wbGV4aXR5PTgwIC0tbWluLWFyY2hpdGVjdHVyZT04MCAtLW1pbi1zdHlsZT04MCAtLWRpc2FibGUtc2VjdXJpdHktY2hlY2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">CiAgICAgIC0gbmFtZTogUnVuIFBocGluc2lnaHRzCiAgICAgICAgdXNlczogc3RlZmFuendlaWZlbC9sYXJhdmVsLXBocGluc2lnaHRzLWFjdGlvbkB2MS4xLjEKICAgICAgICB3aXRoOgogICAgICAgICAgYXJnczogLXYgLS1taW4tcXVhbGl0eT04MCAtLW1pbi1jb21wbGV4aXR5PTgwIC0tbWluLWFyY2hpdGVjdHVyZT04MCAtLW1pbi1zdHlsZT04MCAtLWRpc2FibGUtc2VjdXJpdHktY2hlY2sKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGNvbW1hbmQgaW5zdGFuY2UuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAic3F1aXpsYWJzL3BocF9jb2Rlc25pZmZlciI6ICIqIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXhpc3RpbmdfY291bnQpOwo=</text>
+        <text encoding="base64">ICAgIG5hbWU6IFJ1biB0ZXN0cwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBSdW4gUGhwaW5zaWdodHMKICAgICAgICB1c2VzOiBzdGVmYW56d2VpZmVsL2xhcmF2ZWwtcGhwaW5zaWdodHMtYWN0aW9uQHYxLjEuMQogICAgICAgIHdpdGg6CiAgICAgICAgICBhcmdzOiAtdiAtLW1pbi1xdWFsaXR5PTgwIC0tbWluLWNvbXBsZXhpdHk9ODAgLS1taW4tYXJjaGl0ZWN0dXJlPTgwIC0tbWluLXN0eWxlPTgwIC0tZGlzYWJsZS1zZWN1cml0eS1jaGVjawoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBSdW4gUGhwaW5zaWdodHMKICAgICAgICB1c2VzOiBzdGVmYW56d2VpZmVsL2xhcmF2ZWwtcGhwaW5zaWdodHMtYWN0aW9uQHYxLjEuMQogICAgICAgIHdpdGg6CiAgICAgICAgICBhcmdzOiAtdiAtLW1pbi1xdWFsaXR5PTgwIC0tbWluLWNvbXBsZXhpdHk9ODAgLS1taW4tYXJjaGl0ZWN0dXJlPTgwIC0tbWluLXN0eWxlPTgwIC0tZGlzYWJsZS1zZWN1cml0eS1jaGVjawoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBSdW4gUEhQIENvZGUgU25pZmZlciBQU1ItMTIgc3R5bGUgY2hlY2sKICAgICAgICB1c2VzOiBjaGVrYWxza3kvcGhwY3MtYWN0aW9uQHYxCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -217,9 +218,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTdHJcPg==</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdHJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
