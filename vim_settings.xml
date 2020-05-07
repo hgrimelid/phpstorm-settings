@@ -165,12 +165,10 @@
         <mark key="^" line="34" column="15" />
         <mark key="." line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588849831792">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588852333979">
         <mark key="'" line="39" column="5" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="58" column="48" />
+        <mark key="[" line="58" column="65" />
         <mark key="^" line="58" column="48" />
-        <mark key="." line="58" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Rules/GitRepoValidationRule.php" timestamp="1588835437910">
         <mark key="'" line="8" column="0" />
