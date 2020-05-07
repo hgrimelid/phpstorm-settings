@@ -66,15 +66,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/pingbot/database/factories/PlayerFactory.php" timestamp="1588770392960">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/CreateServerRequest.php" timestamp="1588839354617">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="52" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1588841785255">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/pingbot/app/Match.php" timestamp="1588771168214">
         <mark key="[" line="7" column="1" />
@@ -217,6 +214,7 @@
       <jump line="27" column="16" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateSiteTest.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateSiteTest.php" />
       <jump line="17" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateTeamTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
