@@ -126,6 +126,7 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/__snapshots__/FixPermissionsTest__it_can_fix_permissions__1.yml" timestamp="1588855010543" />
       <file name="$USER_HOME$/Projects/laravel/sitefleet/app/Rules/GitRepo.php" timestamp="1588835166914">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="110" />
@@ -158,12 +159,6 @@
         <mark key="]" line="42" column="5" />
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/View/Components/ProjectPackage.php" timestamp="1588832642446">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588853064417">
         <mark key="'" line="39" column="5" />
