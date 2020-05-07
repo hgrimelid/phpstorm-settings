@@ -64,6 +64,52 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="52" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" timestamp="1588855173159" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/.github/workflows/tests.yml" timestamp="1588846634216">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="70" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" timestamp="1588839267037">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/CreateProjectRequest.php" timestamp="1588839046437">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="34" column="14" />
+        <mark key="^" line="33" column="44" />
+        <mark key="." line="33" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1588846689821">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="70" column="61" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/BaseBuilder.php" timestamp="1588851142572">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/ActivatePlugins.php" timestamp="1588855844606">
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="10" column="88" />
+        <mark key="." line="10" column="87" />
+        <mark key="^" line="10" column="88" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Rules/GitRepoValidationRule.php" timestamp="1588835437910">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="23" column="68" />
+        <mark key="]" line="23" column="68" />
+        <mark key="." line="23" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/FixPermissions.php" timestamp="1588855645457">
+        <mark key="[" line="24" column="66" />
+        <mark key="]" line="24" column="66" />
+        <mark key="." line="24" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1588848008766">
         <mark key="'" line="39" column="14" />
         <mark key="[" line="17" column="17" />
@@ -77,33 +123,11 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/lang/en/custom-validation-messages.php" timestamp="1588835299080">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="43" />
-        <mark key="^" line="3" column="43" />
-        <mark key="." line="3" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/.github/workflows/tests.yml" timestamp="1588846634216">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="70" column="61" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/projects/form.blade.php" timestamp="1588838126949">
         <mark key="[" line="23" column="78" />
         <mark key="]" line="23" column="84" />
         <mark key="." line="23" column="83" />
         <mark key="^" line="23" column="84" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" timestamp="1588839267037">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="16" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/CreateProjectRequest.php" timestamp="1588839046437">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="34" column="14" />
-        <mark key="^" line="33" column="44" />
-        <mark key="." line="33" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateProjectTest.php" timestamp="1588839304679">
         <mark key="'" line="11" column="0" />
@@ -126,32 +150,13 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/__snapshots__/FixPermissionsTest__it_can_fix_permissions__1.yml" timestamp="1588855010543" />
-      <file name="$USER_HOME$/Projects/laravel/sitefleet/app/Rules/GitRepo.php" timestamp="1588835166914">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="110" />
-      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/__snapshots__/FixPermissionsTest__it_can_fix_permissions__1.yml" timestamp="1588855017603" />
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateSiteTest.php" timestamp="1588839405580">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="54" column="5" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="52" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1588846689821">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="70" column="61" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="/" timestamp="1588833790898">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/BaseBuilder.php" timestamp="1588851142572">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" timestamp="1588839241865">
         <mark key="'" line="37" column="22" />
@@ -160,17 +165,11 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588853064417">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588855053386">
         <mark key="'" line="39" column="5" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Rules/GitRepoValidationRule.php" timestamp="1588835437910">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="23" column="68" />
-        <mark key="]" line="23" column="68" />
-        <mark key="." line="23" column="68" />
       </file>
     </filemarks>
     <jumps>
@@ -219,11 +218,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJ1aWxkZXItPnByb2Nlc3MtPm91dHB1dAo=</text>
+      <register name="&quot;" type="4">
+        <text>|| exit 0</text>
       </register>
       <register name="-" type="4">
-        <text>sync</text>
+        <text>|| exit 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
