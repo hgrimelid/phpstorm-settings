@@ -166,12 +166,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="27" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588943846151">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588944811439">
         <mark key="'" line="41" column="5" />
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="33" />
-        <mark key="^" line="39" column="34" />
+        <mark key="[" line="46" column="64" />
+        <mark key="]" line="46" column="90" />
+        <mark key="." line="46" column="89" />
+        <mark key="^" line="46" column="90" />
       </file>
     </filemarks>
     <jumps>
