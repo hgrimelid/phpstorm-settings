@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWFsaXR5XD4=</entry>
-        <entry encoding="base64">XDxGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxzdGFnaW5nU2l0ZVdpdGhQcm9qZWN0QW5kU2VydmVyXD4=</entry>
         <entry encoding="base64">XDxzZXRTdGFnaW5nRG9tYWluXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
@@ -25,14 +23,16 @@
         <entry encoding="base64">XDxleHRyYWN0X2JyYW5jaFw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxzaG91bGRfYWN0aXZhdGVfcGx1Z2luc1w+</entry>
+        <entry encoding="base64">XDxzaG91bGRfc2V0X2RlZmF1bHRfb3B0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
         <entry>w</entry>
         <entry>redo</entry>
         <entry>action GotoAction</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -64,8 +64,8 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" timestamp="1588923318720">
-        <mark key="'" line="79" column="20" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" timestamp="1588926626005">
+        <mark key="'" line="23" column="18" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="52" />
@@ -88,10 +88,11 @@
         <mark key="^" line="33" column="44" />
         <mark key="." line="33" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/UpdateWordpressOption.php" timestamp="1588922726389">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/UpdateWordpressOption.php" timestamp="1588927637697">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1588846689821">
         <mark key="'" line="0" column="0" />
@@ -172,12 +173,12 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588925335391">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588926133546">
         <mark key="'" line="39" column="5" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="72" column="34" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="28" />
+        <mark key="^" line="64" column="28" />
+        <mark key="." line="64" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -226,59 +227,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
       <jump line="125" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
       <jump line="115" column="20" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
+      <jump line="105" column="15" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
+      <jump line="22" column="18" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
+      <jump line="23" column="18" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0eXBlXD4=</text>
+        <text encoding="base64">XDxzaG91bGRfc2V0X2RlZmF1bHRfb3B0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYnVpbGRlci0+ZXhlY3V0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hY3RpdmF0ZVBsdWdpbnMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcGVybV9idWlsZGVyLT5wcm9jZXNzLT5pc1Rlcm1pbmF0ZWQoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maXhQZXJtaXNzaW9ucygpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcGVybV9idWlsZGVyLT5wcm9jZXNzLT5pc1Rlcm1pbmF0ZWQoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5maXhQZXJtaXNzaW9ucygpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgpOwoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX3NldF9kZWZhdWx0X29wdGlvbnMgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgpOwoKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2FjdGl2YXRlX3BsdWdpbnMgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX3NldF9kZWZhdWx0X29wdGlvbnMgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2ZpeF9wZXJtaXNzaW9ucyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2FjdGl2YXRlX3BsdWdpbnMgPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2NyZWF0ZV9zaXRlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2ZpeF9wZXJtaXNzaW9ucyA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
+      <last-search encoding="base64">XDxzaG91bGRfc2V0X2RlZmF1bHRfb3B0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaG91bGRfc2V0X2RlZmF1bHRfb3B0aW9uc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
