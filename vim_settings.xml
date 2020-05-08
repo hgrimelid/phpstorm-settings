@@ -68,12 +68,12 @@
         <mark key="^" line="39" column="20" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" timestamp="1588939302371">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" timestamp="1588943802831">
+        <mark key="'" line="25" column="20" />
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
         <mark key="^" line="23" column="52" />
-        <mark key="." line="24" column="0" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" timestamp="1588923569174">
         <mark key="'" line="115" column="20" />
@@ -126,17 +126,17 @@
         <mark key="." line="24" column="75" />
         <mark key="^" line="20" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/CheckoutRepo.php" timestamp="1588848664339">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="8" column="47" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Scripts/CreateScript.php" timestamp="1588942209962">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="47" />
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/lott2015/wp-content/themes/lott15/views/footer.twig" timestamp="1588944375787">
+        <mark key="[" line="20" column="159" />
+        <mark key="]" line="20" column="163" />
+        <mark key="." line="20" column="162" />
+        <mark key="^" line="20" column="163" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/ScriptBuilder/__snapshots__/SiteCreateBuilderTest__it_can_create_site__1.yml" timestamp="1588930281268">
         <mark key="[" line="14" column="2" />
@@ -166,12 +166,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="27" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588942958947">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1588943846151">
         <mark key="'" line="41" column="5" />
-        <mark key="[" line="83" column="29" />
-        <mark key="]" line="83" column="32" />
-        <mark key="." line="83" column="31" />
-        <mark key="^" line="83" column="32" />
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="33" />
+        <mark key="^" line="39" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -229,15 +229,16 @@
       <jump line="67" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
       <jump line="11" column="62" filename="$USER_HOME$/Projects/laravel/sitefleet2/config/sitefleet.php" />
       <jump line="40" column="19" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Scripts/UploadAndRunScript.php" />
+      <jump line="25" column="20" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>upload</text>
+        <text>mailto</text>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>mailto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsaXplQ29tbWFuZHNcPg==</text>
@@ -246,31 +247,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoJHVwbG9hZC0+aXNTdWNjZXNzZnVsKCkpIHsKICAgICAgICAgICAgbG9nZ2VyKCdTY3JpcHQgdXBsb2FkZWQ6ICcgLiAkdGhpcy0+c2l0ZS0+ZG9tYWluKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsb2dnZXIoJ0NvdWxkIG5vdCB1cGxvYWQgc2NyaXB0OiAnIC4gJHRoaXMtPnNpdGUtPmRvbWFpbik7CiAgICAgICAgICAgIGxvZ2dlcigpLT5lcnJvcigkdXBsb2FkLT5nZXRFcnJvck91dHB1dCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcGVybV9idWlsZGVyID0gKG5ldyBTaXRlQ3JlYXRlQnVpbGRlcigpKQogICAgICAgICAgICAtPndpdGhDb25uZWN0aW9uKGNvbmZpZygnc2l0ZWZsZWV0LmRlZmF1bHRfc3NoX3VzZXInKSwgJHRoaXMtPnNpdGUtPnNlcnZlci0+aXApCiAgICAgICAgICAgIC0+d2l0aERvbWFpbigkdGhpcy0+c2l0ZS0+ZG9tYWluKQogICAgICAgICAgICAtPmZpeFBlcm1pc3Npb25zKCk7CgogICAgICAgICRwZXJtX2J1aWxkZXItPmV4ZWN1dGUoKTsKCiAgICAgICAgaWYgKCRwZXJtX2J1aWxkZXItPnByb2Nlc3MtPmlzU3VjY2Vzc2Z1bCgpKSB7CiAgICAgICAgICAgIGxvZ2dlcignUGVybWlzc2lvbnMgZml4ZWQ6ICcgLiAkdGhpcy0+c2l0ZS0+ZG9tYWluKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsb2dnZXIoJ0ZhaWxlZCBmaXggcGVybWlzc2lvbnM6ICcgLiAkdGhpcy0+c2l0ZS0+ZG9tYWluKTsKICAgICAgICAgICAgbG9nZ2VyKCktPmVycm9yKCRwZXJtX2J1aWxkZXItPnByb2Nlc3MtPmdldEVycm9yT3V0cHV0KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoQ29ubmVjdGlvbihjb25maWcoJ3NpdGVmbGVldC5kZWZhdWx0X3NzaF91c2VyJyksICR0aGlzLT5zaXRlLT5zZXJ2ZXItPmlwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKCiAgICAgICAgcmV0dXJuOwogICAgICAgICRidWlsZGVyLT5leGVjdXRlKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkcGVybV9idWlsZGVyID0gKG5ldyBTaXRlQ3JlYXRlQnVpbGRlcigpKQogICAgICAgICAgICAtPndpdGhDb25uZWN0aW9uKGNvbmZpZygnc2l0ZWZsZWV0LmRlZmF1bHRfc3NoX3VzZXInKSwgJHRoaXMtPnNpdGUtPnNlcnZlci0+aXApCiAgICAgICAgICAgIC0+d2l0aERvbWFpbigkdGhpcy0+c2l0ZS0+ZG9tYWluKQogICAgICAgICAgICAtPmZpeFBlcm1pc3Npb25zKCk7CgogICAgICAgICRwZXJtX2J1aWxkZXItPmV4ZWN1dGUoKTsKCiAgICAgICAgaWYgKCRwZXJtX2J1aWxkZXItPnByb2Nlc3MtPmlzU3VjY2Vzc2Z1bCgpKSB7CiAgICAgICAgICAgIGxvZ2dlcignUGVybWlzc2lvbnMgZml4ZWQ6ICcgLiAkdGhpcy0+c2l0ZS0+ZG9tYWluKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsb2dnZXIoJ0ZhaWxlZCBmaXggcGVybWlzc2lvbnM6ICcgLiAkdGhpcy0+c2l0ZS0+ZG9tYWluKTsKICAgICAgICAgICAgbG9nZ2VyKCktPmVycm9yKCRwZXJtX2J1aWxkZXItPnByb2Nlc3MtPmdldEVycm9yT3V0cHV0KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT51cGxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAKCiAgICAgICAgcmV0dXJuOwogICAgICAgICRidWlsZGVyLT5leGVjdXRlKCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZDUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT51cGxvYWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtZDUoKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIoJGNvbW1hbmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtZDUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJGNvbW1hbmQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxTdXBwb3J0XENvbW1hbmRzXFNjcmlwdEJ1aWxkZXJcQmFzZUJ1aWxkZXI7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
