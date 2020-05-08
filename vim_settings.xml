@@ -83,11 +83,11 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/UpdateWordpressOption.php" timestamp="1588929565420">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
-        <mark key="^" line="10" column="57" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/UpdateWordpressOption.php" timestamp="1588930209915">
+        <mark key="[" line="19" column="82" />
+        <mark key="]" line="19" column="83" />
+        <mark key="." line="19" column="82" />
+        <mark key="^" line="19" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1588846689821">
         <mark key="'" line="0" column="0" />
@@ -126,7 +126,7 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/ScriptBuilder/__snapshots__/SiteCreateBuilderTest__it_can_create_site__1.yml" timestamp="1588929392966">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/ScriptBuilder/__snapshots__/SiteCreateBuilderTest__it_can_create_site__1.yml" timestamp="1588930281268">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="14" column="685" />
       </file>
@@ -234,10 +234,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC4gJ1wnXCcn</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gJ1wnXCcn</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG91bGRfc2V0X2RlZmF1bHRfb3B0aW9uc1w+</text>
@@ -246,31 +246,31 @@
         <text encoding="base64">d3Agb3B0aW9uIHVwZGF0ZSBydF93cF9uZ2lueF9oZWxwZXJfb3B0aW9ucyB7ImVuYWJsZV9wdXJnZSI6IjEiLCJjYWNoZV9tZXRob2QiOiJlbmFibGVfZmFzdGNnaSIsInB1cmdlX21ldGhvZCI6ImdldF9yZXF1ZXN0IiwiZW5hYmxlX21hcCI6IiIsImVuYWJsZV9sb2ciOiIiLCJsb2dfbGV2ZWwiOiJJTkZPIiwibG9nX2ZpbGVzaXplIjoiNSIsImVuYWJsZV9zdGFtcCI6IiIsInB1cmdlX2hvbWVwYWdlX29uX2VkaXQiOiIxIiwicHVyZ2VfaG9tZXBhZ2Vfb25fZGVsIjoiMSIsInB1cmdlX2FyY2hpdmVfb25fZWRpdCI6IjEiLCJwdXJnZV9hcmNoaXZlX29uX2RlbCI6IjEiLCJwdXJnZV9hcmNoaXZlX29uX25ld19jb21tZW50IjoiIiwicHVyZ2VfYXJjaGl2ZV9vbl9kZWxldGVkX2NvbW1lbnQiOiIiLCJwdXJnZV9wYWdlX29uX21vZCI6IjEiLCJwdXJnZV9wYWdlX29uX25ld19jb21tZW50IjoiMSIsInB1cmdlX3BhZ2Vfb25fZGVsZXRlZF9jb21tZW50IjoiMSIsInJlZGlzX2hvc3RuYW1lIjoiMTI3LjAuMC4xIiwicmVkaXNfcG9ydCI6IjYzNzkiLCJyZWRpc19wcmVmaXgiOiJuZ2lueC1jYWNoZSA9PiIsInB1cmdlX3VybCI6IiIsInJlZGlzX2VuYWJsZWRfYnlfY29uc3RhbnQiOiIwIn0gLS1mb3JtYXQ9anNvbiAtLXBhdGg9L3Zhci93d3cvbXl0ZXN0c2l0ZS50ZXN0L2h0ZG9jcyAtLWFsbG93LXJvb3Q=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hY3RpdmF0ZVBsdWdpbnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHZhbHVlID0gIickdmFsdWUnIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndwIG9wdGlvbiB1cGRhdGUgJHtrZXl9ICR7dmFsdWV9IC0tZm9ybWF0PSR7Zm9ybWF0fSAiIC4KICAgICAgICAgICAgIi0tcGF0aD0ke3NpdGVfZGlyfSAtLWFsbG93LXJvb3QiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcGVybV9idWlsZGVyLT5wcm9jZXNzLT5pc1Rlcm1pbmF0ZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHZhbHVlID0gIiciIC4gJHZhbHVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maXhQZXJtaXNzaW9ucygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hY3RpdmF0ZVBsdWdpbnMoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgpOwoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkcGVybV9idWlsZGVyLT5wcm9jZXNzLT5pc1Rlcm1pbmF0ZWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX3NldF9kZWZhdWx0X29wdGlvbnMgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5maXhQZXJtaXNzaW9ucygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2FjdGl2YXRlX3BsdWdpbnMgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2ZpeF9wZXJtaXNzaW9ucyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgpOwoKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
