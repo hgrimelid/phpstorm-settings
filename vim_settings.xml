@@ -33,6 +33,7 @@
         <entry>action GotoAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -82,17 +83,11 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/CreateProjectRequest.php" timestamp="1588839046437">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="34" column="14" />
-        <mark key="^" line="33" column="44" />
-        <mark key="." line="33" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/UpdateWordpressOption.php" timestamp="1588927637697">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="10" column="49" />
-        <mark key="." line="10" column="49" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/UpdateWordpressOption.php" timestamp="1588929565420">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="10" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1588846689821">
         <mark key="'" line="0" column="0" />
@@ -130,6 +125,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="8" column="47" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/ScriptBuilder/__snapshots__/SiteCreateBuilderTest__it_can_create_site__1.yml" timestamp="1588929392966">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="685" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/SearchReplace.php" timestamp="1588922250055">
         <mark key="[" line="6" column="67" />
@@ -235,16 +234,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IC4gJ1wnXCcn</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IC4gJ1wnXCcn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG91bGRfc2V0X2RlZmF1bHRfb3B0aW9uc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkYnVpbGRlci0+ZXhlY3V0ZSgpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">d3Agb3B0aW9uIHVwZGF0ZSBydF93cF9uZ2lueF9oZWxwZXJfb3B0aW9ucyB7ImVuYWJsZV9wdXJnZSI6IjEiLCJjYWNoZV9tZXRob2QiOiJlbmFibGVfZmFzdGNnaSIsInB1cmdlX21ldGhvZCI6ImdldF9yZXF1ZXN0IiwiZW5hYmxlX21hcCI6IiIsImVuYWJsZV9sb2ciOiIiLCJsb2dfbGV2ZWwiOiJJTkZPIiwibG9nX2ZpbGVzaXplIjoiNSIsImVuYWJsZV9zdGFtcCI6IiIsInB1cmdlX2hvbWVwYWdlX29uX2VkaXQiOiIxIiwicHVyZ2VfaG9tZXBhZ2Vfb25fZGVsIjoiMSIsInB1cmdlX2FyY2hpdmVfb25fZWRpdCI6IjEiLCJwdXJnZV9hcmNoaXZlX29uX2RlbCI6IjEiLCJwdXJnZV9hcmNoaXZlX29uX25ld19jb21tZW50IjoiIiwicHVyZ2VfYXJjaGl2ZV9vbl9kZWxldGVkX2NvbW1lbnQiOiIiLCJwdXJnZV9wYWdlX29uX21vZCI6IjEiLCJwdXJnZV9wYWdlX29uX25ld19jb21tZW50IjoiMSIsInB1cmdlX3BhZ2Vfb25fZGVsZXRlZF9jb21tZW50IjoiMSIsInJlZGlzX2hvc3RuYW1lIjoiMTI3LjAuMC4xIiwicmVkaXNfcG9ydCI6IjYzNzkiLCJyZWRpc19wcmVmaXgiOiJuZ2lueC1jYWNoZSA9PiIsInB1cmdlX3VybCI6IiIsInJlZGlzX2VuYWJsZWRfYnlfY29uc3RhbnQiOiIwIn0gLS1mb3JtYXQ9anNvbiAtLXBhdGg9L3Zhci93d3cvbXl0ZXN0c2l0ZS50ZXN0L2h0ZG9jcyAtLWFsbG93LXJvb3Q=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5hY3RpdmF0ZVBsdWdpbnMoKQo=</text>
@@ -274,7 +273,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2hvdWxkX2ZpeF9wZXJtaXNzaW9ucyA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>e</text>
       </register>
     </registers>
   </component>
