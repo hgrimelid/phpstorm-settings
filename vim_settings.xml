@@ -108,11 +108,11 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/DetachRepo.php" timestamp="1589144171223">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="58" />
-        <mark key="." line="10" column="57" />
-        <mark key="^" line="10" column="58" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/DetachRepo.php" timestamp="1589173176051">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/CreateUploads.php" timestamp="1589141619174">
         <mark key="[" line="8" column="0" />
@@ -241,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBKb2luIGFuZCBhZGQgbGluZSBicmVha3MsIGJ1dCBmaXJzdCwgYWRkIGVtcHR5IGFycmF5IHRvIGFkZAogICAgICAgIC8vIGEgbGluZSBicmVhayBmb3IgdGhlIHZlcnkgbGFzdCBjb21tYW5kLCB0byBlbnN1cmUgaXQncyBydW4uCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5jb25jYXQoWycnXSk=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</text>
