@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc19hdmFpbGFibGVfZm9yX25ld19zaXRlc1w+</entry>
         <entry encoding="base64">XDx0b2RheVw+</entry>
         <entry encoding="base64">XDxnZXRSZWdpb25QZXJpb2RcPg==</entry>
         <entry encoding="base64">XDxkZXBhcnRtZW50c1w+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpbml0aWFsaXplQ29tbWFuZHNcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</entry>
+        <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -74,23 +74,20 @@
         <mark key="." line="65" column="68" />
         <mark key="^" line="65" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/CreateSiteTest.php" timestamp="1589181003248">
-        <mark key="[" line="17" column="67" />
-        <mark key="]" line="17" column="83" />
-        <mark key="." line="17" column="82" />
-        <mark key="^" line="17" column="83" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/CreateSiteTest.php" timestamp="1589181096331">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="52" />
+        <mark key="^" line="13" column="53" />
+      </file>
+      <file name="/" timestamp="1589185335018">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Site/DetachRepoTest.php" timestamp="1589142329902">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="11" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/lang/en/models.php" timestamp="1589106094313">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/CheckoutRepoTest.php" timestamp="1589142312180">
         <mark key="[" line="6" column="0" />
@@ -158,8 +155,8 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1589180956973">
-        <mark key="'" line="46" column="43" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1589181010878">
+        <mark key="'" line="49" column="9" />
         <mark key="[" line="44" column="19" />
         <mark key="]" line="44" column="41" />
         <mark key="." line="61" column="19" />
@@ -242,48 +239,49 @@
       <jump line="76" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Server.php" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/helpers.php" />
       <jump line="16" column="35" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Site/NginxHelperPurgeTest.php" />
+      <jump line="49" column="9" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPnNpdGUtPnNlcnZlci0+aXA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnNpdGUtPnNlcnZlci0+aXA=</text>
+        <text>initializeCommands()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</text>
+        <text encoding="base64">XDxidWlsZGVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>get_wo_site_create_args</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB1bml0IHRlc3QgZXhhbXBsZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RFeGFtcGxlKCkKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29tbWFuZHMgPSAkYnVpbGRlci0+Y29tbWFuZHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWFuZHMgPSBbCiAgICAgICAgICAgICJjaG93biAtUiBkZXBsb3k6d3d3LWRhdGEgJHtzaXRlX2Rpcn0iLAogICAgICAgICAgICAiZmluZCAke3NpdGVfZGlyfSAtdHlwZSBkIC1leGVjIGNobW9kIDI3NTUge30gKyIsCiAgICAgICAgICAgICJmaW5kICR7c2l0ZV9kaXJ9IC10eXBlIGYgLWV4ZWMgY2htb2QgMDY0NCB7fSArIiwKICAgICAgICBdOwoK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB1bml0IHRlc3QgZXhhbXBsZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RFeGFtcGxlKCkKICAgIHsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY3VzdG9tX3Blcm1zID0gIiR7c2l0ZV9kaXJ9Ly4uL2NvbmYvcGVybWlzc2lvbnMuc2giOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIltbIC1mICR7Y3VzdG9tX3Blcm1zfSBdXSAmJiAvYmluL2Jhc2ggJHtjdXN0b21fcGVybXN9IHx8IGV4aXQgMCIsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkY29tbWFuZHMgPSBbCiAgICAgICAgICAgICJjaG93biAtUiBkZXBsb3k6d3d3LWRhdGEgJHtzaXRlX2Rpcn0iLAogICAgICAgICAgICAiZmluZCAke3NpdGVfZGlyfSAtdHlwZSBkIC1leGVjIGNobW9kIDI3NTUge30gKyIsCiAgICAgICAgICAgICJmaW5kICR7c2l0ZV9kaXJ9IC10eXBlIGYgLWV4ZWMgY2htb2QgMDY0NCB7fSArIiwKICAgICAgICBdOwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbW1hbmRzW10gPSAkZGlyOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY3VzdG9tX3Blcm1zID0gIiR7c2l0ZV9kaXJ9Ly4uL2NvbmYvcGVybWlzc2lvbnMuc2giOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -292,9 +290,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</last-search>
+      <last-search encoding="base64">XDxidWlsZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZGVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
