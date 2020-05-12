@@ -134,11 +134,6 @@
         <mark key="." line="12" column="66" />
         <mark key="^" line="12" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SyncSitesBuilder.php" timestamp="1589287436112">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1589286850747">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="72" column="132" />
