@@ -71,11 +71,11 @@
       <file name="/a.dummy" timestamp="1589202072579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/AddUsers.php" timestamp="1589258552135">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="33" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/AddUsers.php" timestamp="1589265512999">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1589201068343">
         <mark key="'" line="128" column="28" />
@@ -88,16 +88,16 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="92" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/ProjectController.php" timestamp="1589266147442">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="49" column="18" />
+        <mark key="." line="49" column="17" />
+        <mark key="^" line="49" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/RemoveUserFromTeamController.php" timestamp="1589197222774">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/AddUserToTeamController.php" timestamp="1589191363669">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="38" />
-        <mark key="^" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/RemoveUserFromTeamControllerTest.php" timestamp="1589197777995">
         <mark key="'" line="13" column="0" />
@@ -112,6 +112,12 @@
         <mark key="]" line="81" column="28" />
         <mark key="." line="81" column="27" />
         <mark key="^" line="81" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1589264832411">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="74" column="22" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" timestamp="1589258378550">
         <mark key="[" line="78" column="0" />
@@ -151,7 +157,7 @@
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589198755695">
+      <file name="/Dummy.txt" timestamp="1589266197023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateSiteTest.php" timestamp="1589196912261">
@@ -165,13 +171,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="12" column="52" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/teams/edit.blade.php" timestamp="1589191283660">
-        <mark key="'" line="36" column="17" />
-        <mark key="[" line="43" column="108" />
-        <mark key="]" line="43" column="148" />
-        <mark key="." line="43" column="147" />
-        <mark key="^" line="43" column="148" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1589202469659">
         <mark key="'" line="49" column="9" />
@@ -287,43 +286,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'Auth\LoginController@logout'</text>
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>'Auth\LoginController@logout'</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG91bGRfaW1wb3J0X3VzZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpwb3N0KCdsb2dpbicsIFtMb2dpbkNvbnRyb2xsZXI6OmNsYXNzLCAnbG9naW4nXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2VydmVyID0gU2VydmVyCiAgICAgICAgICAgIDo6cXVlcnkoKQogICAgICAgICAgICAtPndoZXJlKCd0eXBlJywgU2VydmVyVHlwZUVudW06OlNUQUdJTkcoKSkKICAgICAgICAgICAgLT53aGVyZSgnaXNfYXZhaWxhYmxlX2Zvcl9uZXdfc2l0ZXMnLCB0cnVlKQogICAgICAgICAgICAtPmZpcnN0KCk7Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">JHRoaXMtPgokdGhpcy0+CiR0aGlzLT4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">JHRoaXMtPgokdGhpcy0+CiR0aGlzLT4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRlYW0gPSBhdXRoKCktPnVzZXIoKS0+dGVhbXMtPmZpcnN0KCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Um91dGU6Omdyb3VwKFsnbmFtZXNwYWNlJyA9PiAnQWRtaW4nXSwgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QXV0aDo6cm91dGVzKFsncmVnaXN0ZXInID0+IGZhbHNlXSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpwb3N0KCdsb2dvdXQnLCAnQXV0aFxMb2dpbkNvbnRyb2xsZXJAbG9nb3V0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy8nLCAnQXV0aFxMb2dpbkNvbnRyb2xsZXJAc2hvd0xvZ2luRm9ybScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvamVjdAogICAgICAgICAgICAtPnRlYW0oKQogICAgICAgICAgICAtPmFzc29jaWF0ZSgkdGVhbSkKICAgICAgICAgICAgLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcnMgPSBuZXcgQ29sbGVjdGlvbigpOwogICAgICAgICR1c2VycyA9IFsKICAgICAgICAgICAgZmFjdG9yeSgpCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ215dXNlcm5hbWUnLAogICAgICAgICAgICAgICAgJ2VtYWlsJyA9PiAndGVzdEB1c2VyLmNvbScsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ215dXNlcm5hbWUyJywKICAgICAgICAgICAgICAgICdlbWFpbCcgPT4gJ3Rlc3QyQHVzZXIuY29tJywKICAgICAgICAgICAgXSwKICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGVhbSA9IGF1dGgoKS0+dXNlcigpLT50ZWFtOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUlzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
