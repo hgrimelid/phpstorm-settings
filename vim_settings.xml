@@ -129,11 +129,11 @@
         <mark key="." line="7" column="60" />
         <mark key="^" line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1589355904324">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1589357080443">
         <mark key="'" line="3" column="8" />
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="18" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
         <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Scripts/CreateScript.php" timestamp="1589275460904">
@@ -280,11 +280,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIFNpdGUgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>mailgun</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>mailgun</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlbmFtZVw+</text>
