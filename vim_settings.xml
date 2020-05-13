@@ -148,12 +148,12 @@
         <mark key="^" line="5" column="61" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/helpers.php" timestamp="1589354113595">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="81" column="35" />
-        <mark key="]" line="81" column="29" />
-        <mark key="." line="81" column="28" />
-        <mark key="^" line="81" column="29" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/helpers.php" timestamp="1589354358141">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="98" column="57" />
+        <mark key="]" line="98" column="50" />
+        <mark key="." line="98" column="49" />
+        <mark key="^" line="98" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Recipes/CreateUploadRun.php" timestamp="1589279558223">
         <mark key="[" line="9" column="0" />
@@ -167,18 +167,15 @@
         <mark key="^" line="108" column="60" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1589280728308">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="51" column="74" />
-        <mark key="]" line="51" column="76" />
-        <mark key="." line="51" column="75" />
-        <mark key="^" line="51" column="76" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1589354790164">
+        <mark key="'" line="64" column="20" />
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="64" column="71" />
+        <mark key="." line="64" column="70" />
+        <mark key="^" line="64" column="71" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
-      <jump line="33" column="22" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateProjectTest.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateProjectTest.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateProjectTest.php" />
       <jump line="27" column="16" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/CreateSiteTest.php" />
@@ -276,6 +273,9 @@
       <jump line="3" column="8" filename="$USER_HOME$/Projects/laravel/sitefleet2/.env" />
       <jump line="40" column="47" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreatedSiteMail.php" />
       <jump line="71" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/helpers.php" />
+      <jump line="58" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
+      <jump line="64" column="20" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
