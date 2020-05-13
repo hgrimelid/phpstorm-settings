@@ -88,11 +88,11 @@
         <mark key="." line="4" column="97" />
         <mark key="^" line="4" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/app/Helpers/Finn/Importer.php" timestamp="1589371404426">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="57" />
-        <mark key="^" line="17" column="57" />
-        <mark key="." line="17" column="56" />
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Helpers/Finn/Importer.php" timestamp="1589371574660">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="19" column="57" />
+        <mark key="^" line="19" column="57" />
+        <mark key="." line="19" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreateSiteSuccessMail.php" timestamp="1589366124310">
         <mark key="'" line="11" column="0" />
@@ -101,10 +101,10 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/app/Helpers/Finn/StatisticsClient.php" timestamp="1589371392544">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Helpers/Finn/StatisticsClient.php" timestamp="1589371538624">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/app/helpers.php" timestamp="1589371504745">
         <mark key="'" line="122" column="0" />
@@ -284,7 +284,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKHByaW50X3IoJHRoaXMtPmRhdGEsIHRydWUpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>string</text>
@@ -296,31 +296,31 @@
         <text encoding="base64">PHA+CiAgICB7eyBfXygnbWFpbHMuc2l0ZS5jcmVhdGVkLmZhaWxlZC5uYW1lJywgWyduYW1lJyA9PiAkbmFtZV0pIH19CjwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKHByaW50X3IoJHRoaXMtPmRhdGEsIHRydWUpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISB1cmxfZW5kc19pbl9udW1iZXIoJHN0YXRzVXJsKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgJHVybDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISB1cmxfZW5kc19pbl9udW1iZXIoJHN0YXRzVXJsKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXJsID0gJ2h0dHBzOi8vJyAuICRzaXRlLT5kb21haW47Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgJHVybDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHA+CiAgICB7ISEgIF9fKCdtYWlscy5zaXRlLmNyZWF0ZWQudXJsJywgWyd1cmwnID0+ICR1cmxdKSAhIX0KPC9wPgo8cD4KICAgIHshISAgX18oJ21haWxzLnNpdGUuY3JlYXRlZC5hZG1pbl91cmwnLCBbJ3VybCcgPT4gJGFkbWluX3VybF0pICEhfQo8L3A+CjxwPgogICAgeyEhICBfXygnbWFpbHMuc2l0ZS5jcmVhdGVkLnVzZXJuYW1lJywgWyd1c2VybmFtZScgPT4gJHVzZXJuYW1lXSkgISF9CjwvcD4KPHA+CiAgICB7eyBfXygnbWFpbHMuc2l0ZS5jcmVhdGVkLnNpZ25hdHVyZScpIH19CjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXJsID0gJ2h0dHBzOi8vJyAuICRzaXRlLT5kb21haW47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">PHA+CiAgICB7ISEgIF9fKCdtYWlscy5zaXRlLmNyZWF0ZWQudXJsJywgWyd1cmwnID0+ICR1cmxdKSAhIX0KPC9wPgo8cD4KICAgIHshISAgX18oJ21haWxzLnNpdGUuY3JlYXRlZC5hZG1pbl91cmwnLCBbJ3VybCcgPT4gJGFkbWluX3VybF0pICEhfQo8L3A+CjxwPgogICAgeyEhICBfXygnbWFpbHMuc2l0ZS5jcmVhdGVkLnVzZXJuYW1lJywgWyd1c2VybmFtZScgPT4gJHVzZXJuYW1lXSkgISF9CjwvcD4KPHA+CiAgICB7eyBfXygnbWFpbHMuc2l0ZS5jcmVhdGVkLnNpZ25hdHVyZScpIH19CjwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYWlsOjphc3NlcnROb3RoaW5nU2VudCgpOwo=</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIE1haWw6OmZha2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYWlsOjphc3NlcnROb3RoaW5nU2VudCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
