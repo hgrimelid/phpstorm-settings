@@ -75,12 +75,6 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/AddUsers.php" timestamp="1589265512999">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/config/sitefleet.php" timestamp="1589285679889">
         <mark key="'" line="13" column="62" />
         <mark key="[" line="2" column="8" />
@@ -127,6 +121,12 @@
         <mark key="]" line="74" column="37" />
         <mark key="." line="74" column="36" />
         <mark key="^" line="74" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreatedSiteMail.php" timestamp="1589288168483">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wordops/CreateSite.php" timestamp="1589285718412">
         <mark key="[" line="12" column="54" />
