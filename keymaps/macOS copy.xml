@@ -6,5 +6,11 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="GitToolBox.SwitchRecentBranches" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt tab" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
