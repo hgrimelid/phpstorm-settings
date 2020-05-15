@@ -120,12 +120,12 @@
         <mark key="^" line="49" column="24" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589533636053">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589539921856">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="57" column="66" />
-        <mark key="]" line="58" column="48" />
-        <mark key="." line="58" column="47" />
-        <mark key="^" line="58" column="48" />
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="65" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Shell/SearchReplace.php" timestamp="1589464141995">
         <mark key="[" line="19" column="12" />
@@ -293,10 +293,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0ZfU1NIX0tFWV9QQVRIPS9Vc2Vycy91c2VyLy5zc2gvaWRfcnNhCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmR1bXBTZXNzaW9uKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>havardg</text>
+        <text encoding="base64">UHJvamVjdDo6cXVlcnkoKS0+ZG9lc250SGF2ZSgnc2l0ZXMnKS0+Zmlyc3QoKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFnaW5nU2l0ZURvbWFpbkV4aXN0c1w+</text>
@@ -305,31 +305,31 @@
         <text encoding="base64">U0ZfU1NIX0tFWV9QQVRIPS9Vc2Vycy91c2VyLy5zc2gvc2l0ZWZsZWV0LWFjY2Vzcy1rZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0ZfU1NIX0tFWV9QQVRIPS9Vc2Vycy91c2VyLy5zc2gvaWRfcnNhCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmR1bXBTZXNzaW9uKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIocHJpbnRfcigkc2NyaXB0LT5jb21tYW5kcywgdHJ1ZSkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAkc3RhZ2luZyA9IFNpdGU6OnF1ZXJ5KCktPndoZXJlKCd0eXBlJywgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdGlvbi0+dG9BcnJheSgpLCAkc3RhZ2luZy0+dG9BcnJheSgpLCAkcHJvZHVjdGlvbi0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">U0ZfU1NIX0tFWV9QQVRIPS9Vc2Vycy91c2VyLy5zc2gvaWRfcnNhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIocHJpbnRfcigkc2NyaXB0LT5jb21tYW5kcywgdHJ1ZSkpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9ICRldmVudC0+c2l0ZTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdGlvbi0+dG9BcnJheSgpLCAkc3RhZ2luZy0+dG9BcnJheSgpLCAkcHJvZHVjdGlvbi0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9ICRldmVudC0+c2l0ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbCAkc2hvdWxkX3B1cmdlX2NhY2hlOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgJGRvbWFpbiA9IGJ1aWxkX3N0YWdpbmdfZG9tYWluKCRwcm9qZWN0LCAkc2VydmVyKTsKICAgICAgICBpZiAoc2VsZjo6c3RhZ2luZ1NpdGVEb21haW5FeGlzdHMoJGRvbWFpbikpIHsKICAgICAgICAgICAgJGRvbWFpbiA9IGJ1aWxkX3JhbmRvbV9zdGFnaW5nX2RvbWFpbigkc2VydmVyKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
