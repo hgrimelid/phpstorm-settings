@@ -73,9 +73,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589458972098">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1589532833389">
         <mark key="'" line="19" column="16" />
         <mark key="[" line="23" column="0" />
@@ -165,6 +162,9 @@
         <mark key="[" line="57" column="66" />
         <mark key="]" line="57" column="66" />
         <mark key="." line="57" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/__snapshots__/SyncSiteTest__it_can_sync_directory__1.yml" timestamp="1589549840376">
+        <mark key="[" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Assemblies/CreateProductionSiteAssembly.php" timestamp="1589458990998">
         <mark key="'" line="34" column="0" />
