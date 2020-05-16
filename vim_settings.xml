@@ -163,7 +163,7 @@
         <mark key="]" line="57" column="66" />
         <mark key="." line="57" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/__snapshots__/SyncSiteTest__it_can_sync_directory__1.yml" timestamp="1589549840376">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/__snapshots__/SyncSiteTest__it_can_sync_directory__1.yml" timestamp="1589631989935">
         <mark key="[" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Assemblies/CreateProductionSiteAssembly.php" timestamp="1589458990998">
