@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91bGRfc2V0X2RlZmF1bHRfb3B0aW9uc1w+</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQ29tbWFuZHNcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzaG91bGRfc2VhcmNoX3JlcGxhY2VcPg==</entry>
         <entry encoding="base64">XDxTZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxzdGFnaW5nU2l0ZURvbWFpbkV4aXN0c1w+</entry>
+        <entry encoding="base64">XDxhcmVTZXR0aW5nc09rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -32,8 +32,8 @@
         <entry>redo</entry>
         <entry>action GotoAction</entry>
         <entry>e</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -61,20 +61,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Assemblies/UnpackProductionSiteAssembly.php" timestamp="1589527151217">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="39" column="26" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" timestamp="1589532921702">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589638995609">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1589532833389">
         <mark key="'" line="19" column="16" />
@@ -90,12 +81,10 @@
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1589542631434">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="8" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" timestamp="1589640092770">
+        <mark key="'" line="34" column="21" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="155" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env.testing" timestamp="1589532916932">
         <mark key="'" line="0" column="0" />
@@ -104,26 +93,6 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/UnpackProductionSiteJob.php" timestamp="1589549075559">
-        <mark key="[" line="46" column="63" />
-        <mark key="]" line="46" column="66" />
-        <mark key="." line="46" column="65" />
-        <mark key="^" line="46" column="66" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Scripts/CreateUploadRunScript.php" timestamp="1589548811459">
-        <mark key="'" line="104" column="21" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" timestamp="1589527391965">
-        <mark key="'" line="86" column="8" />
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="74" column="86" />
-        <mark key="^" line="74" column="86" />
-        <mark key="." line="74" column="85" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589543447086">
         <mark key="'" line="72" column="66" />
         <mark key="[" line="11" column="0" />
@@ -131,32 +100,15 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="72" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Server/NginxStatus.php" timestamp="1589639016724">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Server/ServerStatus.php" timestamp="1589641511205">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Server/NginxReload.php" timestamp="1589639007486">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateProductionSiteJob.php" timestamp="1589548769272">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="90" />
-        <mark key="." line="67" column="72" />
-        <mark key="^" line="67" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/config/app.php" timestamp="1589464463219">
-        <mark key="'" line="108" column="5" />
-        <mark key="[" line="71" column="19" />
-        <mark key="]" line="71" column="19" />
-        <mark key="." line="71" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Events/SiteCreatedEvent.php" timestamp="1589528578888">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/PrepareSiteForSyncJob.php" timestamp="1589548271501">
         <mark key="[" line="48" column="42" />
@@ -173,6 +125,53 @@
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Commands/Shell/__snapshots__/SyncSiteTest__it_can_sync_directory__1.yml" timestamp="1589631989935">
         <mark key="[" line="0" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1589639922643">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1589542631434">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/UnpackProductionSiteJob.php" timestamp="1589549075559">
+        <mark key="[" line="46" column="63" />
+        <mark key="]" line="46" column="66" />
+        <mark key="." line="46" column="65" />
+        <mark key="^" line="46" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Scripts/CreateUploadRunScript.php" timestamp="1589548811459">
+        <mark key="'" line="104" column="21" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Server/NginxStatus.php" timestamp="1589639016724">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateProductionSiteJob.php" timestamp="1589548769272">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="90" />
+        <mark key="." line="67" column="72" />
+        <mark key="^" line="67" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/ServerStatusBuilder.php" timestamp="1589640577009">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="52" />
+        <mark key="." line="15" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Events/SiteCreatedEvent.php" timestamp="1589528578888">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1589533652907">
         <mark key="'" line="128" column="28" />
         <mark key="[" line="75" column="46" />
@@ -182,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="36" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
-      <jump line="114" column="74" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
       <jump line="131" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
       <jump line="144" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
       <jump line="25" column="13" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
@@ -282,59 +279,61 @@
       <jump line="56" column="64" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Listeners/SiteCreatedListener.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" />
       <jump line="75" column="66" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" />
+      <jump line="34" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" />
+      <jump line="13" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/ServerStatusBuilder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>service nginx reload</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>service nginx reload</text>
+        <text>Str::of($response)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFnaW5nU2l0ZURvbWFpbkV4aXN0c1w+</text>
+        <text encoding="base64">XDxhcmVTZXR0aW5nc09rXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY29tbWFuZCgpOiBhcnJheQogICAgewogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICdzZXJ2aWNlIG5naW54IHJlbG9hZCcsCiAgICAgICAgXTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gYXJlU2V0dGluZ3NPaygpOiBib29sCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5hcmVCYXNlU2V0dGluZ3NPaygpICYmICR0aGlzLT5kb21haW47CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uICgpIHVzZSAoJHByb2R1Y3Rpb24pIHsKICAgICAgICAgICAgICAgICAgICAkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyA9IFNpdGVJbnN0YWxsYXRpb25TdGF0dXNFbnVtOjpTVUNDRVNTKCk7CiAgICAgICAgICAgICAgICAgICAgJHByb2R1Y3Rpb24tPnNhdmUoKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNpdGUtPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPnNlcnZlcikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNpdGUtPmluc3RhbGxhdGlvbl9zdGF0dXMgPSBTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bTo6U1VDQ0VTUygpOwogICAgICAgICAgICAkdGhpcy0+c2l0ZS0+c2F2ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgP1NlcnZlciAkc2VydmVyOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIERCOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgaW5pdGlhbGl6ZUNvbW1hbmRzKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RhZ2luZy0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhZ2luZ19pZCA9IERCOjp0YWJsZSgnc2VydmVycycpCiAgICAgICAgICAgIC0+am9pbignc2l0ZXMnLCAnc2VydmVycy5pZCcsICc9JywgJ3NpdGVzLmlkJykKICAgICAgICAgICAgLT5zZWxlY3QoJ3NpdGVzLmlkJykKICAgICAgICAgICAgLT53aGVyZSgnc2VydmVycy50eXBlJywgJ1NUQUdJTkcnKQogICAgICAgICAgICAtPmZpcnN0KCktPmlkOwoKICAgICAgICAkc3RhZ2luZyA9IFNpdGU6OmZpbmQoJHN0YWdpbmdfaWQpOwogICAgICAgICRwcm9qZWN0ID0gJHN0YWdpbmctPnByb2plY3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdGFnaW5nU2l0ZURvbWFpbkV4aXN0c1w+</last-search>
+      <last-search encoding="base64">XDxhcmVTZXR0aW5nc09rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFnaW5nU2l0ZURvbWFpbkV4aXN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhcmVTZXR0aW5nc09rXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
