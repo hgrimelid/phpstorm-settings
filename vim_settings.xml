@@ -61,10 +61,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Listeners/SiteCreatedListener.php" timestamp="1589807279332">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Listeners/SiteCreatedListener.php" timestamp="1589807395629">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="61" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="10" />
       </file>
@@ -86,12 +86,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589807156279">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
-        <mark key="^" line="63" column="12" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589807479648">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="79" column="54" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="68" column="8" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CheckSiteStatusJob.php" timestamp="1589792671401">
         <mark key="[" line="42" column="0" />
@@ -255,27 +255,36 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQtPnNpdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9IFNpdGU6OmZpbmQoJHByb2plY3QtPnByb2R1Y3Rpb25fc2l0ZS0+aWQpOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>SiteCreatedEvent::class</text>
+        <text>site</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmluc3RhbGxhdGlvbl9zdGF0dXMgPT09IFNpdGVJbnN0YWxsYXRpb25TdGF0dXNFbnVtOjpXQUlUSU5HX0ZPUl9ETlMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGlzcGF0Y2hQcm9kdWN0aW9uTGF1bmNoOjpkaXNwYXRjaCgkZXZlbnQtPnNpdGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQtPnNpdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9IFNpdGU6OmZpbmQoJHByb2plY3QtPnByb2R1Y3Rpb25fc2l0ZS0+aWQpOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEV2ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyA9IFNpdGVJbnN0YWxsYXRpb25TdGF0dXNFbnVtOjpETlNfT0soKTsKICAgICAgICAkcHJvZHVjdGlvbi0+c2F2ZSgpOwoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudDo6YXNzZXJ0RGlzcGF0Y2hlZChTaXRlQ3JlYXRlZEV2ZW50OjpjbGFzcyk7CiAgICAgICAgRGlzcGF0Y2hQcm9kdWN0aW9uTGF1bmNoOjpkaXNwYXRjaCgkc2l0ZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQtPnNpdGUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEV2ZW50Owo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dXNlIEFwcFxQcm9qZWN0Owo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>//
 //
 //
@@ -286,20 +295,11 @@
 //
 //</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdGlvbi0+dG9BcnJheSgpKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBQcm9qZWN0ICRwcm9qZWN0ICovCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ3NpdGVzJywgWwogICAgICAgICAgICdkb21haW4nID0+ICdteXZlcnl1bmlxdWVkb21haW4uZGV2JywKICAgICAgICBdKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTaXRlICRwcm9kdWN0aW9uICovCgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyA9IFNpdGVJbnN0YWxsYXRpb25TdGF0dXNFbnVtOjpETlNfT0soKTsKICAgICAgICAkcHJvZHVjdGlvbi0+c2F2ZSgpOwogICAgICAgICRwcm9kdWN0aW9uLT5mcmVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBQcm9qZWN0ICRwcm9qZWN0ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
