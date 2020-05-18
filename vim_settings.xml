@@ -67,11 +67,6 @@
         <mark key="." line="31" column="71" />
         <mark key="^" line="31" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SiteCreateBuilder.php" timestamp="1589640092770">
-        <mark key="'" line="34" column="21" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="155" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589702203666">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="77" column="73" />
@@ -129,6 +124,11 @@
         <mark key="]" line="25" column="44" />
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/Wpcli/ActivatePlugins.php" timestamp="1589785768532">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/migrations/2020_05_16_172455_add_status_to_servers_table.php" timestamp="1589660718360">
         <mark key="'" line="16" column="35" />
@@ -284,11 +284,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBTaXRlICRzaXRlICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VydmVyOjpxdWVyeSgpLT5hdmFpbGFibGVQcm9kdWN0aW9uU2VydmVycygpLT53aGVyZUhhcygnc2l0ZXMnKS0+Zmlyc3QoKS0+c2l0ZXMtPmZpcnN0KCk7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmVTZXR0aW5nc09rXD4=</text>
