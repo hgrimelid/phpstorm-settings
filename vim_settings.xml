@@ -85,11 +85,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589805065593">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589806081192">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="27" />
+        <mark key="^" line="72" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CheckSiteStatusJob.php" timestamp="1589792671401">
         <mark key="[" line="42" column="0" />
@@ -257,7 +258,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RhZ2luZy0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>is_dns_propagated</text>
@@ -269,31 +270,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmluc3RhbGxhdGlvbl9zdGF0dXMgPT09IFNpdGVJbnN0YWxsYXRpb25TdGF0dXNFbnVtOjpXQUlUSU5HX0ZPUl9ETlMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RhZ2luZy0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RhZ2luZy0+cHJvamVjdC0+cHJvZHVjdGlvbl9zaXRlLT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9IFNpdGU6OndoZXJlKCdkb21haW4nLCAnbXl2ZXJ5dW5pcXVlZG9tYWluLmRldicpLT5maXJzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RhZ2luZy0+cHJvamVjdC0+cHJvZHVjdGlvbl9zaXRlLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxQcm9qZWN0Owp1c2UgQXBwXFNlcnZlcjsK</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9IFNpdGU6OndoZXJlKCdkb21haW4nLCAnbXl2ZXJ5dW5pcXVlZG9tYWluLmRldicpLT5maXJzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRGVmaW5lIHRoZSBhcHBsaWNhdGlvbidzIGNvbW1hbmQgc2NoZWR1bGUuCiAgICAgKgogICAgICogQHBhcmFtICBcSWxsdW1pbmF0ZVxDb25zb2xlXFNjaGVkdWxpbmdcU2NoZWR1bGUgICRzY2hlZHVsZQogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8K</text>
+        <text encoding="base64">dXNlIEFwcFxQcm9qZWN0Owp1c2UgQXBwXFNlcnZlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc2NoZWR1bGUtPmNvbW1hbmQoJ2luc3BpcmUnKQogICAgICAgIC8vICAgICAgICAgIC0+aG91cmx5KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGVmaW5lIHRoZSBhcHBsaWNhdGlvbidzIGNvbW1hbmQgc2NoZWR1bGUuCiAgICAgKgogICAgICogQHBhcmFtICBcSWxsdW1pbmF0ZVxDb25zb2xlXFNjaGVkdWxpbmdcU2NoZWR1bGUgICRzY2hlZHVsZQogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkc2NoZWR1bGUtPmNvbW1hbmQoJ2luc3BpcmUnKQogICAgICAgIC8vICAgICAgICAgIC0+aG91cmx5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxKb2JzXFByZXBhcmVTaXRlRm9yU3luY0pvYjsKdXNlIEFwcFxKb2JzXFVucGFja1Byb2R1Y3Rpb25TaXRlSm9iOwp1c2UgQXBwXFByb2plY3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnVtc1xTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bTsKdXNlIEFwcFxKb2JzXENoZWNrU2l0ZVN0YXR1c0pvYjsKdXNlIEFwcFxKb2JzXENvcHlTdGFnaW5nU2l0ZUpvYjsKdXNlIEFwcFxKb2JzXENyZWF0ZVByb2R1Y3Rpb25TaXRlSm9iOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxKb2JzXFByZXBhcmVTaXRlRm9yU3luY0pvYjsKdXNlIEFwcFxKb2JzXFVucGFja1Byb2R1Y3Rpb25TaXRlSm9iOwp1c2UgQXBwXFByb2plY3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
