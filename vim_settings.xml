@@ -72,11 +72,20 @@
         <mark key="'" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/config/sitefleet.php" timestamp="1589798352275" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1589869202677">
+        <mark key="'" line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Enums/SiteInstallationStatusEnum.php" timestamp="1589798674987">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/ServersTableSeeder.php" timestamp="1589869815357">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="62" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="20" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/hl/web/app/themes/hl2/src/pcss/app.pcss" timestamp="1589805666743" />
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/LaunchReadySitesCommand.php" timestamp="1589802140549">
@@ -92,12 +101,6 @@
         <mark key="]" line="78" column="0" />
         <mark key="^" line="68" column="8" />
         <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CheckSiteStatusJob.php" timestamp="1589792671401">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet/app/Http/Controllers/SiteController.php" timestamp="1589798587848" />
       <file name="/Dummy.txt" timestamp="1589800542374">
@@ -118,11 +121,6 @@
         <mark key="]" line="24" column="37" />
         <mark key="^" line="24" column="37" />
         <mark key="." line="24" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateProductionSiteJob.php" timestamp="1589792412695">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Unit/Services/Dns/DnsPropagationCheckerTest.php" timestamp="1589798455693">
         <mark key="'" line="23" column="15" />
@@ -150,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateSiteTest.php" />
       <jump line="6" column="8" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateSiteTest.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
@@ -250,41 +247,48 @@
       <jump line="4" column="14" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Listeners/SiteCreatedListener.php" />
       <jump line="20" column="55" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Site/DispatchProductionLaunch.php" />
       <jump line="26" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Listeners/SiteCreatedListener.php" />
+      <jump line="28" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9IFNpdGU6OmZpbmQoJHByb2plY3QtPnByb2R1Y3Rpb25fc2l0ZS0+aWQpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0dXMnID0+IFxBcHBcRW51bXNcU2VydmVyU3RhdHVzRW51bTo6T0soKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>site</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlzcGF0Y2hQcm9kdWN0aW9uTGF1bmNoOjpkaXNwYXRjaCgkZXZlbnQtPnNpdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0dXMnID0+IFxBcHBcRW51bXNcU2VydmVyU3RhdHVzRW51bTo6T0soKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9IFNpdGU6OmZpbmQoJHByb2plY3QtPnByb2R1Y3Rpb25fc2l0ZS0+aWQpOwoK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFNlcnZlcjo6Y2xhc3MsIDUpLT5jcmVhdGUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyA9IFNpdGVJbnN0YWxsYXRpb25TdGF0dXNFbnVtOjpETlNfT0soKTsKICAgICAgICAkcHJvZHVjdGlvbi0+c2F2ZSgpOwoK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFNlcnZlcjo6Y2xhc3MsIDEwKS0+Y3JlYXRlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudDo6YXNzZXJ0RGlzcGF0Y2hlZChTaXRlQ3JlYXRlZEV2ZW50OjpjbGFzcyk7CiAgICAgICAgRGlzcGF0Y2hQcm9kdWN0aW9uTGF1bmNoOjpkaXNwYXRjaCgkc2l0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbiA9IFNpdGU6OmZpbmQoJHByb2plY3QtPnByb2R1Y3Rpb25fc2l0ZS0+aWQpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQtPnNpdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdGlvbi0+aW5zdGFsbGF0aW9uX3N0YXR1cyA9IFNpdGVJbnN0YWxsYXRpb25TdGF0dXNFbnVtOjpETlNfT0soKTsKICAgICAgICAkcHJvZHVjdGlvbi0+c2F2ZSgpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEV2ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudDo6YXNzZXJ0RGlzcGF0Y2hlZChTaXRlQ3JlYXRlZEV2ZW50OjpjbGFzcyk7CiAgICAgICAgRGlzcGF0Y2hQcm9kdWN0aW9uTGF1bmNoOjpkaXNwYXRjaCgkc2l0ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQtPnNpdGUpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEV2ZW50Owo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEFwcFxQcm9qZWN0Owo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>//
 //
 //
@@ -294,12 +298,6 @@
 //
 //
 //</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdGlvbi0+dG9BcnJheSgpKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBQcm9qZWN0ICRwcm9qZWN0ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
