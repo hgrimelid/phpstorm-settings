@@ -100,24 +100,25 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/ServersTableSeeder.php" timestamp="1589869815357">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="62" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="20" column="62" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/ServersTableSeeder.php" timestamp="1589876939686">
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="31" column="62" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/hl/web/app/themes/hl2/src/pcss/app.pcss" timestamp="1589805666743" />
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/LaunchReadySitesCommand.php" timestamp="1589802140549">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/LaunchReadySitesCommand.php" timestamp="1589876761916">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="21" column="20" />
-        <mark key="^" line="21" column="20" />
-        <mark key="." line="21" column="19" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1589871317091">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1589876639893">
         <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1589874025168">
         <mark key="'" line="91" column="0" />
@@ -274,16 +275,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>unless</text>
+        <text>PRODUCTION</text>
       </register>
       <register name="-" type="4">
-        <text>unless</text>
+        <text>PRODUCTION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9qZWN0X2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTaXRlOjp3aXRob3V0RXZlbnRzKAogICAgICAgICAgICBmdW5jdGlvbiAoKSB1c2UgKCRwcm9qZWN0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFjdG9yeShTaXRlOjpjbGFzcyktPmNyZWF0ZSgKICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICdkb21haW4nID0+ICdteXN0YWdpbmdkb21haW4uZGV2JywKICAgICAgICAgICAgICAgICAgICAgICAgJ3Byb2plY3RfaWQnID0+ICRwcm9qZWN0LAogICAgICAgICAgICAgICAgICAgICAgICAnc2VydmVyX2lkJyA9PiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFjdG9yeShTZXJ2ZXI6OmNsYXNzKS0+Y3JlYXRlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnID0+IFxBcHBcRW51bXNcU2VydmVyVHlwZUVudW06OlNUQUdJTkcoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gXEFwcFxFbnVtc1xTZXJ2ZXJTdGF0dXNFbnVtOjpPSygpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaXNfYXZhaWxhYmxlX2Zvcl9uZXdfc2l0ZXMnID0+IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyA9PiBcQXBwXEVudW1zXFNlcnZlclR5cGVFbnVtOjpQUk9EVUNUSU9OKCksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+aGFzX3N0YWdpbmdfc2l0ZSk7Cg==</text>
