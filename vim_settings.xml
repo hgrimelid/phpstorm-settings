@@ -67,11 +67,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/functions.php" timestamp="1589962306355">
+      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/functions.php" timestamp="1589963170131">
         <mark key="'" line="653" column="38" />
-        <mark key="[" line="216" column="22" />
-        <mark key="]" line="216" column="22" />
-        <mark key="." line="216" column="31" />
+        <mark key="[" line="419" column="0" />
+        <mark key="]" line="419" column="0" />
+        <mark key="." line="419" column="0" />
         <mark key="^" line="212" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/SitesTableSeeder.php" timestamp="1589873716960">
@@ -95,6 +95,7 @@
         <mark key="^" line="130" column="25" />
         <mark key="." line="130" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/admin/mp_global_values.php" timestamp="1589962960392" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1589869202677">
         <mark key="'" line="28" column="3" />
       </file>
@@ -112,7 +113,7 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/single-mb_office.php" timestamp="1589962204192">
+      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/single-mb_office.php" timestamp="1589963064403">
         <mark key="[" line="28" column="64" />
         <mark key="]" line="28" column="64" />
         <mark key="." line="28" column="64" />
@@ -134,9 +135,6 @@
         <mark key="[" line="14" column="33" />
         <mark key="]" line="14" column="33" />
         <mark key="." line="14" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589800542374">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/css/additional.css" timestamp="1589962418906">
         <mark key="[" line="7" column="21" />
@@ -282,7 +280,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjNTU1Owo=</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="-" type="4">
         <text>overrides</text>
@@ -294,31 +292,31 @@
         <text encoding="base64">ICAgIHdwX2VucXVldWVfc3R5bGUoJ2RlZmF1bHQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjNTU1Owo=</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lm1iX2VtcGxveWVlIHsKfQo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIG1iX2dldF9vZmZpY2VfZ2VvX2RhdGEoKXsKICBpZiggaXNzZXQoJF9QT1NUWydwb3N0X3R5cGUnXSkgJiYgICRfUE9TVFsncG9zdF90eXBlJ10gPT0gQ0xBU1NfT0ZGSUNFICYmICF3cF9pc19wb3N0X3JldmlzaW9uKCRfUE9TVFsncG9zdF9JRCddKSApewogICAgJGdvb2dsZV9tYXBzX2FwaSA9ICdodHRwOi8vbWFwcy5nb29nbGUuY29tL21hcHMvYXBpL2dlb2NvZGUveG1sP2FkZHJlc3M9JzsKICAgICRhZGRyZXNzID0gICRfUE9TVFtPRkZJQ0VfWklQQ09ERV0uIisiLiRfUE9TVFtPRkZJQ0VfQ0lUWV0uIisiLiRfUE9TVFtPRkZJQ0VfU1RSRUVUXS4iK05vcmdlJnNlbnNvcj10cnVlIjsKICAgICR1cmwgPSAkZ29vZ2xlX21hcHNfYXBpLiRhZGRyZXNzOwogICAgJHhtbF9hZGRyZXNzID0gc2ltcGxleG1sX2xvYWRfZmlsZSgkdXJsKTsKCgogICAgaWYgKCAkeG1sX2FkZHJlc3MtPnN0YXR1cyA9ICJPSyIpewogICAgICAkbGF0ID0gJHhtbF9hZGRyZXNzLT5yZXN1bHQtPmdlb21ldHJ5LT5sb2NhdGlvbi0+bGF0OwogICAgICAkbG5nID0gJHhtbF9hZGRyZXNzLT5yZXN1bHQtPmdlb21ldHJ5LT5sb2NhdGlvbi0+bG5nOwogICAgICAkdmFyID0gMDsKCiAgICAgIC8vJF9QT1NUWyd1bV9yZXRhaWxlcl9sYXQnXSA9IChzdHJpbmcpJGxhdDsKICAgICAgJE1CUG9zdCA9IG5ldyBNQlBvc3QoJF9QT1NUWydwb3N0X0lEJ10pOwogICAgICAkTUJQb3N0LT5tYl91cGRhdGVfbWV0YV9kYXRhKE9GRklDRV9MQVQsIChzdHJpbmcpJGxhdCk7CiAgICAgICRNQlBvc3QtPm1iX3VwZGF0ZV9tZXRhX2RhdGEoT0ZGSUNFX0xORywgKHN0cmluZykkbG5nKTsKICAgIH0KICB9Cn0KYWRkX2FjdGlvbiggJ3NhdmVfcG9zdCcsICdtYl9nZXRfb2ZmaWNlX2dlb19kYXRhJywxICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiBub25lICFpbXBvcnRhbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjNTU1Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZWNobyBnZXRfYmxvZ2luZm8oJ3RlbXBsYXRlX2RpcmVjdG9yeScpIC4gJy9jc3Mvb3ZlcnJpZGVzLmNzcyc7Cg==</text>
+        <text encoding="base64">Lm1iX2VtcGxveWVlIHsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gR3Jhdml0eSBGb3JtcwovL3JlcXVpcmVfb25jZShURU1QTEFURVBBVEggLiAnL2FkbWluL2dyYXZpdHlmb3Jtcy5waHAnKTsKLy8gc3VibWVudQovLyBwZGYgZXhwb3J0Ci8vcmVxdWlyZV9vbmNlKFRFTVBMQVRFUEFUSCAuICcvYWRtaW4vdW1fcGRmX2V4cG9ydC5waHAnKTsKCg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBub25lICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pz4K</text>
+        <text encoding="base64">ICAgICAgZWNobyBnZXRfYmxvZ2luZm8oJ3RlbXBsYXRlX2RpcmVjdG9yeScpIC4gJy9jc3Mvb3ZlcnJpZGVzLmNzcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigkc2l0ZS0+ZG9tYWluKTsK</text>
+        <text encoding="base64">Ly8gR3Jhdml0eSBGb3JtcwovL3JlcXVpcmVfb25jZShURU1QTEFURVBBVEggLiAnL2FkbWluL2dyYXZpdHlmb3Jtcy5waHAnKTsKLy8gc3VibWVudQovLyBwZGYgZXhwb3J0Ci8vcmVxdWlyZV9vbmNlKFRFTVBMQVRFUEFUSCAuICcvYWRtaW4vdW1fcGRmX2V4cG9ydC5waHAnKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmluc3RhbGxhdGlvbl9zdGF0dXMgPT09IDsK</text>
+        <text encoding="base64">Pz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+aGFzX3N0YWdpbmdfc2l0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigkc2l0ZS0+ZG9tYWluKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
