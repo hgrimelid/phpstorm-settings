@@ -67,6 +67,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="25" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/functions.php" timestamp="1589962306355">
+        <mark key="'" line="653" column="38" />
+        <mark key="[" line="216" column="22" />
+        <mark key="]" line="216" column="22" />
+        <mark key="." line="216" column="31" />
+        <mark key="^" line="212" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/SitesTableSeeder.php" timestamp="1589873716960">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="37" column="88" />
@@ -81,9 +88,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet/app/Models/Site.php" timestamp="1589798521582">
-        <mark key="'" line="44" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1589874328089">
         <mark key="'" line="123" column="41" />
         <mark key="[" line="127" column="9" />
@@ -93,12 +97,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1589869202677">
         <mark key="'" line="28" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Enums/SiteInstallationStatusEnum.php" timestamp="1589798674987">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/ServersTableSeeder.php" timestamp="1589876939686">
         <mark key="[" line="31" column="53" />
@@ -113,6 +111,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="16" column="49" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/single-mb_office.php" timestamp="1589962204192">
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="28" column="64" />
+        <mark key="." line="28" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1589876639893">
         <mark key="[" line="11" column="12" />
@@ -132,16 +135,20 @@
         <mark key="]" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet/app/Http/Controllers/SiteController.php" timestamp="1589798587848" />
       <file name="/Dummy.txt" timestamp="1589800542374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/database/factories/SiteFactory.php" timestamp="1589798718978">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="14" column="54" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="44" />
-        <mark key="^" line="15" column="45" />
+      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/css/additional.css" timestamp="1589962418906">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/css/overrides.css" timestamp="1589962267086">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Kernel.php" timestamp="1589802318371">
         <mark key="[" line="21" column="32" />
@@ -170,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="55" filename="$USER_HOME$/Projects/laravel/sitefleet2/config/sitefleet.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/config/sitefleet.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/realestate/app/helpers.php" />
       <jump line="122" column="0" filename="$USER_HOME$/Projects/laravel/realestate/app/helpers.php" />
@@ -270,48 +276,49 @@
       <jump line="11" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/database/seeds/SitesTableSeeder.php" />
       <jump line="123" column="41" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" />
       <jump line="46" column="5" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
+      <jump line="659" column="38" filename="$USER_HOME$/Projects/Wordpress/fasia/wp-content/themes/fasia/functions.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigkc2l0ZS0+ZG9tYWluKTsK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjNTU1Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>overrides</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9qZWN0X2lkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyA9PiBcQXBwXEVudW1zXFNlcnZlclR5cGVFbnVtOjpQUk9EVUNUSU9OKCksCg==</text>
+        <text encoding="base64">ICAgIHdwX2VucXVldWVfc3R5bGUoJ2RlZmF1bHQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigkc2l0ZS0+ZG9tYWluKTsK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjNTU1Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmluc3RhbGxhdGlvbl9zdGF0dXMgPT09IDsK</text>
+        <text encoding="base64">Lm1iX2VtcGxveWVlIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+aGFzX3N0YWdpbmdfc2l0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBub25lICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWNobyBnZXRfYmxvZ2luZm8oJ3RlbXBsYXRlX2RpcmVjdG9yeScpIC4gJy9jc3Mvb3ZlcnJpZGVzLmNzcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmR1bXBTZXNzaW9uKCkpOwo=</text>
+        <text encoding="base64">Ly8gR3Jhdml0eSBGb3JtcwovL3JlcXVpcmVfb25jZShURU1QTEFURVBBVEggLiAnL2FkbWluL2dyYXZpdHlmb3Jtcy5waHAnKTsKLy8gc3VibWVudQovLyBwZGYgZXhwb3J0Ci8vcmVxdWlyZV9vbmNlKFRFTVBMQVRFUEFUSCAuICcvYWRtaW4vdW1fcGRmX2V4cG9ydC5waHAnKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">Pz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnVtc1xTaXRlSW5zdGFsbGF0aW9uU3RhdHVzRW51bTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigkc2l0ZS0+ZG9tYWluKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7ICRwcm9qZWN0LT5jYW5fbGF1bmNoX3Byb2R1Y3Rpb24gfX0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmluc3RhbGxhdGlvbl9zdGF0dXMgPT09IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgYm9vbCAkaXNfbGF1bmNoYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+aGFzX3N0YWdpbmdfc2l0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
