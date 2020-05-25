@@ -74,7 +74,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/config/app.php" timestamp="1590389853545" />
+      <file name="$USER_HOME$/Projects/laravel/realestate/config/app.php" timestamp="1590410229719">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/tests/Unit/EstatePublicTest.php" timestamp="1590391936409">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="31" column="0" />
@@ -147,11 +151,6 @@
         <mark key="^" line="58" column="26" />
         <mark key="." line="58" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/composer.json" timestamp="1590406725440">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/.env.testing" timestamp="1590392430917" />
       <file name="$USER_HOME$/Projects/laravel/realestate/app/Mail/NewEstatesMail.php" timestamp="1590395191662">
         <mark key="'" line="44" column="3" />
@@ -163,7 +162,6 @@
       <file name="$USER_HOME$/Projects/laravel/realestate/database/migrations/2018_12_20_102853_create_estates_table.php" timestamp="1590390256971" />
     </filemarks>
     <jumps>
-      <jump line="80" column="64" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" />
       <jump line="82" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Server.php" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
@@ -263,15 +261,16 @@
       <jump line="12" column="23" filename="$USER_HOME$/Projects/laravel/realestate/resources/views/mail/new-estates.blade.php" />
       <jump line="39" column="3" filename="$USER_HOME$/Projects/laravel/realestate/app/Mail/NewEstatesMail.php" />
       <jump line="3" column="6" filename="$USER_HOME$/Projects/static/wwpcleaner/index.js" />
+      <jump line="30" column="22" filename="$USER_HOME$/Projects/laravel/realestate/composer.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>critical</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>critical</text>
+        <text encoding="base64">LSAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVtZVw+</text>
@@ -280,31 +279,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSB0aGlzLmVkaXQoZXZ0LnRhcmdldC5pbm5lckhUTUwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAibGFyYXZlbC91aSI6ICJeMi4wIiwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpRdWVyeSgiPGRpdj4iKS5odG1sKGV2dC50YXJnZXQuaW5uZXJIVE1MKS50ZXh0KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSBldnQudGFyZ2V0LmlubmVySFRNTDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy50eHQpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBBcHBcUHJvdmlkZXJzXFRlbGVzY29wZVNlcnZpY2VQcm92aWRlcjo6Y2xhc3MsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAiYmV5b25kY29kZS9sYXJhdmVsLWR1bXAtc2VydmVyIjogIl4xLjAiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4yIiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1pZGUtaGVscGVyIjogIl4yLjYiLAogICAgICAgICJjbG91ZGluYXJ5L2Nsb3VkaW5hcnlfcGhwIjogIl4xLjEzIiwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRtcEVsID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICAgICAgICAgIHRtcEVsLmlubmVySFRNTCA9IGV2dC50YXJnZXQuaW5uZXJIVE1MOwogICAgICAgICAgICB0aGlzLnR4dCA9IGpRdWVyeSgiPGRpdj4iKS5odG1sKGV2dC50YXJnZXQuaW5uZXJIVE1MKS50ZXh0KCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMudHh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAicHJhZ21hcngvZmlyZXdhbGwiOiAiXjIuMiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSB0bXBFbC50ZXh0Q29udGVudCB8fCB0bXBFbC5pbm5lclRleHQgfHwgIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAibnVub21hZHVyby9sYXJhc3RhbiI6ICJeMC41IiwKICAgICAgICAibnVub21hZHVyby9waHBpbnNpZ2h0cyI6ICJeMS4xMSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHNyYyA9IGV2dC50YXJnZXQuaW5uZXJIVE1MOwo=</text>
+        <text encoding="base64">ICAgICAgICAibGFyYXZlbC90ZWxlc2NvcGUiOiAiXjIuMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSBzcmM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAibGFyYXZlbC91aSI6ICJeMi4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
