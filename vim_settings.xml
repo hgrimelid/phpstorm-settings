@@ -108,7 +108,12 @@
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/database/migrations/2018_12_20_102853_create_estates_table.php" timestamp="1590390256971" />
+      <file name="$USER_HOME$/Projects/laravel/realestate/config/filesystems.php" timestamp="1590413841736">
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="73" column="10" />
+        <mark key="^" line="73" column="10" />
+        <mark key="." line="73" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/app/helpers.php" timestamp="1590412323204">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
