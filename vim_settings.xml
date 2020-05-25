@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91bGRfaW1wb3J0X3VzZXJzXD4=</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry encoding="base64">XDxNYWlsXD4=</entry>
         <entry encoding="base64">XDxzb3VyY2VfaG9zdFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwcm9qZWN0X2lkXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVQcm9kdWN0aW9uU2l0ZUZyb21Qcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxBcHBcPg==</entry>
+        <entry encoding="base64">XDx0aGVtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -106,8 +106,17 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="28" />
       </file>
-      <file name="/" timestamp="1589978172789">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/static/wwpcleaner/index.html" timestamp="1590404313632">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/static/wwpcleaner/index.js" timestamp="1590404712412">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/app/Estate.php" timestamp="1590394587895">
         <mark key="'" line="300" column="5" />
@@ -127,13 +136,6 @@
         <mark key="]" line="81" column="58" />
         <mark key="." line="81" column="57" />
         <mark key="^" line="81" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/helpers.php" timestamp="1589976216251">
-        <mark key="'" line="2" column="4" />
-        <mark key="[" line="84" column="71" />
-        <mark key="]" line="84" column="74" />
-        <mark key="." line="84" column="73" />
-        <mark key="^" line="84" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/app/Image.php" timestamp="1590394630581">
         <mark key="[" line="58" column="28" />
@@ -168,7 +170,6 @@
       <file name="$USER_HOME$/Projects/laravel/realestate/database/migrations/2018_12_20_102853_create_estates_table.php" timestamp="1590390256971" />
     </filemarks>
     <jumps>
-      <jump line="57" column="6" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" />
       <jump line="80" column="64" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" />
       <jump line="82" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Server.php" />
@@ -268,48 +269,49 @@
       <jump line="300" column="5" filename="$USER_HOME$/Projects/laravel/realestate/app/Estate.php" />
       <jump line="12" column="23" filename="$USER_HOME$/Projects/laravel/realestate/resources/views/mail/new-estates.blade.php" />
       <jump line="39" column="3" filename="$USER_HOME$/Projects/laravel/realestate/app/Mail/NewEstatesMail.php" />
+      <jump line="3" column="6" filename="$USER_HOME$/Projects/static/wwpcleaner/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vUm91dGU6OnJlc291cmNlcyhbCiAgICAvLyAgICAnZXN0YXRlcycgPT4gJ0VzdGF0ZUFwaUNvbnRyb2xsZXInCiAgICAvL10pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHx8IHRtcEVsLmlubmVyVGV4dCB8fCAiIg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IHx8IHRtcEVsLmlubmVyVGV4dCB8fCAiIg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcHBcPg==</text>
+        <text encoding="base64">XDx0aGVtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGlmKCRuZXdfZXN0YXRlcy0+aXNOb3RFbXB0eSgpKQogICAgPHVsPgogICAgICAgIEBmb3JlYWNoICgkZXN0YXRlcyBhcyAkZXN0YXRlKQogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5laWdlZG9tc21la2xpbmcubm8vZWlnZWRvbW1hci97eyAkZXN0YXRlLT5vcHBkcmFnc251bW1lciB9fSI+e3sgJGVzdGF0ZS0+b3BwZHJhZ3NudW1tZXIgfX08L2E+OiB7eyAkZXN0YXRlLT5vdmVyc2tyaWZ0IH19LCB7eyAkZXN0YXRlLT5hZHJlc3NlIH19LCB7eyAkZXN0YXRlLT5wb3N0c3RlZCB9fTwvbGk+CiAgICAgICAgQGVuZGZvcmVhY2gKICAgIDwvdWw+CkBlbHNlCiAgICBJbmdlbiBueWUgZWlnZWRvbW1hciBzaXN0ZSBkw7hnbi4KQGVuZGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSB0aGlzLmVkaXQoZXZ0LnRhcmdldC5pbm5lckhUTUwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vUm91dGU6OnJlc291cmNlcyhbCiAgICAvLyAgICAnZXN0YXRlcycgPT4gJ0VzdGF0ZUFwaUNvbnRyb2xsZXInCiAgICAvL10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpRdWVyeSgiPGRpdj4iKS5odG1sKGV2dC50YXJnZXQuaW5uZXJIVE1MKS50ZXh0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgUm91dGU6OmdldCgnbWFpbHMnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBcQXBwXE1haWxcTmV3RXN0YXRlc01haWwoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSBldnQudGFyZ2V0LmlubmVySFRNTDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnbWFpbHMnLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gbmV3IFxBcHBcTWFpbFxOZXdFc3RhdGVzTWFpbCgpOwp9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy50eHQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMj5TZWxkZSBlaWdlZG9tbWFyPC9oMj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRtcEVsID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICAgICAgICAgIHRtcEVsLmlubmVySFRNTCA9IGV2dC50YXJnZXQuaW5uZXJIVE1MOwogICAgICAgICAgICB0aGlzLnR4dCA9IGpRdWVyeSgiPGRpdj4iKS5odG1sKGV2dC50YXJnZXQuaW5uZXJIVE1MKS50ZXh0KCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMudHh0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoMj5OeWUgZWlnZWRvbW1hcjwvaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSB0bXBFbC50ZXh0Q29udGVudCB8fCB0bXBFbC5pbm5lclRleHQgfHwgIiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkaG91cnMgPSBDYXJib246Om5vdyhuZXcgRGF0ZVRpbWVab25lKCdFdXJvcGUvT3NsbycpKS0+c3ViTWludXRlcygyNCAqIDYwICsgMSk7IC8vIEFkZCBvbmUgZXh0cmEgbWludXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHNyYyA9IGV2dC50YXJnZXQuaW5uZXJIVE1MOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMTAsIEVzdGF0ZTo6YWN0aXZlKCktPmdldCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSBzcmM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZSA9IEVzdGF0ZTo6cXVlcnkoKQogICAgICAgICAgICAtPndoZXJlKCd1dGxvcHNkYXRvJywgJz4nLCBkYXRlKCdZLW0tZCcpKSAvLyBVdGzDuHBzZGF0byBsYXRlciB0aGFuIHRvZGF5CiAgICAgICAgICAgIC0+d2hlcmUoJ3NvbGd0JywgJz0nLCAwKSAvLyBTb2xndCBpcyBmYWxzZQogICAgICAgICAgICAtPm9yV2hlcmUoJ2Frc2VwdGRhdG8nLCAnPj0nLCBDYXJib246Om5vdygpLT5zdWJEYXlzKDIpKSAvLyBBa3NlcHRkYXRvIGlzIGxhdGVyIHRoYW4gdHdvIGRheXMgYWdvCiAgICAgICAgICAgIC0+d2hlcmUoJ3V0bG9wc2RhdG8nLCAnPicsIGRhdGUoJ1ktbS1kJykpCiAgICAgICAgOyAvLyBVdGzDuHBzZGF0byBsYXRlciB0aGFuIHRvZGF5CiAgICAgICAgZGQoJGUtPmNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50eHQgPSBzcmM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -318,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxBcHBcPg==</last-search>
+      <last-search encoding="base64">XDx0aGVtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcHBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0aGVtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
