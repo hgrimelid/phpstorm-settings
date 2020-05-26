@@ -90,17 +90,11 @@
         <mark key="^" line="67" column="80" />
         <mark key="." line="67" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/app/Image.php" timestamp="1590394630581">
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="26" />
-        <mark key="^" line="58" column="26" />
-        <mark key="." line="58" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/mb-bypass-cache.php" timestamp="1590481398427">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="51" />
+      <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/mb-bypass-cache.php" timestamp="1590488688839">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/.env.testing" timestamp="1590411334270">
         <mark key="[" line="26" column="11" />
@@ -113,6 +107,12 @@
         <mark key="]" line="73" column="10" />
         <mark key="^" line="73" column="10" />
         <mark key="." line="73" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/src/BypassCache.php" timestamp="1590488745342">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="12" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/app/helpers.php" timestamp="1590412323204">
         <mark key="[" line="196" column="0" />
@@ -270,16 +270,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Dynamic creation of Gravity Forms fields</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>Dynamic creation of Gravity Forms fields</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGVtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIFBsdWdpbiBOYW1lOiBHRiBEeW5hbWljCiAqIERlc2NyaXB0aW9uOiBEeW5hbWljIGNyZWF0aW9uIG9mIEdyYXZpdHkgRm9ybXMgZmllbGRzCiAqIEF1dGhvcjogICAgICBNZWRpZWJydWtldAogKiBWZXJzaW9uOiAgICAgMC4xCiAqIEF1dGhvciBVUkk6ICBodHRwczovL3d3dy5tZWRpZWJydWtldC5uby8KICovCgpyZXF1aXJlICd2ZW5kb3IvYXV0b2xvYWQucGhwJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0Y29va2llKCd3b3JkcHJlc3Nfbm9fY2FjaGUnLCAnMScsIDAsICcvYS8nKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAidGlnaHRlbmNvL2NvbGxlY3QiOiAiXjYuNCIK</text>
