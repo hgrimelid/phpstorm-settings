@@ -108,6 +108,11 @@
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Http/Controllers/EstateApiController.php" timestamp="1590499765195">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/phpcs.xml" timestamp="1590496351017">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="19" />
@@ -116,18 +121,6 @@
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet/app/Models/Site.php" timestamp="1590480907225">
         <mark key="'" line="44" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/static/wwpcleaner/index.html" timestamp="1590404313632">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/static/wwpcleaner/index.js" timestamp="1590404712412">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/config/logging.php" timestamp="1590406815245">
         <mark key="[" line="61" column="24" />
@@ -153,12 +146,19 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Http/Controllers/EstateVerificationController.php" timestamp="1590499103520">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="21" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/composer.json" timestamp="1590411269427">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/.env" timestamp="1590411318668">
+      <file name="$USER_HOME$/Projects/laravel/realestate/.env" timestamp="1590498596655">
+        <mark key="'" line="26" column="10" />
         <mark key="[" line="26" column="5" />
         <mark key="]" line="26" column="11" />
         <mark key="." line="26" column="10" />
@@ -166,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="73" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/SyncSitesBuilder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CopyStagingSiteJob.php" />
       <jump line="17" column="18" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
       <jump line="30" column="15" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
@@ -266,48 +265,49 @@
       <jump line="41" column="66" filename="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/views/settings.php" />
       <jump line="108" column="28" filename="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/src/BypassCache.php" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/src/BypassCache.php" />
+      <jump line="26" column="10" filename="$USER_HOME$/Projects/laravel/realestate/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>: set to PSR12</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>: set to PSR12</text>
+        <text>.imagesUploadedToMediaLibrary.media</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Nvb2tpZVNldFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxmaWxlPnNyYzwvZmlsZT4K</text>
+      <register name="0" type="4">
+        <text>imagesUploadedToMediaLibrary.media</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8cnVsZSByZWY9IlBTUjEuQ2xhc3Nlcy5DbGFzc0RlY2xhcmF0aW9uLk1pc3NpbmdOYW1lc3BhY2UiPgogICAgICAgIDxleGNsdWRlLXBhdHRlcm4+Ki9zZWVkcy8qPC9leGNsdWRlLXBhdHRlcm4+CiAgICA8L3J1bGU+Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICA8cnVsZSByZWY9IlBTUjEuTWV0aG9kcy5DYW1lbENhcHNNZXRob2ROYW1lLk5vdENhbWVsQ2FwcyI+CiAgICAgICAgPGV4Y2x1ZGUtcGF0dGVybj4qL3Rlc3RzLyo8L2V4Y2x1ZGUtcGF0dGVybj4KICAgIDwvcnVsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZWRpYScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxleGNsdWRlLXBhdHRlcm4+Ki9taWdyYXRpb25zLyo8L2V4Y2x1ZGUtcGF0dGVybj4KICAgIDxleGNsdWRlLXBhdHRlcm4+Ki5ibGFkZS5waHA8L2V4Y2x1ZGUtcGF0dGVybj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6aXNDb29raWVTZXQoJ3dvcmRwcmVzc19ub19jYWNoZScsICRpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiBpc0Nvb2tpZVNldCgkbmFtZSwgJHZhbHVlKQogICAgewogICAgICAgIF9sb2coJF9DT09LSUUpOwogICAgICAgIC8vJGNvb2tpZSA9ICRfQ09PS0lFWyRuYW1lXTsKICAgICAgICAvL19sb2coJGNvb2tpZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduZWlnaGJvdXJob29kcHJvZmlsZScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbWFnZS5tZWRpYScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZygkaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZWRpYScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0Y29va2llKCd3b3JkcHJlc3Nfbm9fY2FjaGUnLCAnMScsIDAsICcvYS8nKTsKICAgICAgICAgICAgc2V0Y29va2llKCd3b3JkcHJlc3Nfbm9fY2FjaGUnLCAnMScsIDAsICcvYi8nKTsK</text>
+        <text encoding="base64">CiAgICA8cnVsZSByZWY9IlBTUjEuQ2xhc3Nlcy5DbGFzc0RlY2xhcmF0aW9uLk1pc3NpbmdOYW1lc3BhY2UiPgogICAgICAgIDxleGNsdWRlLXBhdHRlcm4+Ki9zZWVkcy8qPC9leGNsdWRlLXBhdHRlcm4+CiAgICA8L3J1bGU+Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
