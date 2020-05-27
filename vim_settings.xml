@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYWlsXD4=</entry>
         <entry encoding="base64">XDxzb3VyY2VfaG9zdFw+</entry>
         <entry encoding="base64">XDxDcmVhdGVVcGxvYWRSdW5TY3JpcHRcPg==</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVQcm9kdWN0aW9uU2VydmVyc1w+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxBcHBcPg==</entry>
         <entry encoding="base64">XDx0aGVtZVw+</entry>
         <entry encoding="base64">XDxpc0Nvb2tpZVNldFw+</entry>
+        <entry encoding="base64">XDxpbWFnZXNVcGxvYWRlZFRvTWVkaWFMaWJyYXJ5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -61,10 +61,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/realestate/config/app.php" timestamp="1590410229719">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Http/Resources/ImageResource.php" timestamp="1590574678598">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" timestamp="1590573938585">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/composer.json" timestamp="1590481256116">
         <mark key="[" line="20" column="26" />
@@ -77,6 +84,13 @@
         <mark key="]" line="67" column="80" />
         <mark key="^" line="67" column="80" />
         <mark key="." line="67" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Image.php" timestamp="1590575426329">
+        <mark key="'" line="76" column="21" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="2" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/mb-bypass-cache.php" timestamp="1590488688839">
         <mark key="[" line="14" column="24" />
@@ -108,10 +122,10 @@
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/app/Http/Controllers/EstateApiController.php" timestamp="1590499765195">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Http/Controllers/EstateApiController.php" timestamp="1590575435993">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/phpcs.xml" timestamp="1590496351017">
         <mark key="[" line="10" column="18" />
@@ -122,11 +136,12 @@
       <file name="$USER_HOME$/Projects/laravel/sitefleet/app/Models/Site.php" timestamp="1590480907225">
         <mark key="'" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/config/logging.php" timestamp="1590406815245">
-        <mark key="[" line="61" column="24" />
-        <mark key="]" line="61" column="29" />
-        <mark key="." line="61" column="28" />
-        <mark key="^" line="61" column="29" />
+      <file name="$USER_HOME$/Projects/laravel/realestate/app/Estate.php" timestamp="1590575423628">
+        <mark key="'" line="389" column="20" />
+        <mark key="[" line="219" column="28" />
+        <mark key="]" line="219" column="26" />
+        <mark key="^" line="219" column="26" />
+        <mark key="." line="219" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/views/settings.php" timestamp="1590495591479">
         <mark key="'" line="41" column="66" />
@@ -139,7 +154,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/static/configyml/index.html" timestamp="1590406009601" />
       <file name="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/README.md" timestamp="1590496312164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
@@ -152,11 +166,6 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/realestate/composer.json" timestamp="1590411269427">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/.env" timestamp="1590498596655">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="26" column="5" />
@@ -166,15 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CopyStagingSiteJob.php" />
-      <jump line="17" column="18" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
-      <jump line="30" column="15" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
-      <jump line="108" column="5" filename="$USER_HOME$/Projects/laravel/sitefleet2/config/app.php" />
-      <jump line="70" column="18" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
-      <jump line="121" column="28" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
-      <jump line="124" column="28" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
-      <jump line="131" column="28" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="36" column="6" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
       <jump line="106" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
       <jump line="79" column="8" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Commands/ScriptBuilder/PostSyncDestinationBuilder.php" />
@@ -266,6 +266,15 @@
       <jump line="108" column="28" filename="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/src/BypassCache.php" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/Wordpress/devsite/wp-content/plugins/mb-bypass-cache/src/BypassCache.php" />
       <jump line="26" column="10" filename="$USER_HOME$/Projects/laravel/realestate/.env" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" />
+      <jump line="99" column="25" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
+      <jump line="58" column="32" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
+      <jump line="107" column="0" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
+      <jump line="391" column="32" filename="$USER_HOME$/Projects/laravel/realestate/app/Estate.php" />
+      <jump line="389" column="20" filename="$USER_HOME$/Projects/laravel/realestate/app/Estate.php" />
+      <jump line="76" column="21" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -274,40 +283,40 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.imagesUploadedToMediaLibrary.media</text>
+        <text>.listing_image</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0Nvb2tpZVNldFw+</text>
+        <text encoding="base64">XDxpbWFnZXNVcGxvYWRlZFRvTWVkaWFMaWJyYXJ5XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>imagesUploadedToMediaLibrary.media</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbigkZXN0YXRlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZWRpYScsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0Rmlyc3RNZWRpYSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZXMpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduZWlnaGJvdXJob29kcHJvZmlsZScsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbWFnZS5tZWRpYScsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdtZWRpYScsCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZWRpYScsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZXN0YXRlLT50b0FycmF5KCkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICA8cnVsZSByZWY9IlBTUjEuQ2xhc3Nlcy5DbGFzc0RlY2xhcmF0aW9uLk1pc3NpbmdOYW1lc3BhY2UiPgogICAgICAgIDxleGNsdWRlLXBhdHRlcm4+Ki9zZWVkcy8qPC9leGNsdWRlLXBhdHRlcm4+CiAgICA8L3J1bGU+Cgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJGVzdGF0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -316,9 +325,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc0Nvb2tpZVNldFw+</last-search>
+      <last-search encoding="base64">XDxpbWFnZXNVcGxvYWRlZFRvTWVkaWFMaWJyYXJ5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0Nvb2tpZVNldFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZXNVcGxvYWRlZFRvTWVkaWFMaWJyYXJ5XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
