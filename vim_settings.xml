@@ -73,11 +73,11 @@
         <mark key="]" line="9" column="121" />
         <mark key="." line="9" column="121" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/UpdateUserRequest.php" timestamp="1590663986634">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="13" />
-        <mark key="^" line="19" column="21" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/UpdateUserRequest.php" timestamp="1590667182600">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/teams/index.blade.php" timestamp="1590655835854">
         <mark key="'" line="10" column="0" />
@@ -118,12 +118,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" timestamp="1590664374347">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" timestamp="1590667177007">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="21" column="53" />
-        <mark key="." line="21" column="52" />
-        <mark key="^" line="21" column="53" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="21" column="59" />
+        <mark key="." line="21" column="58" />
+        <mark key="^" line="21" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/users/form.blade.php" timestamp="1590657493304">
         <mark key="[" line="4" column="66" />
