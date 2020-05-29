@@ -79,24 +79,16 @@
         <mark key="." line="40" column="30" />
         <mark key="^" line="39" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/teams/index.blade.php" timestamp="1590655835854">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="49" column="11" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserCanEditProfile.php" timestamp="1590737403110">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/View/Components/TextInput.php" timestamp="1590657541588">
         <mark key="[" line="26" column="30" />
         <mark key="]" line="27" column="28" />
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/layouts/app.blade.php" timestamp="1590656296851">
-        <mark key="[" line="49" column="168" />
-        <mark key="]" line="49" column="173" />
-        <mark key="^" line="49" column="173" />
-        <mark key="." line="49" column="172" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/CreateUserRequest.php" timestamp="1590663135911">
         <mark key="'" line="26" column="20" />
@@ -105,12 +97,11 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/users/create.blade.php" timestamp="1590656702958">
-        <mark key="'" line="34" column="11" />
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="52" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserControllerTest.php" timestamp="1590738411932">
+        <mark key="[" line="48" column="67" />
+        <mark key="]" line="48" column="28" />
+        <mark key="." line="48" column="27" />
+        <mark key="^" line="48" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/users/single.blade.php" timestamp="1590663304780">
         <mark key="[" line="2" column="13" />
@@ -118,11 +109,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" timestamp="1590671337909">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" timestamp="1590736298581">
         <mark key="'" line="24" column="26" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="23" />
-        <mark key="." line="26" column="23" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/users/form.blade.php" timestamp="1590657493304">
         <mark key="[" line="4" column="66" />
@@ -147,6 +139,11 @@
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/TeamControllerTest.php" timestamp="1590737574216">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/users/index.blade.php" timestamp="1590663377368">
         <mark key="'" line="52" column="10" />
@@ -186,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="27" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="120" column="5" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="47" column="31" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" />
       <jump line="21" column="14" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/LaunchReadySitesCommand.php" />
@@ -286,48 +282,49 @@
       <jump line="24" column="26" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" />
       <jump line="5" column="22" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" />
+      <jump line="10" column="50" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserCanEditProfile.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>is too short</text>
+        <text>to_look_up</text>
       </register>
       <register name="-" type="4">
-        <text>is too short</text>
+        <text>to_look_up</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcGRhdGVVc2VyUmVxdWVzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICd1c2Vycy5wYXNzd29yZC5yZXF1aXJlZCcgPT4gJ1Bhc3N3b3JkIGlzIHJlcXVpcmVkJywK</text>
+        <text encoding="base64">ICAgICAgICAkcmFuZG9tX3VzZXJfdG9fbG9va191cCA9IFVzZXI6OmFsbCgpLT5kaWZmKGdldF9hZG1pbl91c2VycygpKS0+cmFuZG9tKDEpLT5maXJzdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Bhc3N3b3JkLm1pbicgPT4gJ1lvbG8nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdudWxsYWJsZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIocHJpbnRfcigkdmFsaWRhdGVkLCB0cnVlKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXJyYXlfa2V5X2V4aXN0cygncGFzc3dvcmQnLCAkdmFsaWRhdGVkKSAmJiBpc19udWxsKCR2YWxpZGF0ZWRbJ3Bhc3N3b3JkJ10pKSB7CiAgICAgICAgICAgIHVuc2V0KCR2YWxpZGF0ZWRbJ3Bhc3N3b3JkJ10pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEh0dHBGb3VuZGF0aW9uXFJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpIGhhdmUgYW4gYWRtaW4gdXNlcgogICAgICAgIC8vIGl0IHRyaWVzIHRvIHNlZSBjcmVhdGUgcGFnZQogICAgICAgIC8vIHRoZW4gaXQgc2hvdWxkIHNlZSAyMDAgb2sKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Bhc3N3b3JkLnJlcXVpcmVkJyA9PiBfXygnbWVzc2FnZXMudXNlcnMucGFzc3dvcmQucmVxdWlyZWQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFNlZVRleHQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dmFsaWRhdGVkKCkpOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gaXRfY2FuX3NlZV9jcmVhdGVfcGFnZSgpOiB2b2lkCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGl0X2Nhbl9zZWVfdXNlcl9saXN0KCkKICAgIHsKICAgICAgICAKICAgIH0KICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIGl0X2Nhbl9jcmVhdGVfdXNlcigpOiB2b2lkCiAgICB7CiAgICAgICAgLy8gYXJyYW5nZSwgYWN0LCBhc3NlcnQKICAgICAgICAvLyBpIGhhdmUgYW4gYWRtaW4KICAgICAgICAvLyBpdCBjYW4gbWFrZSBhIHBvc3QgcmVxdWVzdCB0byBjcmVhdGUgYSB1c2VyCiAgICAgICAgLy8gdGhlbiBpdCBzaG91bGQgcmV0dXJuIGEgcmVkaXJlY3QgMzAxCiAgICAgICAgLy8gdGhlbiBpdCBzaG91bGQgZmluZCBhIHVzZXIgaW4gZGF0YWJhc2UKICAgIH0KICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dmFsaWRhdGVkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
