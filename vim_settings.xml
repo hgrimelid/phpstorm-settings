@@ -28,12 +28,12 @@
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
-        <entry>w</entry>
         <entry>redo</entry>
         <entry>action GotoAction</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -75,6 +75,7 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/testing/emsf-tests/tests/acceptance/SingleEstateCest.php" timestamp="1591102223809" />
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/ProjectControllerTest.php" timestamp="1590759040745">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -85,12 +86,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1590755865258">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/php/parse_email_list/parse.php" timestamp="1591096286767">
         <mark key="[" line="2" column="18" />
@@ -111,13 +106,17 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/ProjectTeamScope.php" timestamp="1590749719141">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1591084656776">
         <mark key="[" line="72" column="98" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1591101765089">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" timestamp="1591101067163">
+        <mark key="'" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Browser/ProjectViewsTest.php" timestamp="1590759024927">
         <mark key="'" line="45" column="98" />
@@ -151,8 +150,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" timestamp="1590743603962">
-        <mark key="'" line="10" column="23" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/lookup_phone_frontend.js" timestamp="1591100887241">
+        <mark key="'" line="112" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112657_create_emails_table.php" timestamp="1591097959402">
         <mark key="[" line="19" column="42" />
@@ -160,22 +159,8 @@
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/TestCase.php" timestamp="1590751205632">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" timestamp="1590750061864">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="10" filename="$USER_HOME$/Projects/laravel/realestate/.env" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" />
       <jump line="99" column="25" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
       <jump line="58" column="32" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
@@ -273,15 +258,18 @@
       <jump line="46" column="98" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Browser/ProjectViewsTest.php" />
       <jump line="21" column="1" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Team.php" />
       <jump line="224" column="0" filename="$USER_HOME$/Projects/php/parse_email_list/users.txt" />
+      <jump line="112" column="2" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/lookup_phone_frontend.js" />
+      <jump line="102" column="10" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>babel</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>babel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1w+</text>
@@ -289,32 +277,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc2l0ZSA9IHByZWdfcmVwbGFjZSggIi9ccnxcbi8iLCAiIiwgJGxpbmUgKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc2l0ZSA9IHByZWdfcmVwbGFjZSggIi9ccnxcbi8iLCAiIiwgJGxpbmUgKTsK</text>
+        <text encoding="base64">ICBjb3JlanM6Mwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2l0ZSA9ICRsaW5lOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRsaW5lIC4gJyBoZXknOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc2l0ZSA9IHByZWdfcmVwbGFjZSggIi9ccnxcbi8iLCAiIiwgJGxpbmUgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIHByZWdfcmVwbGFjZSggIi9ccnxcbi8iLCAiIiwgJGxpbmUgKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc2l0ZSA9ICRsaW5lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHByb2Nlc3MgdGhlIGxpbmUgcmVhZC4K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRsaW5lIC4gJyBoZXknOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yZWFjaCAoJGNvbnRlbnQgYXMgJGl0ZW0pIHsKICAgIGVjaG8gJGl0ZW07Cn0K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIHByZWdfcmVwbGFjZSggIi9ccnxcbi8iLCAiIiwgJGxpbmUgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyBwcmludF9yKCRjb250ZW50LCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgIC8vIHByb2Nlc3MgdGhlIGxpbmUgcmVhZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yZWFjaCAoJGNvbnRlbnQgYXMgJGl0ZW0pIHsKICAgIGVjaG8gJGl0ZW07Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
