@@ -61,14 +61,57 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" timestamp="1590756258595">
+        <mark key="'" line="98" column="3" />
+        <mark key="[" line="119" column="5" />
+        <mark key="]" line="120" column="4" />
+        <mark key="." line="120" column="3" />
+        <mark key="^" line="120" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590742920541">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1590741421298">
+        <mark key="'" line="38" column="21" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/ProjectTeamScope.php" timestamp="1590749719141">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1591084656776">
+        <mark key="[" line="72" column="98" />
+      </file>
       <file name="/a.dummy" timestamp="1590740576717">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" timestamp="1590740167097">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Browser/ProjectViewsTest.php" timestamp="1590759024927">
+        <mark key="'" line="45" column="98" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="46" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/DuskTestCase.php" timestamp="1590758240920">
+        <mark key="[" line="33" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserUpdateTest.php" timestamp="1590742571153">
+        <mark key="'" line="65" column="28" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="28" />
+        <mark key="^" line="38" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Policies/ProjectPolicy.php" timestamp="1590758884399">
+        <mark key="'" line="60" column="30" />
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/UpdateUserRequest.php" timestamp="1590742405633">
         <mark key="[" line="24" column="59" />
@@ -81,12 +124,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1590755865258">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/ProjectController.php" timestamp="1590758207242">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="72" column="0" />
@@ -94,16 +131,17 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/TestCase.php" timestamp="1590751205632">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Providers/AuthServiceProvider.php" timestamp="1590758952842">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1590755865258">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" timestamp="1590743603962">
         <mark key="'" line="10" column="23" />
@@ -114,50 +152,6 @@
         <mark key="]" line="101" column="5" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" timestamp="1590756258595">
-        <mark key="'" line="98" column="3" />
-        <mark key="[" line="119" column="5" />
-        <mark key="]" line="120" column="4" />
-        <mark key="." line="120" column="3" />
-        <mark key="^" line="120" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Policies/ProjectPolicy.php" timestamp="1590758884399">
-        <mark key="'" line="60" column="30" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Browser/ProjectViewsTest.php" timestamp="1590759024927">
-        <mark key="'" line="45" column="98" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="46" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/DuskTestCase.php" timestamp="1590758240920">
-        <mark key="[" line="33" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" timestamp="1590750061864">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1590741421298">
-        <mark key="'" line="38" column="21" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserUpdateTest.php" timestamp="1590742571153">
-        <mark key="'" line="65" column="28" />
-        <mark key="[" line="65" column="28" />
-        <mark key="]" line="65" column="28" />
-        <mark key="." line="65" column="28" />
-        <mark key="^" line="38" column="34" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Team.php" timestamp="1590760294729">
         <mark key="'" line="21" column="1" />
         <mark key="[" line="50" column="0" />
@@ -165,13 +159,16 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590742920541">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/TestCase.php" timestamp="1590751205632">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/ProjectTeamScope.php" timestamp="1590749719141">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" timestamp="1590750061864">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
     </filemarks>
     <jumps>
