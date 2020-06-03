@@ -83,6 +83,7 @@
         <mark key="." line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/projects/index.blade.php" timestamp="1591181568611" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-estates.twig" timestamp="1591187597059" />
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" timestamp="1591177981643">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="0" />
@@ -102,9 +103,6 @@
         <mark key="'" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Theme/Theme.php" timestamp="1591174451665" />
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/node_modules/laravel-mix/src/index.js" timestamp="1591167845333">
-        <mark key="'" line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1591173227893">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="27" column="0" />
