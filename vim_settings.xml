@@ -70,6 +70,12 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Theme/Styleheets.php" timestamp="1591179984403">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="29" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" timestamp="1591177981643">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="0" />
@@ -129,12 +135,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/lookup_phone_frontend.js" timestamp="1591100887241">
         <mark key="'" line="112" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112657_create_emails_table.php" timestamp="1591097959402">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="54" />
-        <mark key="^" line="19" column="54" />
-        <mark key="." line="19" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -242,11 +242,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAkc3R5bGVzaGVldCA9IG5ldyBcTWVkaWVicnVrZXRcVGhlbWVcU3R5bGVzaGVldCgnZGlzdC9zdHlsZXNoZWV0cycsICdhcHAuY3NzJyk7CiAgbmV3IFxNZWRpZWJydWtldFxUaGVtZVxTdHlsZWhlZXRzKCdlbXNmLScsIFskc3R5bGVzaGVldF0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>: string</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>: string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVtZVw+</text>
