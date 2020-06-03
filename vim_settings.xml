@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVTdGFnaW5nU2VydmVyc1w+</entry>
         <entry encoding="base64">XDx3YWl0aW5nRm9yRG5zXD4=</entry>
         <entry encoding="base64">XDx1bnByb3BhZ2F0ZWRTaXRlc1JlYWR5Rm9yTGF1bmNoXD4=</entry>
@@ -25,15 +24,16 @@
         <entry encoding="base64">XDxjaGVja1w+</entry>
         <entry encoding="base64">XDxUaGVtZVw+</entry>
         <entry encoding="base64">XDxyZWdpc3RlclN0eWxlc2hlZXRzXD4=</entry>
+        <entry encoding="base64">XDxlbnF1ZXVlU2NyaXB0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
         <entry>redo</entry>
         <entry>action GotoAction</entry>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -70,18 +70,17 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets.php" timestamp="1591173833216">
         <mark key="'" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" timestamp="1591190311293">
-        <mark key="'" line="53" column="12" />
-        <mark key="[" line="50" column="89" />
-        <mark key="]" line="55" column="75" />
-        <mark key="." line="55" column="74" />
-        <mark key="^" line="55" column="75" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" timestamp="1591211434075">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="72" column="7" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/app.pcss" timestamp="1591173462805">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page.php" timestamp="1591212491248">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Theme/Styleheets.php" timestamp="1591189243409">
         <mark key="'" line="43" column="19" />
@@ -90,16 +89,35 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="29" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/plugins/fluge-employees/inc/timber-employee.php" timestamp="1591210293309">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+        <mark key="." line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/helpers.php" timestamp="1591212778486">
+        <mark key="[" line="162" column="2" />
+        <mark key="]" line="161" column="61" />
+        <mark key="." line="161" column="60" />
+        <mark key="^" line="161" column="61" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/single.php" timestamp="1591211881504">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/projects/index.blade.php" timestamp="1591181568611" />
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets-v2.php" timestamp="1591187659080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-estates.twig" timestamp="1591187597059" />
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" timestamp="1591190140121">
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="45" column="40" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" timestamp="1591212444446">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/HasFile.php" timestamp="1591187830971">
         <mark key="[" line="12" column="41" />
@@ -109,13 +127,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1591187883863">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1591173665141">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="44" />
-        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/plugins/timber-library/lib/Theme.php" timestamp="1591174589042">
         <mark key="'" line="29" column="80" />
@@ -130,47 +141,18 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/dist/css/app.css" timestamp="1591173458165">
-        <mark key="'" line="625" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-front-v3.php" timestamp="1591177348741">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="30" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-front-v3.php" timestamp="1591211341327">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="2" />
+        <mark key="^" line="29" column="2" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/composer.json" timestamp="1591187721574">
         <mark key="'" line="30" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="19" filename="$USER_HOME$/Projects/laravel/sitefleet2/routes/web.php" />
-      <jump line="34" column="11" filename="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/users/create.blade.php" />
-      <jump line="7" column="6" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreTeamRequest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/resources/lang/en/messages.php" />
-      <jump line="26" column="20" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/CreateUserRequest.php" />
-      <jump line="52" column="11" filename="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/users/edit.blade.php" />
-      <jump line="6" column="22" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" />
-      <jump line="24" column="26" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Requests/StoreUserRequest.php" />
-      <jump line="5" column="22" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" />
-      <jump line="10" column="50" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserCanEditProfile.php" />
-      <jump line="66" column="37" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserControllerTest.php" />
-      <jump line="12" column="17" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserControllerTest.php" />
-      <jump line="12" column="6" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/UserController.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/TeamControllerTest.php" />
-      <jump line="215" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/ServerControllerTest.php" />
-      <jump line="29" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
-      <jump line="84" column="54" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserControllerTest.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
-      <jump line="10" column="20" filename="$USER_HOME$/Projects/laravel/sitefleet2/vendor/jasonmccreary/laravel-test-assertions/src/Traits/AdditionalAssertions.php" />
-      <jump line="28" column="20" filename="$USER_HOME$/Projects/laravel/sitefleet2/vendor/jasonmccreary/laravel-test-assertions/src/Traits/AdditionalAssertions.php" />
-      <jump line="11" column="24" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserControllerTest.php" />
       <jump line="105" column="15" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserControllerTest.php" />
       <jump line="183" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateServerTest.php" />
       <jump line="112" column="27" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/UserControllerTest.php" />
@@ -241,68 +223,162 @@
       <jump line="10" column="23" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
       <jump line="11" column="29" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
       <jump line="13" column="9" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
-      <jump line="48" column="76" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
-      <jump line="53" column="12" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
       <jump line="43" column="19" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Theme/Styleheets.php" />
+      <jump line="48" column="19" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
+      <jump line="53" column="19" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Themer/Stylesheet.php" />
+      <jump line="5" column="14" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/plugins/fluge-employees/inc/timber-employee.php" />
+      <jump line="2" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-front-v3.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-front-v3.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="4" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="5" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="6" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="7" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="8" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="9" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="10" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="11" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="12" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="13" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="14" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="15" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="16" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="17" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="18" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="19" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="20" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JHN0eWxlc2hlZXQgPSBuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlc2hlZXQoJ2Rpc3Qvc3R5bGVzaGVldHMnLCAnYXBwLmNzcycpOwpuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlaGVldHMoJ2Vtc2YtJywgWyRzdHlsZXNoZWV0XSk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RlclN0eWxlc2hlZXRzXD4=</text>
+        <text encoding="base64">XDxlbnF1ZXVlU2NyaXB0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHMKICAtPndpdGhIYW5kbGUoJ2Vtc2YnKQogIC0+d2l0aEZpbGUoJ2FwcC5jc3MnKQogIC0+d2l0aENvbmRpdGlvbihmdW5jdGlvbiAoKSB7CiAgICBnbG9iYWwgJHBvc3Q7CiAgICBfbG9nKGdldF9wYWdlX3RlbXBsYXRlX3NsdWcoJHBvc3QpKTsKICAgIHJldHVybiBnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSA9PT0gJ3BhZ2UtZnJvbnQtdjMucGhwJzsKICB9KQogIC0+d2l0aFBhdGgoJ2Rpc3Qvc3R5bGVzaGVldHMnKQogIC0+ZW5xdWV1ZSgpOwoK</text>
+        <text encoding="base64">ICAgICAgZ2xvYmFsICRwb3N0OwogICAgICBfbG9nKGdldF9wYWdlX3RlbXBsYXRlX3NsdWcoJHBvc3QpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHN0eWxlc2hlZXQgPSBuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlc2hlZXQoJ2Rpc3Qvc3R5bGVzaGVldHMnLCAnYXBwLmNzcycpOwpuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlaGVldHMoJ2Vtc2YtJywgWyRzdHlsZXNoZWV0XSk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkgPT09ICdwYWdlLWZyb250LXYzLnBocCcpIHsKICB9Cg==</text>
+      <register name="2" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgX2xvZygkdGhpcy0+Y29uZGl0aW9uKTsK</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIF9sb2coJGZpbGVfcGF0aCk7Cg==</text>
+      <register name="4" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRkX2FjdGlvbignd3BfZW5xdWV1ZV9zY3JpcHRzJywgZnVuY3Rpb24gKCkgewogIGdsb2JhbCAkcG9zdDsKICBpZiAoZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkgPT09ICdwYWdlLWZyb250LXYzLnBocCcpIHsKICB9CiAgX2xvZyhnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSk7Cn0pOwokc3R5bGVzaGVldCA9IG5ldyBcTWVkaWVicnVrZXRcVGhlbWVcU3R5bGVzaGVldCgnZGlzdC9zdHlsZXNoZWV0cycsICdhcHAuY3NzJyk7Cm5ldyBcTWVkaWVicnVrZXRcVGhlbWVcU3R5bGVoZWV0cygnZW1zZi0nLCBbJHN0eWxlc2hlZXRdKTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24geW9sbygpIHsKICBnbG9iYWwgJHBvc3Q7CiAgX2xvZyhnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSk7CiAgLy9fbG9nKHByaW50X3IoZGVidWdfYmFja3RyYWNlKERFQlVHX0JBQ0tUUkFDRV9JR05PUkVfQVJHUyksIHRydWUpKTsKfQphZGRfYWN0aW9uKCd3cF9lbnF1ZXVlX3NjcmlwdHMnLCAneW9sbycpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>private
-private
-private
-private
-private
-private</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBnbG9iYWwgJHBvc3Q7CiAgX2xvZyhnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSk7CiAgX2xvZyhwcmludF9yKGRlYnVnX2JhY2t0cmFjZShERUJVR19CQUNLVFJBQ0VfSUdOT1JFX0FSR1MpLCB0cnVlKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RlclN0eWxlc2hlZXRzXD4=</last-search>
+      <last-search encoding="base64">XDxlbnF1ZXVlU2NyaXB0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RlclN0eWxlc2hlZXRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbnF1ZXVlU2NyaXB0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
