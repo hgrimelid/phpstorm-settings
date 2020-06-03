@@ -61,6 +61,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/projects/single.blade.php" timestamp="1591181783308">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets.php" timestamp="1591173833216">
         <mark key="'" line="101" column="0" />
       </file>
@@ -76,6 +82,7 @@
         <mark key="^" line="29" column="19" />
         <mark key="." line="29" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/projects/index.blade.php" timestamp="1591181568611" />
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" timestamp="1591177981643">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="0" />
@@ -117,12 +124,6 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/dist/css/app.css" timestamp="1591173458165">
         <mark key="'" line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/pwned/.env" timestamp="1591098429574">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-front-v3.php" timestamp="1591177348741">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="3" column="31" />
@@ -132,9 +133,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/hl/package.json" timestamp="1591168225442">
         <mark key="'" line="17" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/lookup_phone_frontend.js" timestamp="1591100887241">
-        <mark key="'" line="112" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -243,10 +241,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>: string</text>
+        <text>if</text>
       </register>
       <register name="-" type="4">
-        <text>: string</text>
+        <text>if</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVtZVw+</text>
@@ -255,31 +253,31 @@
         <text encoding="base64">ICAgICAgICAkc2l0ZSA9IHByZWdfcmVwbGFjZSggIi9ccnxcbi8iLCAiIiwgJGxpbmUgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAkc3R5bGVzaGVldCA9IG5ldyBcTWVkaWVicnVrZXRcVGhlbWVcU3R5bGVzaGVldCgnZGlzdC9zdHlsZXNoZWV0cycsICdhcHAuY3NzJyk7CiAgbmV3IFxNZWRpZWJydWtldFxUaGVtZVxTdHlsZWhlZXRzKCdlbXNmLScsIFskc3R5bGVzaGVldF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9sb2coZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkpOwogICAgJHN0eWxlc2hlZXQgPSBuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlc2hlZXQoJ2Rpc3Qvc3R5bGVzaGVldHMnLCAnYXBwLmNzcycpOwogICAgbmV3IFxNZWRpZWJydWtldFxUaGVtZVxTdHlsZWhlZXRzKCdlbXNmLScsIFskc3R5bGVzaGVldF0pOwo=</text>
+        <text encoding="base64">ICAkc3R5bGVzaGVldCA9IG5ldyBcTWVkaWVicnVrZXRcVGhlbWVcU3R5bGVzaGVldCgnZGlzdC9zdHlsZXNoZWV0cycsICdhcHAuY3NzJyk7CiAgbmV3IFxNZWRpZWJydWtldFxUaGVtZVxTdHlsZWhlZXRzKCdlbXNmLScsIFskc3R5bGVzaGVldF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnbG9iYWwgJHBvc3Q7Cg==</text>
+        <text encoding="base64">ICAgIF9sb2coZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkpOwogICAgJHN0eWxlc2hlZXQgPSBuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlc2hlZXQoJ2Rpc3Qvc3R5bGVzaGVldHMnLCAnYXBwLmNzcycpOwogICAgbmV3IFxNZWRpZWJydWtldFxUaGVtZVxTdHlsZWhlZXRzKCdlbXNmLScsIFskc3R5bGVzaGVldF0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAoZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkgPT09ICdwYWdlLWZyb250LXYzLnBocCcpIHsKICAgIF9sb2coZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkpOwo=</text>
+        <text encoding="base64">ICBnbG9iYWwgJHBvc3Q7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBfbG9nKGdldF9wYWdlX3RlbXBsYXRlX3NsdWcoJHBvc3QpKTsK</text>
+        <text encoding="base64">ICBpZiAoZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkgPT09ICdwYWdlLWZyb250LXYzLnBocCcpIHsKICAgIF9sb2coZ2V0X3BhZ2VfdGVtcGxhdGVfc2x1ZygkcG9zdCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfbG9nKGdldF9wYWdlX3RlbXBsYXRlX3NsdWcoJHBvc3QpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X2xvZyhnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSk7CmlmIChnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSA9PT0gJ3BhZ2UtZnJvbnQtdjMucGhwJykgewogICRzdHlsZXNoZWV0ID0gbmV3IFxNZWRpZWJydWtldFxUaGVtZVxTdHlsZXNoZWV0KCdkaXN0L3N0eWxlc2hlZXRzJywgJ2FwcC5jc3MnKTsKICBuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlaGVldHMoJ2Vtc2YtJywgWyRzdHlsZXNoZWV0XSk7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2xvYmFsICR3cF9xdWVyeTsKX2xvZygkd3BfcXVlcnkpOwo=</text>
+        <text encoding="base64">X2xvZyhnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSk7CmlmIChnZXRfcGFnZV90ZW1wbGF0ZV9zbHVnKCRwb3N0KSA9PT0gJ3BhZ2UtZnJvbnQtdjMucGhwJykgewogICRzdHlsZXNoZWV0ID0gbmV3IFxNZWRpZWJydWtldFxUaGVtZVxTdHlsZXNoZWV0KCdkaXN0L3N0eWxlc2hlZXRzJywgJ2FwcC5jc3MnKTsKICBuZXcgXE1lZGllYnJ1a2V0XFRoZW1lXFN0eWxlaGVldHMoJ2Vtc2YtJywgWyRzdHlsZXNoZWV0XSk7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2xvYmFsICR3cF9xCmdsb2JhbCAkV1BfUXVlcnk7Cg==</text>
+        <text encoding="base64">Z2xvYmFsICR3cF9xdWVyeTsKX2xvZygkd3BfcXVlcnkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
