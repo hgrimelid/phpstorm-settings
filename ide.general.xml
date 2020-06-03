@@ -12,9 +12,12 @@
     <option name="widgets">
       <map>
         <entry key="Encoding" value="false" />
+        <entry key="IdeaVim-Icon" value="false" />
+        <entry key="IdeaVim::ShowCmd" value="false" />
         <entry key="InspectionProfile" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
     </option>
   </component>
