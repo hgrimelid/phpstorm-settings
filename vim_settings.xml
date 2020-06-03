@@ -61,49 +61,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Wordpress/hl/tailwind.config.js" timestamp="1591173237622" />
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/app.pcss" timestamp="1591173462805">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" timestamp="1591173804123">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/php/parse_email_list/example.txt" timestamp="1591095910079">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/php/parse_email_list/parse.php" timestamp="1591096286767">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112628_create_sites_table.php" timestamp="1591097529707">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1591084656776">
-        <mark key="[" line="72" column="98" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1591173387392">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1591173665141">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="3" />
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" timestamp="1591101067163">
         <mark key="'" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets.php" timestamp="1591173833216">
+        <mark key="'" line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/hl/webpack.mix.js" timestamp="1591168264633">
         <mark key="'" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/node_modules/laravel-mix/src/index.js" timestamp="1591167845333">
         <mark key="'" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/app.pcss" timestamp="1591173462805">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1591173227893">
         <mark key="'" line="29" column="0" />
@@ -127,8 +114,11 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/php/parse_email_list/users.txt" timestamp="1591095886210">
-        <mark key="'" line="224" column="0" />
+      <file name="$USER_HOME$/Projects/php/parse_email_list/example.txt" timestamp="1591095910079">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/hl/package.json" timestamp="1591168225442">
         <mark key="'" line="17" column="16" />
@@ -136,16 +126,26 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/lookup_phone_frontend.js" timestamp="1591100887241">
         <mark key="'" line="112" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/hl/web/app/themes/hl2/src/pcss/app.pcss" timestamp="1591173334891" />
+      <file name="$USER_HOME$/Projects/php/parse_email_list/parse.php" timestamp="1591096286767">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112657_create_emails_table.php" timestamp="1591097959402">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="54" />
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112628_create_sites_table.php" timestamp="1591097529707">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="3" filename="$USER_HOME$/Projects/laravel/sitefleet2/resources/views/pages/projects/form.blade.php" />
       <jump line="64" column="9" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" />
       <jump line="73" column="22" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" />
       <jump line="110" column="10" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" />
@@ -245,15 +245,16 @@
       <jump line="31" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" />
       <jump line="36" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/dist/css/app.css" />
       <jump line="625" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/dist/css/app.css" />
+      <jump line="101" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>css</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>css</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1w+</text>
