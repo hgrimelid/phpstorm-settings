@@ -68,48 +68,11 @@
         <mark key="." line="120" column="3" />
         <mark key="^" line="120" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Policies/ProjectPolicy.php" timestamp="1590758884399">
-        <mark key="'" line="60" column="30" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="45" />
-        <mark key="." line="12" column="44" />
-        <mark key="^" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/testing/emsf-tests/tests/acceptance/SingleEstateCest.php" timestamp="1591102223809" />
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/ProjectControllerTest.php" timestamp="1590759040745">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/php/parse_email_list/example.txt" timestamp="1591095910079">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/php/parse_email_list/parse.php" timestamp="1591096286767">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Team.php" timestamp="1590760294729">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="21" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112628_create_sites_table.php" timestamp="1591097529707">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1591084656776">
         <mark key="[" line="72" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1591101765089">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1591164789353">
+        <mark key="'" line="26" column="5" />
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
         <mark key="^" line="25" column="6" />
@@ -128,14 +91,32 @@
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/DuskTestCase.php" timestamp="1590758240920">
         <mark key="[" line="33" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Policies/ProjectPolicy.php" timestamp="1590758884399">
+        <mark key="'" line="60" column="30" />
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/pwned/.env" timestamp="1591098429574">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/ProjectControllerTest.php" timestamp="1590759040745">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/php/parse_email_list/users.txt" timestamp="1591095886210">
         <mark key="'" line="224" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/php/parse_email_list/example.txt" timestamp="1591095910079">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/ProjectController.php" timestamp="1590758207242">
         <mark key="'" line="57" column="0" />
@@ -153,15 +134,33 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/lookup_phone_frontend.js" timestamp="1591100887241">
         <mark key="'" line="112" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/php/parse_email_list/parse.php" timestamp="1591096286767">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Team.php" timestamp="1590760294729">
+        <mark key="'" line="21" column="1" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="21" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112657_create_emails_table.php" timestamp="1591097959402">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="19" column="54" />
         <mark key="^" line="19" column="54" />
         <mark key="." line="19" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/pwned/database/migrations/2020_06_02_112628_create_sites_table.php" timestamp="1591097529707">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/laravel/realestate/tests/Feature/Http/EstateApiResponseTest.php" />
       <jump line="99" column="25" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
       <jump line="58" column="32" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/laravel/realestate/app/Image.php" />
@@ -261,6 +260,7 @@
       <jump line="112" column="2" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/lookup_phone_frontend.js" />
       <jump line="102" column="10" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" />
+      <jump line="26" column="5" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
