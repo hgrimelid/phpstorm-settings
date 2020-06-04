@@ -98,12 +98,12 @@
         <mark key="]" line="161" column="2" />
         <mark key="." line="161" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" timestamp="1591261162982">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" timestamp="1591267742309">
         <mark key="'" line="24" column="12" />
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="40" />
-        <mark key="^" line="16" column="61" />
-        <mark key="." line="17" column="40" />
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="74" />
+        <mark key="." line="30" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets-redesign.php" timestamp="1591254390822">
         <mark key="'" line="11" column="18" />
@@ -278,10 +278,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-default</text>
+        <text>center</text>
       </register>
       <register name="-" type="4">
-        <text>-default</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZ3aGl0ZVw+</text>
