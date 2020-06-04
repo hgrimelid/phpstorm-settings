@@ -1,0 +1,10 @@
+<templateSet group="__ HG">
+  <template name="test" value="/** @test **/&#10;public function $methodName$(): void&#10;{&#10;    $END$&#10;}" description="Add Phpunit test method" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Interface Member" value="false" />
+      <option name="PHP Trait Member" value="false" />
+    </context>
+  </template>
+</templateSet>
