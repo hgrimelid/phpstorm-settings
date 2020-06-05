@@ -92,12 +92,12 @@
         <mark key="]" line="27" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1591298095509">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="40" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1591341314094">
+        <mark key="'" line="47" column="15" />
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="23" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/schema.twig" timestamp="1591260082976">
         <mark key="[" line="0" column="0" />
@@ -156,15 +156,15 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates-frontpage.js" timestamp="1591278482117">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates-frontpage.js" timestamp="1591341133554">
         <mark key="[" line="32" column="9" />
         <mark key="]" line="32" column="9" />
         <mark key="." line="32" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-hero.twig" timestamp="1591278305375">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-hero.twig" timestamp="1591341496471">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-front-v3.php" timestamp="1591260027342">
@@ -182,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" />
-      <jump line="26" column="5" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" />
       <jump line="14" column="12" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" />
       <jump line="36" column="2" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" />
@@ -282,15 +280,17 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" />
       <jump line="58" column="43" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" />
       <jump line="19" column="6" filename="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" />
+      <jump line="6" column="47" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" />
+      <jump line="47" column="15" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgLyoqIEB0ZXN0ICoqLwogICAgcHVibGljIGZ1bmN0aW9uIGl0X2Nhbl9kbygpOiB2b2lkCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZ3aGl0ZVw+</text>
