@@ -143,24 +143,24 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1591603432005">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1591604162833">
         <mark key="'" line="7" column="33" />
-        <mark key="[" line="49" column="34" />
-        <mark key="]" line="49" column="34" />
-        <mark key="^" line="49" column="46" />
-        <mark key="." line="49" column="34" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/notification-popup/index.js" timestamp="1591354714049">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/buttons.pcss" timestamp="1591603372846">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/buttons.pcss" timestamp="1591604105558">
         <mark key="'" line="4" column="13" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="11" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProjectTest.php" timestamp="1591298133511">
         <mark key="'" line="19" column="6" />
@@ -282,43 +282,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGc6YmxvY2sg</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGc6YmxvY2sg</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3RpZmljYXRpb25Qb3B1cFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InBiLTMyIHB4LTQgbGc6aGlkZGVuIj4KICAgICAgPGEKICAgICAgICBnYS1vbj0iY2xpY2siCiAgICAgICAgZ2EtZXZlbnQtY2F0ZWdvcnk9IkZyYW1zaWRlIgogICAgICAgIGdhLWV2ZW50LWFjdGlvbj0iY2xpY2siCiAgICAgICAgZ2EtZXZlbnQtbGFiZWw9IlNqw6UgYWxsZSBidXN0YWRlciIKICAgICAgICB2LWJpbmQ6aHJlZj0iZ2V0UGVybWFsaW5rKCcnKSIKICAgICAgICBjbGFzcz0idGV4dC13aGl0ZSBlbXNmLXVuZGVybGluZSI+U2rDpSBhbGxlIGJ1c3RhZGVyCiAgICAgIDwvYT4KICAgIDwvZGl2PgoK</text>
+        <text encoding="base64">ICBAYXBwbHkgYm9yZGVyLXNvbGlkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAncGItNCcsCg==</text>
+        <text encoding="base64">ICBAZXh0ZW5kIC5idXR0b247Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBAYXBwbHkgcm91bmRlZC1tZWdhOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAYXBwbHkgcm91bmRlZC1tZWdhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAncGItNCcsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgPGRpdiBjbGFzcz0iIiBkYXRhLWVtc2YtZXN0YXRlLWxpc3Rpbmc+Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idy0xLzIiIGRhdGEtZW1zZi1lc3RhdGUtbGlzdGluZy10eXBlPnt7IGVzdGF0ZS5laWVuZG9tc3R5cGUgfX0gPC9kaXY+CiAgICAgICAgICAgIDxkaXYgZGF0YS1lbXNmLWVzdGF0ZS1saXN0aW5nLXNpemUtcHJpY2UgY2xhc3M9IiI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9IiIgdi1odG1sPSJlc3RhdGUucHJvbUxpc3RpbmciPjwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiB2LWh0bWw9ImVzdGF0ZS5wcmlzIj48L3NwYW4+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPGRpdiBjbGFzcz0iIiBkYXRhLWVtc2YtZXN0YXRlLWxpc3Rpbmc+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSIiPgogICAgICAgICAgPHNwYW4gZGF0YS1lbXNmLXBpbi1pY29uIGNsYXNzPSJpY29uLVBpbiBibG9jayI+PC9zcGFuPnt7IGVzdGF0ZS5hZHJlc3NlIH19LCB7eyBlc3RhdGUucG9zdHN0ZWQgfX0KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
