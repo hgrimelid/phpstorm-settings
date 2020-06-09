@@ -64,14 +64,12 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/single.twig" timestamp="1591701023568">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/typography.pcss" timestamp="1591692722512">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets.php" timestamp="1591699620139" />
+      <file name="/a.dummy" timestamp="1591702842345">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/app.pcss" timestamp="1591692838868">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="15" />
@@ -96,6 +94,9 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/404.twig" timestamp="1591700843661">
         <mark key="[" line="0" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591702857947">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1591700985081">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="16" />
@@ -113,13 +114,6 @@
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/blocks/_facets.scss" timestamp="1591692812035">
         <mark key="'" line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1591692513517">
-        <mark key="'" line="115" column="6" />
-        <mark key="[" line="75" column="27" />
-        <mark key="]" line="75" column="28" />
-        <mark key="." line="75" column="27" />
-        <mark key="^" line="75" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-hero.twig" timestamp="1591694344819">
         <mark key="[" line="1" column="12" />
@@ -263,10 +257,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>front-estates</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>front-estates</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQnV0dG9uVGV4dFw+</text>
