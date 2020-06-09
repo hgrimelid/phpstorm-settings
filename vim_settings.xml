@@ -104,9 +104,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591614883696">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/blocks/_facets.scss" timestamp="1591692812035">
         <mark key="'" line="43" column="0" />
       </file>
@@ -133,6 +130,9 @@
         <mark key="]" line="40" column="47" />
         <mark key="^" line="39" column="58" />
         <mark key="." line="40" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/heltberg/wp-content/themes/heltberg/composer.json" timestamp="1591697666624">
+        <mark key="[" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Timber/FrontPage.php" timestamp="1591616790155">
         <mark key="'" line="26" column="0" />
