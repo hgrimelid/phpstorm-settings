@@ -70,11 +70,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/docs/mac-setup/setup.md" timestamp="1591772309678">
-        <mark key="[" line="8" column="169" />
-        <mark key="]" line="8" column="169" />
-        <mark key="^" line="8" column="182" />
-        <mark key="." line="8" column="169" />
+      <file name="$USER_HOME$/Projects/docs/mac-setup/setup.md" timestamp="1591778862358">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="100" column="3" />
+        <mark key="]" line="102" column="33" />
+        <mark key="^" line="102" column="33" />
+        <mark key="." line="102" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/sell/full-form.twig" timestamp="1591700950051">
         <mark key="'" line="14" column="0" />
@@ -152,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
       <jump line="17" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
       <jump line="18" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
       <jump line="19" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/functions.php" />
@@ -252,15 +252,16 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/facets.pcss" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/assets-redesign.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/sell/full-form.twig" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/docs/mac-setup/setup.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQnV0dG9uVGV4dFw+</text>
@@ -269,31 +270,31 @@
         <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ3BhcnRpYWxzL3JlZGVzaWduL2Zyb250LWVzdGF0ZXMudHdpZycgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHJlZGVzaWduX2NzcyA9IG5ldyBTdHlsZXNoZWV0KCk7CgokcmVkZXNpZ25fY3NzCiAgLT53aXRoSGFuZGxlKCdlbXNmJykKICAtPndpdGhQYXRoKCdkaXN0L3N0eWxlc2hlZXRzJykKICAtPndpdGhGaWxlKCdhcHAuY3NzJykKICAtPmVucXVldWUoKTsKCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtPndpdGhDb25kaXRpb24oCiAgICBmdW5jdGlvbiAoKSB7CiAgICAgIGdsb2JhbCAkcG9zdDsKICAgICAgcmV0dXJuIChib29sKSBnZXRfZmllbGQoJ2xvYWRfYWx0ZXJuYXRpdmVfY3NzJywgJHBvc3QpOwogICAgfQogICkK</text>
+        <text encoding="base64">YGBgc2hlbGwgc2NyaXB0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHJlZGVzaWduX2NzcyA9IG5ldyBTdHlsZXNoZWV0KCk7CgokcmVkZXNpZ25fY3NzCg==</text>
+        <text encoding="base64">Vmkgc2thbCBicnVrZSB0ZXJtaW5hbGVuIHRpbCDDpSBrw7h5cmUgZmxlaXJlIGtvbW1hbmRvYXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiRleGlzdGluZ19jc3MgPSBuZXcgU3R5bGVzaGVldCgpOwoKJGV4aXN0aW5nX2NzcwogIC0+d2l0aEhhbmRsZSgnZmx1Z2Utc3R5bGUnKQogIC0+d2l0aFBhdGgoJ2Rpc3Qvc3R5bGVzaGVldHMnKQogIC0+d2l0aEZpbGUoJ3N0eWxlLmNzcycpCiAgLT53aXRoQ29uZGl0aW9uKAogICAgZnVuY3Rpb24gKCkgewogICAgICBnbG9iYWwgJHBvc3Q7CiAgICAgIHJldHVybiAoYm9vbCkgISBnZXRfZmllbGQoJ2xvYWRfYWx0ZXJuYXRpdmVfY3NzJywgJHBvc3QpOwogICAgfQogICkKICA7Ly8tPmVucXVldWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJHQgPSBnZXRfcGFnZV90ZW1wbGF0ZSgpOwogICAgICBfbG9nKCR0KTsK</text>
+        <text encoding="base64">JHJlZGVzaWduX2NzcyA9IG5ldyBTdHlsZXNoZWV0KCk7CgokcmVkZXNpZ25fY3NzCiAgLT53aXRoSGFuZGxlKCdlbXNmJykKICAtPndpdGhQYXRoKCdkaXN0L3N0eWxlc2hlZXRzJykKICAtPndpdGhGaWxlKCdhcHAuY3NzJykKICAtPmVucXVldWUoKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgX2xvZygiZXhpc3RpbmciKTsK</text>
+        <text encoding="base64">ICAtPndpdGhDb25kaXRpb24oCiAgICBmdW5jdGlvbiAoKSB7CiAgICAgIGdsb2JhbCAkcG9zdDsKICAgICAgcmV0dXJuIChib29sKSBnZXRfZmllbGQoJ2xvYWRfYWx0ZXJuYXRpdmVfY3NzJywgJHBvc3QpOwogICAgfQogICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGV4aXN0aW5nX2NzcyA9IG5ldyBTdHlsZXNoZWV0KCk7CgokZXhpc3RpbmdfY3NzCiAgLT53aXRoSGFuZGxlKCdmbHVnZS1zdHlsZScpCiAgLT53aXRoUGF0aCgnZGlzdC9zdHlsZXNoZWV0cycpCiAgLT53aXRoRmlsZSgnc3R5bGUuY3NzJykKICAtPndpdGhDb25kaXRpb24oCiAgICBmdW5jdGlvbiAoKSB7CiAgICAgIGdsb2JhbCAkcG9zdDsKICAgICAgcmV0dXJuIChib29sKSAhIGdldF9maWVsZCgnbG9hZF9hbHRlcm5hdGl2ZV9jc3MnLCAkcG9zdCk7CiAgICB9CiAgKQogIC0+ZW5xdWV1ZSgpOwo=</text>
+        <text encoding="base64">JHJlZGVzaWduX2NzcyA9IG5ldyBTdHlsZXNoZWV0KCk7CgokcmVkZXNpZ25fY3NzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtPndpdGhDb25kaXRpb24oCiAgICBmdW5jdGlvbiAoKSB7CiAgICAgIGdsb2JhbCAkcG9zdDsKICAgICAgcmV0dXJuIChib29sKSBnZXRfZmllbGQoJ2xvYWRfYWx0ZXJuYXRpdmVfY3NzJywgJHBvc3QpOwogICAgfQogICkK</text>
+        <text encoding="base64">CiRleGlzdGluZ19jc3MgPSBuZXcgU3R5bGVzaGVldCgpOwoKJGV4aXN0aW5nX2NzcwogIC0+d2l0aEhhbmRsZSgnZmx1Z2Utc3R5bGUnKQogIC0+d2l0aFBhdGgoJ2Rpc3Qvc3R5bGVzaGVldHMnKQogIC0+d2l0aEZpbGUoJ3N0eWxlLmNzcycpCiAgLT53aXRoQ29uZGl0aW9uKAogICAgZnVuY3Rpb24gKCkgewogICAgICBnbG9iYWwgJHBvc3Q7CiAgICAgIHJldHVybiAoYm9vbCkgISBnZXRfZmllbGQoJ2xvYWRfYWx0ZXJuYXRpdmVfY3NzJywgJHBvc3QpOwogICAgfQogICkKICA7Ly8tPmVucXVldWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtPndpdGhDb25kaXRpb24oCiAgICBmdW5jdGlvbiAoKSB7CiAgICAgIGdsb2JhbCAkcG9zdDsKICAgICAgcmV0dXJuIChib29sKSBnZXRfZmllbGQoJ2xvYWRfYWx0ZXJuYXRpdmVfY3NzJywgJHBvc3QpOwogICAgfQogICkK</text>
+        <text encoding="base64">ICAgICAgJHQgPSBnZXRfcGFnZV90ZW1wbGF0ZSgpOwogICAgICBfbG9nKCR0KTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
