@@ -17,9 +17,9 @@
     <mask>*.css</mask>
     <mask>*.php</mask>
     <mask>*.pcss</mask>
+    <mask>*.*</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.*</mask>
     <mask>*.twig</mask>
   </component>
 </application>
