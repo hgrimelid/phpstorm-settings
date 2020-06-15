@@ -124,12 +124,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" timestamp="1592218437648">
-        <mark key="'" line="15" column="21" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" timestamp="1592220602385">
+        <mark key="'" line="30" column="21" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/404.twig" timestamp="1591966419087">
         <mark key="[" line="23" column="17" />
@@ -151,10 +151,11 @@
       <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/plugins/timber-library/vendor/upstatement/routes/Routes.php" timestamp="1592213135895">
         <mark key="[" line="112" column="112" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/index.php" timestamp="1592217753436">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/index.php" timestamp="1592219908003">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-hero.twig" timestamp="1591959535276">
         <mark key="[" line="3" column="9" />
@@ -287,11 +288,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNfaGVhZGVyKDIwMCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0XD4=</text>
