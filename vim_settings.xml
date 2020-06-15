@@ -77,19 +77,11 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/styles.pcss" timestamp="1591965506946">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1591960995269">
-        <mark key="'" line="40" column="16" />
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="49" column="50" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/composer.json" timestamp="1592228523530">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-estates.twig" timestamp="1591966253228">
         <mark key="[" line="8" column="16" />
@@ -97,18 +89,18 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1591960961299">
-        <mark key="'" line="120" column="6" />
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timber-test/views/base.twig" timestamp="1592203821327">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/views/classes/Router/Router.php" timestamp="1592228169537">
+        <mark key="'" line="23" column="20" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="45" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timber-test/views/index.twig" timestamp="1592203844395">
         <mark key="'" line="2" column="15" />
@@ -123,19 +115,12 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/notification-popup/index.js" timestamp="1591963217810">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="30" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" timestamp="1592226039378">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" timestamp="1592228682181">
+        <mark key="'" line="28" column="0" />
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="7" column="27" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/views/index.twig" timestamp="1592226000539">
         <mark key="[" line="0" column="0" />
@@ -153,6 +138,9 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1592227723315">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/plugins/timber-library/vendor/upstatement/routes/Routes.php" timestamp="1592213135895">
         <mark key="[" line="112" column="112" />
       </file>
@@ -166,6 +154,13 @@
         <mark key="]" line="13" column="3" />
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/classes/Router/Router.php" timestamp="1592228672011">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/index.php" timestamp="1592203685583">
         <mark key="'" line="7" column="0" />
@@ -181,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-estate.php" />
-      <jump line="37" column="7" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/single-real-estate.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/blocks/page-content.twig" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/blocks/single-estate-listing.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page-front-v3.php" />
@@ -281,48 +274,50 @@
       <jump line="4" column="29" filename="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" />
+      <jump line="8" column="20" filename="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/views/classes/Router/Router.php" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/classes/Router/Router.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgYWRkX3Jld3JpdGVfcnVsZSgKLy8gICAgICAgICdeZXN0YXRlcy8/JCcsCi8vICAgICAgICAnaW5kZXgucGhwP3BhZ2VuYW1lPWVzdGF0ZXMnLAovLyAgICAgICAgJ3RvcCcKLy8gICAgKTsK</text>
+        <text encoding="base64">dXNlIE1lZGllYnJ1a2V0XFJvdXRlclxSb3V0ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>estates</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgZXh0ZW5kcyAnYmFzZS50d2lnJyAlfQoKeyUgYmxvY2sgY29udGVudCAlfQo=</text>
+        <text encoding="base64">JHMtPndpdGhRdWVyeVZhcmlhYmxlKCdlc3RhdGVzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgYWRkX3Jld3JpdGVfcnVsZSgKLy8gICAgICAgICdeZXN0YXRlcy8/JCcsCi8vICAgICAgICAnaW5kZXgucGhwP3BhZ2VuYW1lPWVzdGF0ZXMnLAovLyAgICAgICAgJ3RvcCcKLy8gICAgKTsK</text>
+        <text encoding="base64">dXNlIE1lZGllYnJ1a2V0XFJvdXRlclxSb3V0ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRpbWJlcjo6cmVuZGVyKCdpbmRleC50d2lnJywgJGNvbnRleHQpOwo=</text>
+        <text encoding="base64">dXNlIE1lZGllYnJ1a2V0XFJvdXRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RXN0YXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNsYXNzZXMiOiAiTWVkaWVicnVrZXRcXCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JHRlbXBsYXRlcyA9IFsnaW5kZXgudHdpZyddOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDo6cmVuZGVyKCR0ZW1wbGF0ZXMsICRjb250ZXh0KTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">VGltYmVyOjpyZW5kZXIoJHRlbXBsYXRlcywgJGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YXJzW10gPSAnZW5kcG9pbnQnOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfZmlsdGVyKCdxdWVyeV92YXJzJywgZnVuY3Rpb24gKCR2YXJzKSB7CiAgICAgICAgICAgICR2YXJzW10gPSAnZXN0YXRlX2lkJzsKICAgICAgICAgICAgJHZhcnNbXSA9ICdlbmRwb2ludCc7CiAgICAgICAgICAgIHJldHVybiAkdmFyczsKICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
