@@ -122,11 +122,10 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/routes.php" timestamp="1592304588185">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="10" column="39" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/routes.php" timestamp="1592307448538">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/classes/Router/Router.php" timestamp="1592293487566">
         <mark key="'" line="6" column="0" />
@@ -274,8 +273,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWRkX2ZpbHRlcigndGhlX2NvbnRlbnQnLCBmdW5jdGlvbigpIHsKICBnbG9iYWwgJHdwOwogIF9sb2coJHdwKTsKfSk7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -287,31 +286,31 @@
         <text>([^/]*</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1bmN0aW9uIGNoZWNrRGVmYXVsdENvbmRpdGlvbnMoKTogYm9vbAogIHsKICAgIGZvcmUKICAgIAogIH0KCg==</text>
+        <text encoding="base64">YWRkX2ZpbHRlcigndGhlX2NvbnRlbnQnLCBmdW5jdGlvbigpIHsKICBnbG9iYWwgJHdwOwogIF9sb2coJHdwKTsKfSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5jb25kaXRpb24gPSBmdW5jdGlvbiAoKSB7IHJldHVybiB0cnVlOyB9Owo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZ1bmN0aW9uIGNoZWNrRGVmYXVsdENvbmRpdGlvbnMoKTogYm9vbAogIHsKICAgIGZvcmUKICAgIAogIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtPndpdGhDb25kaXRpb24oZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIChpbnQpIGdldF9xdWVyeV92YXIoJ2VzdGF0ZV9pZCcpICE9PSAwOwogIH0pCg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5jb25kaXRpb24gPSBmdW5jdGlvbiAoKSB7IHJldHVybiB0cnVlOyB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIEhlcmUgd2Ugc2V0IHVwIHJvdXRlcyBmb3IgZXN0YXRlcyByZW5kZXJpbmcKICogL2VpZ2Vkb21tYXIKICogL2VpZ2Vkb21tYXIvT1BQRFJBR1NOVU1NRVIKICovCgo=</text>
+        <text encoding="base64">ICAtPndpdGhDb25kaXRpb24oZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIChpbnQpIGdldF9xdWVyeV92YXIoJ2VzdGF0ZV9pZCcpICE9PSAwOwogIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEhlcmUgd2Ugc2V0IHVwIHJvdXRlcyBmb3IgZXN0YXRlcyByZW5kZXJpbmcKICogL2VpZ2Vkb21tYXIKICogL2VpZ2Vkb21tYXIvT1BQRFJBR1NOVU1NRVIKICovCgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGVzdGF0ZSA9IG5ldyBFc3RhdGVDb250YWluZXIoJGJvZHkpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JGJvZHkgPSB3cF9yZW1vdGVfcmV0cmlldmVfYm9keSgkZXN0YXRlc19yZXF1ZXN0KTsKCg==</text>
+        <text encoding="base64">JGVzdGF0ZSA9IG5ldyBFc3RhdGVDb250YWluZXIoJGJvZHkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X2xvZyhnZXRfcXVlcnlfdmFyKCdlc3RhdGVfaWQnKSk7Cgo=</text>
+        <text encoding="base64">JGJvZHkgPSB3cF9yZW1vdGVfcmV0cmlldmVfYm9keSgkZXN0YXRlc19yZXF1ZXN0KTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
