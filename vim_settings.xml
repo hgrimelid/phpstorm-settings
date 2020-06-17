@@ -68,11 +68,11 @@
         <mark key="." line="12" column="68" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/single.twig" timestamp="1592385705164">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="44" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="26" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/single.twig" timestamp="1592399738788">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="100" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/page.php" timestamp="1592382819646">
         <mark key="[" line="17" column="35" />
@@ -92,11 +92,6 @@
         <mark key="]" line="14" column="10" />
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/helpers.php" timestamp="1592313469610">
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="67" column="18" />
-        <mark key="." line="67" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/editor-content.pcss" timestamp="1592397827424">
         <mark key="'" line="50" column="31" />
@@ -119,10 +114,11 @@
         <mark key="^" line="41" column="15" />
         <mark key="." line="41" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1592398258170">
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1592399756689">
+        <mark key="'" line="38" column="39" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
         <mark key="^" line="40" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/single-post-listing.twig" timestamp="1592385990376">
@@ -133,6 +129,12 @@
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/.env" timestamp="1592388421172">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/index.twig" timestamp="1592399853574">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="24" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" timestamp="1592390684456">
         <mark key="[" line="14" column="20" />
@@ -184,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="2" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/external.twig" />
       <jump line="7" column="37" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/external.twig" />
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/Timber/Sections/FrontPage/Employees.php" />
@@ -284,15 +285,16 @@
       <jump line="51" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" />
       <jump line="50" column="31" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/editor-content.pcss" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" />
+      <jump line="38" column="39" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IHNlY3Rpb24uaGVhZGluZyB9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>nl3 nr3</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>nl3 nr3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXlvdXRcPg==</text>
