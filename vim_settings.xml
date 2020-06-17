@@ -86,10 +86,10 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" timestamp="1592383230944">
-        <mark key="'" line="1" column="2" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="18" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" timestamp="1592398214660">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="10" />
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="24" />
       </file>
@@ -98,12 +98,12 @@
         <mark key="]" line="67" column="18" />
         <mark key="." line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/editor-content.pcss" timestamp="1592385959338">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/editor-content.pcss" timestamp="1592397827424">
+        <mark key="'" line="50" column="31" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1592385998512">
         <mark key="'" line="40" column="16" />
@@ -119,11 +119,11 @@
         <mark key="^" line="41" column="15" />
         <mark key="." line="41" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1592385708934">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1592398258170">
+        <mark key="[" line="37" column="45" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="40" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/single-post-listing.twig" timestamp="1592385990376">
         <mark key="[" line="11" column="57" />
@@ -184,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/typography.pcss" />
-      <jump line="19" column="37" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/posts.twig" />
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/external.twig" />
       <jump line="7" column="37" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/external.twig" />
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" />
@@ -284,51 +282,50 @@
       <jump line="7" column="12" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/.env" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" />
+      <jump line="50" column="31" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/editor-content.pcss" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRhY2NvdW50cyA9IGFycmF5X21lcmdlKAogICAgICAgIGNvbmZpZygnd2VibWVnbGVyLmNvbW1pc3Npb25fYWNjb3VudHMuYWRkaXRpb25hbF9hY2NvdW50cycpLAogICAgICAgIGNvbmZpZygnd2VibWVnbGVyLmNvbW1pc3Npb25fYWNjb3VudHMuYm9udXNfZm91bmRhdGlvbl9hY2NvdW50cycpCiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IHNlY3Rpb24uaGVhZGluZyB9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>config('webmegler.commission_accounts.bonus_foundation_accounts')</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXlvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0QWNjb3VudHNGb3JQcmVzZW50YXRpb24oKTogYXJyYXkKICAgIHsKICAgICAgICByZXR1cm4gYXJyYXlfbWVyZ2UoCiAgICAgICAgICAgIGNvbmZpZygnd2VibWVnbGVyLmNvbW1pc3Npb25fYWNjb3VudHMuYm9udXNfZm91bmRhdGlvbl9hY2NvdW50cycpLAogICAgICAgICAgICBjb25maWcoJ3dlYm1lZ2xlci5jb21taXNzaW9uX2FjY291bnRzLmNvcnJlY3Rpb25fYWNjb3VudHMnKQogICAgICAgICk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC1jb2wgbGc6ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHctMi8zIG14LWF1dG8iPgogICAgICB7JSBmb3IgZW1wbG95ZWUgaW4gc2VjdGlvbi5lbXBsb3llZXMgJX0KICAgICAgICB7JSBpbmNsdWRlICdwYXJ0aWFscy9yZWRlc2lnbi9lbXBsb3llZS50d2lnJyAlfQogICAgICB7JSBlbmRmb3IgJX0KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRhY2NvdW50cyA9IGFycmF5X21lcmdlKAogICAgICAgIGNvbmZpZygnd2VibWVnbGVyLmNvbW1pc3Npb25fYWNjb3VudHMuYWRkaXRpb25hbF9hY2NvdW50cycpLAogICAgICAgIGNvbmZpZygnd2VibWVnbGVyLmNvbW1pc3Npb25fYWNjb3VudHMuYm9udXNfZm91bmRhdGlvbl9hY2NvdW50cycpCiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IHNlY3Rpb24uaGVhZGluZyB9fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnKCd3ZWJtZWdsZXIuY29tbWlzc2lvbl9hY2NvdW50cy5jb3JyZWN0aW9uX2FjY291bnRzJykK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4IGZsZXgtd3JhcCBmbGV4LXJvdyI+CiAgICAgICAgICB7JSBmb3IgZW1wbG95ZWUgaW4gZW1wbG95ZWVzICV9CiAgICAgICAgICAgIHslIGluY2x1ZGUgJ3BhcnRpYWxzL3JlZGVzaWduL2VtcGxveWVlLnR3aWcnICV9CiAgICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="3" type="4">
-        <text>array_merge(
-            config('webmegler.commission_accounts.bonus_foundation_accounts'),
-            config('webmegler.commission_accounts.additional_accounts')
-        );</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYWNjb3VudHMgPSBjb25maWcoJ3dlYm1lZ2xlci5jb21taXNzaW9uX2FjY291bnRzLmJvbnVzX2ZvdW5kYXRpb25fYWNjb3VudHMnKTsK</text>
+        <text encoding="base64">ICAgICAgeyUgaWYgZW1wbG95ZWVzICV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSIiPsOYbnNramVyIGR1IMOlIHNuYWtrZSBtZWQgbWVrbGFyPzwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1heC13LXNjcmVlbi14bCBteC1hdXRvIHB4LTQgcGItMTIgZmxleCBmbGV4LWNvbCBqdXN0aWZ5LWNlbnRlciI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzAnLCAvLyBLb3JyZWtzam9uYXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aDEgZGF0YS1lbS1wYWdlLXRpdGxlIGNsYXNzPSJlbS1mLTMgdHR1IG5vcm1hbCI+e3sgcG9zdC50aXRsZSB9fTwvaDE+Cg==</text>
+        <text encoding="base64">ICAgIEBhcHBseSBsaXN0LWluc2lkZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSAgICAgICAgIj57eyBwb3N0LmNvbnRlbnQgfX08L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
