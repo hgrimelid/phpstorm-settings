@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNfY29uZGl0aW9uXD4=</entry>
         <entry encoding="base64">XDxvZmZ3aGl0ZVw+</entry>
         <entry encoding="base64">XDxOb3RpZmljYXRpb25Qb3B1cFw+</entry>
         <entry encoding="base64">XDxkb21haW5cPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxsYXlvdXRcPg==</entry>
         <entry encoding="base64">XDxFc3RhdGVfQ29udGVudF9Ub2dnbGVyXD4=</entry>
         <entry encoding="base64">XDxXbUNvbGxhcHNpYmxlXD4=</entry>
+        <entry encoding="base64">XDxzaW1pbGFyX2VzdGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -32,8 +32,8 @@
         <entry>action GotoAction</entry>
         <entry>e</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -61,18 +61,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/single.twig" timestamp="1592490550209">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="26" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/translation.php" timestamp="1592556455180">
+        <mark key="'" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1592553175701">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1592555625847">
         <mark key="'" line="36" column="46" />
-        <mark key="[" line="53" column="46" />
-        <mark key="]" line="53" column="46" />
-        <mark key="." line="53" column="46" />
-        <mark key="^" line="49" column="56" />
+        <mark key="[" line="77" column="26" />
+        <mark key="]" line="77" column="48" />
+        <mark key="." line="77" column="47" />
+        <mark key="^" line="77" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/graphics.pcss" timestamp="1592552344560">
         <mark key="'" line="70" column="0" />
@@ -97,18 +94,15 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="109" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1592556753986">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="33" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/icon-macro.twig" timestamp="1592552205694">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="40" />
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/collapsible.js" timestamp="1592481688123">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="22" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/viewings.twig" timestamp="1592491296199">
         <mark key="'" line="27" column="1" />
@@ -126,11 +120,19 @@
       <file name="/Dummy.txt" timestamp="1592491435990">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" timestamp="1592551884336">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/estate-strings.php" timestamp="1592556477476">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="53" />
+        <mark key="^" line="29" column="53" />
+        <mark key="." line="29" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" timestamp="1592555861925">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="3" />
+        <mark key="^" line="52" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" timestamp="1592551871211">
         <mark key="'" line="0" column="0" />
@@ -144,32 +146,24 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/RealEstate/Viewing.php" timestamp="1592491276383">
-        <mark key="[" line="32" column="55" />
-        <mark key="]" line="32" column="55" />
-        <mark key="^" line="34" column="54" />
-        <mark key="." line="32" column="55" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates-frontpage.js" timestamp="1592556568623">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/_graphics.scss" timestamp="1592552234093">
         <mark key="'" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/desktop/viewing-and-employees.twig" timestamp="1592490856284">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/similar.twig" timestamp="1592556827325">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/buttons.twig" timestamp="1592491534758">
         <mark key="[" line="16" column="59" />
         <mark key="]" line="16" column="59" />
         <mark key="." line="16" column="59" />
         <mark key="^" line="7" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/estate_content_toggler.js" timestamp="1592481545521">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/desktop/main-info.twig" timestamp="1592552102680">
         <mark key="'" line="0" column="0" />
@@ -180,12 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/estates/single.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/Wordpress/timber-test/wp-content/themes/timbertest/functions.php" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/estates/single.php" />
-      <jump line="56" column="18" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/routes.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/estates/listing.php" />
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/routes.php" />
       <jump line="35" column="3" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/routes.php" />
       <jump line="30" column="67" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/routes.php" />
       <jump line="22" column="6" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/inc/routes.php" />
@@ -280,59 +268,65 @@
       <jump line="124" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
       <jump line="0" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/_graphics.scss" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/graphics.pcss" />
+      <jump line="46" column="7" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/similar.twig" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/similar.twig" />
+      <jump line="9" column="4" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/translation.php" />
+      <jump line="14" column="7" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/estate-strings.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHYtbWlk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI30K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHYtbWlk</text>
+        <text>pris</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXbUNvbGxhcHNpYmxlXD4=</text>
+        <text encoding="base64">XDxzaW1pbGFyX2VzdGF0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAiYWNjb3JkaW9uLnBjc3MiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InctMS8yIHRleHQtcmlnaHQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSIiIGRhdGEtZW1zZi1lc3RhdGUtbGlzdGluZy10eXBlPnt7IGVzdGF0ZS5laWVuZG9tc3R5cGUgfX0sIDxzcGFuIGNsYXNzPSIiIHYtaHRtbD0iZXN0YXRlLnByb21MaXN0aW5nIj48L3NwYW4+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgZGF0YS1lbXNmLWVzdGF0ZS1saXN0aW5nLXNpemUtcHJpY2UgY2xhc3M9IiI+CiAgICAgICAgICAgIDxzcGFuIHYtaHRtbD0iZXN0YXRlLnByaXMiPjwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImVtLWYtMTggbWIxIHR0dSI+PHNwYW4gZGF0YS1lbXNmLXBpbi1pY29uIGNsYXNzPSJpY29uLVBpbiBkaWIiPjwvc3Bhbj57eyBzaW1pbGFyLmFkcmVzc2UgfX0sIHt7IHNpbWlsYXIucG9zdHN0ZWQgfX08L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgICAgICAgICAgICAgICAgIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIgogICAgICAgICAgICAgICAgICAgdmlld0JveD0iMCAwIDMwIDMwIgogICAgICAgICAgICAgICAgICAgY2xhc3M9ImVtc2YtYWNjb3JkaW9uLWFycm93IHYtbWlkIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxzdmc+CiAgICAgICAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgICAgIDxzdmcgY2xhc3M9ImVtc2YtYWNjb3JkaW9uLWFycm93LXBvbHlnb24iPgogICAgICAgICAgICAgICAgICAgICAgPHBvbHlnb24gcG9pbnRzPSIwLDAgMCwzMCAyNSwxNSI+PC9wb2x5Z29uPgogICAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgY2xhc3M9ImNvdmVyIGJnLWNlbnRlciByZWxhdGl2ZSBsYXp5bG9hZCBtYjIgbWIzLWwiPjwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImVtc2YtZnJlZXRleHQtbmFtZSB2LW1pZCI+e3sgY2F0ZWdvcnkuY2F0ZWdvcnlfbmFtZSB9fTwvc3Bhbj4KICAgICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgICAgICAgICAgICAgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiCiAgICAgICAgICAgICAgICAgdmlld0JveD0iMCAwIDMwIDMwIgogICAgICAgICAgICAgICAgIGNsYXNzPSJlbXNmLWFjY29yZGlvbi1hcnJvdyB2LW1pZCIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxzdmc+CiAgICAgICAgICAgICAgICA8Zz4KICAgICAgICAgICAgICAgICAgPHN2ZyBjbGFzcz0iZW1zZi1hY2NvcmRpb24tYXJyb3ctcG9seWdvbiI+CiAgICAgICAgICAgICAgICAgICAgPHBvbHlnb24gcG9pbnRzPSIwLDAgMCwzMCAyNSwxNSI+PC9wb2x5Z29uPgogICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgPC9zdmc+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idy0yNS1sIHBsMy1sIHByMy1sIG1iNCBtYjAtbCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7JSBpbXBvcnQgJ3BhcnRpYWxzL3NpbmdsZS1lc3RhdGUvaWNvbi1tYWNyby50d2lnJyBhcyBtYWNybyAlfQo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmbGV4LWwgZmxleC1hdXRvLWwgdy0xMDAgbnIzLWwgbmwzLWwiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ0dHUgZW0tZi0zIG1iNCBwYjIgYmIgYncxIGVtLXNlY29uZGFyeS1ncmV5LWIgbXQyIG10MC1sIHB0MC1sIHB0NCI+PGRpdiBjbGFzcz0idGMiPjwvZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgaW1wb3J0ICdwYXJ0aWFscy9zaW5nbGUtZXN0YXRlL2ljb24tbWFjcm8udHdpZycgYXMgbWFjcm8gJX0KICAgICAgICAgICAge3sgbWFjcm8uZXN0YXRlX3RleHRfY2F0ZWdvcnlfaWNvbihjYXRlZ29yeS5jYXRlZ29yeV9pZCkgfX0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxXbUNvbGxhcHNpYmxlXD4=</last-search>
+      <last-search encoding="base64">XDxzaW1pbGFyX2VzdGF0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXbUNvbGxhcHNpYmxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaW1pbGFyX2VzdGF0ZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
