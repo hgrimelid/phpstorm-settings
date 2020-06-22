@@ -68,19 +68,19 @@
         <mark key="^" line="27" column="65" />
         <mark key="." line="27" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1592823427462">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1592826662544">
         <mark key="'" line="51" column="28" />
-        <mark key="[" line="59" column="117" />
-        <mark key="]" line="59" column="117" />
-        <mark key="." line="59" column="117" />
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="18" />
+        <mark key="." line="67" column="18" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" timestamp="1592571237220">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" timestamp="1592826655987">
+        <mark key="'" line="48" column="7" />
+        <mark key="[" line="102" column="25" />
+        <mark key="]" line="104" column="16" />
+        <mark key="^" line="104" column="16" />
+        <mark key="." line="104" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" timestamp="1592823361983">
         <mark key="'" line="0" column="0" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" />
       <jump line="50" column="31" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/editor-content.pcss" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" />
       <jump line="38" column="39" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" />
@@ -282,15 +281,16 @@
       <jump line="16" column="25" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
       <jump line="80" column="6" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
       <jump line="97" column="88" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
+      <jump line="48" column="7" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsYXNzPSJ7eyBub3QgbG9vcC5sYXN0ID8gJ3BiLTYnIH19Ig==</text>
       </register>
       <register name="-" type="4">
-        <text>dtc-l em-main-profile f6</text>
+        <text encoding="base64">IGNsYXNzPSJ7eyBub3QgbG9vcC5sYXN0ID8gJ3BiLTYnIH19Ig==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbXNmX2dldF9lc3RhdGVfYWRkaXRpb25hbF9kZXNjcmlwdGlvblw+</text>
