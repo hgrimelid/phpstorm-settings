@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxQb3N0XD4=</entry>
         <entry encoding="base64">XDxmcm9udF9wYWdlXD4=</entry>
         <entry encoding="base64">XDxtYWluX2ltYWdlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzaW1pbGFyXD4=</entry>
         <entry encoding="base64">XDxwZXJtYWxpbmtCYXNlXD4=</entry>
         <entry encoding="base64">XDxzYW5zXD4=</entry>
+        <entry encoding="base64">XDxwcm9zcGVjdHVzX3RpdGxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -115,12 +115,12 @@
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/estate-strings.php" timestamp="1592570360749">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="43" />
-        <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="42" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/estate-strings.php" timestamp="1592815893341">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="27" column="65" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="27" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" timestamp="1592571237220">
         <mark key="'" line="24" column="8" />
@@ -170,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="19" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" />
       <jump line="7" column="12" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/.env" />
@@ -270,18 +269,19 @@
       <jump line="6" column="3" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/icon-macro.twig" />
       <jump line="51" column="28" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/buttons.twig" />
+      <jump line="10" column="7" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/estate-strings.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>boligen</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>boligen</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYW5zXD4=</text>
+        <text encoding="base64">XDxwcm9zcGVjdHVzX3RpdGxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJzEyJzogJzNyZW0nLAo=</text>
@@ -320,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzYW5zXD4=</last-search>
+      <last-search encoding="base64">XDxwcm9zcGVjdHVzX3RpdGxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW5zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9zcGVjdHVzX3RpdGxlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
