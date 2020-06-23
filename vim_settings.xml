@@ -79,11 +79,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" timestamp="1592903940568">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" timestamp="1592905015397">
+        <mark key="[" line="17" column="77" />
+        <mark key="]" line="17" column="77" />
+        <mark key="^" line="17" column="73" />
+        <mark key="." line="17" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/blocks/_gravity-forms.scss" timestamp="1592833609340">
         <mark key="'" line="91" column="0" />
@@ -131,7 +131,7 @@
         <mark key="." line="45" column="4" />
         <mark key="^" line="57" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" timestamp="1592904224482">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" timestamp="1592905020535">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -290,7 +290,7 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>emsf-top-gradient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2N1c1w+</text>
@@ -311,19 +311,19 @@
         <text encoding="base64">LmVtc2YtdG9wLWdyYWRpZW50IHsKICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoCiAgICAxODBkZWcsCiAgICB0aGVtZSgnY29sb3JzLm9mZndoaXRlLmRlZmF1bHQnKSAwJSwKICAgIHRoZW1lKCdjb2xvcnMub2Zmd2hpdGUuZGVmYXVsdCcpIDkwJSwKICAgIHRoZW1lKCdjb2xvcnMuY2hhcmNvYWwudHJhbnNwYXJlbnQnKSA5MCUsCiAgICB0aGVtZSgnY29sb3JzLmNoYXJjb2FsLnRyYW5zcGFyZW50JykgMTAwJQogICk7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgeyUgaWYgbm90IGZuKCdpc19mcm9udF9wYWdlJykgJX0KICAgICAgICA8ZGl2IGRhdGEtZW0tc2xvZ2FuIGNsYXNzPSJlbXNmLXRvcC1ncmFkaWVudCIgc3R5bGU9ImhlaWdodDogMTRweDsiPjwvZGl2PgogICAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Om5vdCgucGFnZS10ZW1wbGF0ZS1wYWdlLWZyb250LXYzKSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBkYXRhLWVtLXNsb2dhbiBjbGFzcz0iYmctY2hhcmNvYWwtdHJhbnNwYXJlbnQiIHN0eWxlPSJoZWlnaHQ6IDE0cHg7Ij48L2Rpdj4K</text>
+        <text encoding="base64">LmVtc2YtdG9wLWdyYWRpZW50IHsKICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoCiAgICAxODBkZWcsCiAgICB0aGVtZSgnY29sb3JzLm9mZndoaXRlLmRlZmF1bHQnKSAwJSwKICAgIHRoZW1lKCdjb2xvcnMub2Zmd2hpdGUuZGVmYXVsdCcpIDkwJSwKICAgIHRoZW1lKCdjb2xvcnMuY2hhcmNvYWwudHJhbnNwYXJlbnQnKSA5MCUsCiAgICB0aGVtZSgnY29sb3JzLmNoYXJjb2FsLnRyYW5zcGFyZW50JykgMTAwJQogICk7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGRhdGEtZW0tc2xvZ2FuIGNsYXNzPSJiZy1jaGFyY29hbC10cmFuc3BhcmVudCIgc3R5bGU9ImhlaWdodDogMTRweDsiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgeyUgaWYgbm90IGZuKCdpc19mcm9udF9wYWdlJykgJX0KICAgICAgICA8ZGl2IGRhdGEtZW0tc2xvZ2FuIGNsYXNzPSJlbXNmLXRvcC1ncmFkaWVudCIgc3R5bGU9ImhlaWdodDogMTRweDsiPjwvZGl2PgogICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
