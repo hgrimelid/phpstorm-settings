@@ -77,12 +77,11 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates-filter.js" timestamp="1592982463586">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1592995829928">
-        <mark key="'" line="12" column="69" />
-        <mark key="[" line="83" column="69" />
-        <mark key="]" line="83" column="67" />
-        <mark key="^" line="83" column="39" />
-        <mark key="." line="83" column="67" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1593005168202">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="92" column="98" />
+        <mark key="^" line="92" column="98" />
+        <mark key="." line="92" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" timestamp="1592997243123">
         <mark key="'" line="17" column="4" />
@@ -189,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="60" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
       <jump line="48" column="46" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" />
@@ -289,6 +287,7 @@
       <jump line="12" column="69" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
       <jump line="56" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/buttons.pcss" />
       <jump line="64" column="17" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/buttons.pcss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
