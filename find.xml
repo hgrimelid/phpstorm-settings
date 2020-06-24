@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.pcss" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -20,8 +20,8 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*.pcss</mask>
     <mask>*.*</mask>
     <mask>*.twig</mask>
+    <mask>*.pcss</mask>
   </component>
 </application>

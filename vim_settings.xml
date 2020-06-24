@@ -68,14 +68,16 @@
         <mark key="^" line="99" column="58" />
         <mark key="." line="99" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/styles.pcss" timestamp="1593006193941">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/employee.twig" timestamp="1592995781384">
         <mark key="[" line="12" column="61" />
         <mark key="]" line="12" column="75" />
         <mark key="^" line="12" column="75" />
         <mark key="." line="12" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates-filter.js" timestamp="1592982463586">
-        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1593005168202">
         <mark key="'" line="0" column="0" />
@@ -135,17 +137,17 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" timestamp="1593006135333">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1593003803854">
         <mark key="'" line="38" column="20" />
         <mark key="[" line="9" column="23" />
         <mark key="]" line="34" column="64" />
         <mark key="." line="34" column="63" />
         <mark key="^" line="34" column="64" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/estate.js" timestamp="1592982562506">
-        <mark key="[" line="42" column="80" />
-        <mark key="]" line="42" column="80" />
-        <mark key="." line="42" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/freetext-category-mappings.php" timestamp="1592990369380">
         <mark key="[" line="165" column="53" />
@@ -293,10 +295,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>20</text>
+        <text>32</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uaWZ5XD4=</text>
