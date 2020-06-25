@@ -73,11 +73,11 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/employee.twig" timestamp="1592995781384">
-        <mark key="[" line="12" column="61" />
-        <mark key="]" line="12" column="75" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/employee.twig" timestamp="1593076590791">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
         <mark key="^" line="12" column="75" />
-        <mark key="." line="12" column="74" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" timestamp="1593005168202">
         <mark key="'" line="0" column="0" />
@@ -295,10 +295,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>ingress</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>ingress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uaWZ5XD4=</text>
