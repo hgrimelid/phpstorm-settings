@@ -148,11 +148,11 @@
         <mark key="]" line="10" column="23" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Kernel.php" timestamp="1593111543756">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="23" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Kernel.php" timestamp="1593119451308">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SoldEstatesImporter.php" timestamp="1593086697670">
         <mark key="'" line="19" column="20" />
@@ -272,11 +272,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZURhdGUoJ2Frc2VwdGRhdG8nLCAnMjAyMC0wNi0xNycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>hourly</text>
       </register>
       <register name="-" type="4">
-        <text>sync</text>
+        <text>hourly</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZVw+</text>
