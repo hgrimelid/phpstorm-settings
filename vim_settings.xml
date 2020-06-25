@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbG9nYW5cPg==</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
         <entry encoding="base64">XDxzZXRIZWlnaHRcPg==</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxlc3RhdGVcPg==</entry>
         <entry encoding="base64">XDxzaW1pbGFyX2VzdGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxwaG9uaWZ5XD4=</entry>
+        <entry encoding="base64">XDxzdG9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -97,6 +97,9 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" timestamp="1593080204791">
+        <mark key="'" line="21" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1593004183543">
         <mark key="'" line="71" column="9" />
         <mark key="[" line="115" column="13" />
@@ -111,13 +114,6 @@
         <mark key="." line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/config/app.php" timestamp="1593077455871" />
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/buttons.pcss" timestamp="1592997096478">
-        <mark key="'" line="67" column="17" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="34" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/employee.twig" timestamp="1593002981777">
         <mark key="[" line="2" column="96" />
         <mark key="]" line="2" column="104" />
@@ -130,16 +126,30 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="4" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" timestamp="1593081855406">
+        <mark key="'" line="27" column="42" />
+        <mark key="[" line="84" column="73" />
+        <mark key="]" line="84" column="73" />
+        <mark key="." line="84" column="72" />
+        <mark key="^" line="84" column="73" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" timestamp="1593006135333">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/UpdateSoldEstatesCommand.php" timestamp="1593077493572">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="21" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/UpdateSoldEstatesCommand.php" timestamp="1593077530404">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/SoldEstateTest.php" timestamp="1593082449640">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="93" column="25" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1593003803854">
         <mark key="'" line="38" column="20" />
@@ -155,13 +165,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-hero.twig" timestamp="1592996682822">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Kernel.php" timestamp="1593077173906">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="23" column="29" />
@@ -174,23 +177,8 @@
         <mark key="." line="319" column="121" />
         <mark key="^" line="319" column="116" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-main-entry.twig" timestamp="1592996614705">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="2" />
-        <mark key="^" line="1" column="18" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
-      <jump line="48" column="46" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" />
-      <jump line="13" column="48" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
-      <jump line="12" column="5" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
-      <jump line="121" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
-      <jump line="124" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
-      <jump line="0" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/_graphics.scss" />
-      <jump line="70" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/graphics.pcss" />
       <jump line="46" column="7" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/similar.twig" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/similar.twig" />
@@ -282,48 +270,58 @@
       <jump line="64" column="17" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/buttons.pcss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" />
+      <jump line="21" column="30" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" />
+      <jump line="99" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
+      <jump line="27" column="42" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/SoldEstateTest.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/SoldEstateTest.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/SoldEstateTest.php" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/SoldEstateTest.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/SoldEstateTest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRlc3RhdGVzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlX2VpZW5kb21zdHlwZXInID0+IDEyMywK</text>
       </register>
       <register name="-" type="4">
-        <text>Checks whether existing estates have recieved new commissions and imports</text>
+        <text>is_correction</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaG9uaWZ5XD4=</text>
+        <text encoding="base64">XDxzdG9yZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogN3B4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlX2VpZW5kb21zdHlwZXInID0+IGNvbmZpZygnd2VibWVnbGVyLmNvbW1pc3Npb25fYWNjb3VudHMuY29ycmVjdGlvbl9hY2NvdW50cycpWzBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRlc3RhdGVzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlX2VpZW5kb21zdHlwZXInID0+IDEyMywK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="2" type="8">
+        <text>False
+False</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgY29uc29sZSBjb21tYW5kLgogICAgICoKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGNvbnNvbGUgY29tbWFuZCBkZXNjcmlwdGlvbi4KICAgICAqCiAgICAgKiBAdmFyIHN0cmluZwogICAgICovCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIG5hbWUgYW5kIHNpZ25hdHVyZSBvZiB0aGUgY29uc29sZSBjb21tYW5kLgogICAgICoKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKi8K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkY29ycmVjdGlvbl9hY2NvdW50cyA9IGNvbmZpZygnY29tbWlzc2lvbl9hY2NvdW50cy5jb3JyZWN0aW9uX2FjY291bnRzJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRJc0NvcnJlY3Rpb25BdHRyaWJ1dGUoKTogYm9vbAogICAgewogICAgICAgICRjb3JyZWN0aW9uX2FjY291bnRzID0gY29uZmlnKCdjb21taXNzaW9uX2FjY291bnRzLmNvcnJlY3Rpb25fYWNjb3VudHMnKTsKICAgICAgICByZXR1cm4gaW5fYXJyYXkoJHRoaXMtPnR5cGVfZWllbmRvbXN0eXBlciwgJGNvcnJlY3Rpb25fYWNjb3VudHMsIHRydWUpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTaG91bGRCZURpc3BsYXllZEF0dHJpYnV0ZSgpOiBib29sCiAgICB7CiAgICAgICAgJGNvcnJlY3Rpb25fYWNjb3VudHMgPSBjb25maWcoJ2NvbW1pc3Npb25fYWNjb3VudHMuY29ycmVjdGlvbl9hY2NvdW50cycpOwogICAgICAgIHJldHVybiAkdGhpcy0+aXNfY29ycmVjdGlvbiB8fCAoJHRoaXMtPmNvbW1pc3Npb25zX3RvdGFsID4gMCAmJiAkdGhpcy0+c2FsZ3NzdW0gPiAwKTsKICAgIH0KCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRlc3RhdGVzID0gZ2V0X2xhdGVzdF9pbXBvcnRlZCgxKTsKICAgICAgICAgICAgICAgIGlmICgkZXN0YXRlcykgewogICAgICAgICAgICAgICAgICAgIGxvZ2dlcigpLT5jaGFubmVsKCdzbGFjaycpLT5pbmZvKCJMYXRlc3QgaW1wb3J0ZWQgc29sZCBlc3RhdGVzOiAke2VzdGF0ZXN9Iik7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyKCdDcm9uIHJ1bi4gSW1wb3J0ZWQ6ICcgLiAkZXN0YXRlcyk7CiAgICAgICAgICAgICAgICAgICAgbmV3IE5ld1NvbGRFc3RhdGVzTWFpbCgpOwogICAgICAgICAgICAgICAgICAgIE1haWw6OnRvKCdoYXZhcmRAbWVkaWVicnVrZXQubm8nKS0+c2VuZChuZXcgTmV3U29sZEVzdGF0ZXNNYWlsKCkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIoKS0+Y2hhbm5lbCgnc2xhY2snKS0+aW5mbygnTm8gZXN0YXRlcyBpbXBvcnRlZC4nKTsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIoJ0Nyb24gcnVuLiBObyBlc3RhdGVzIGltcG9ydGVkLicpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmNvbW1pc3Npb25zX3RvdGFsIDwgMCAmJiBTdHI6Om9mKCR0aGlzLT5vcHBkcmFnc251bW1lciktPnN0YXJ0c1dpdGgoJzk5Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctYm90dG9tOiA2cHg7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SXNDb3JyZWN0aW9uQXR0cmlidXRlKCk6IGJvb2wKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmNvbW1pc3Npb25zX3RvdGFsIDwgMCAmJiBTdHI6Om9mKCR0aGlzLT5vcHBkcmFnc251bW1lciktPnN0YXJ0c1dpdGgoJzk5Jyk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -332,9 +330,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwaG9uaWZ5XD4=</last-search>
+      <last-search encoding="base64">XDxzdG9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaG9uaWZ5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
