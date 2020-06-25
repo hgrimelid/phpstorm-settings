@@ -61,12 +61,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/RealEstate/Price.php" timestamp="1592982875651">
-        <mark key="'" line="87" column="28" />
-        <mark key="[" line="99" column="39" />
-        <mark key="]" line="99" column="58" />
-        <mark key="^" line="99" column="58" />
-        <mark key="." line="99" column="57" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/external.twig" timestamp="1593074457441">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="47" />
+        <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/styles.pcss" timestamp="1593033291929">
         <mark key="[" line="3" column="12" />
@@ -296,10 +295,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>32</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uaWZ5XD4=</text>
