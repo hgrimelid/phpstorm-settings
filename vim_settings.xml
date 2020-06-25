@@ -68,10 +68,11 @@
         <mark key="^" line="99" column="58" />
         <mark key="." line="99" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/styles.pcss" timestamp="1593006193941">
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/styles.pcss" timestamp="1593033291929">
         <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/employee.twig" timestamp="1592995781384">
         <mark key="[" line="12" column="61" />
