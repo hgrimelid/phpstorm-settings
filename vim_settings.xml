@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxjb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDxnZXRDb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDxsYXlvdXRcPg==</entry>
@@ -22,9 +21,10 @@
         <entry encoding="base64">XDxlc3RhdGVcPg==</entry>
         <entry encoding="base64">XDxzaW1pbGFyX2VzdGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxwaG9uaWZ5XD4=</entry>
-        <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxha3NlcHRkYXRvXD4=</entry>
         <entry encoding="base64">XDxlbmRyZXRkYXRvXD4=</entry>
+        <entry encoding="base64">XDxzdG9yZUFkZGl0aW9uYWxFc3RhdGVEYXRhXD4=</entry>
+        <entry encoding="base64">XDxzdG9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -61,12 +61,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/external.twig" timestamp="1593074457441">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="16" column="48" />
-        <mark key="." line="16" column="47" />
-        <mark key="^" line="16" column="48" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_25_132312_add_endretdato_to_sold_estates_table.php" timestamp="1593084294744">
         <mark key="[" line="27" column="67" />
         <mark key="]" line="28" column="45" />
@@ -79,23 +73,11 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/styles.pcss" timestamp="1593033291929">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/employee.twig" timestamp="1593076590791">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="12" column="75" />
-        <mark key="." line="20" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/stubs/sold_estates.xml" timestamp="1593084465762" />
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" timestamp="1593086884467">
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" timestamp="1593090656000">
         <mark key="'" line="21" column="30" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="68" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/SoldEstatesParser.php" timestamp="1593085197896">
         <mark key="'" line="22" column="56" />
@@ -112,6 +94,13 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="45" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/PendingCommissionsImporter.php" timestamp="1593091822654">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="37" column="68" />
+        <mark key="]" line="37" column="96" />
+        <mark key="." line="37" column="95" />
+        <mark key="^" line="37" column="96" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/EstateXmlParser.php" timestamp="1593086968521">
         <mark key="[" line="22" column="55" />
         <mark key="]" line="22" column="55" />
@@ -125,9 +114,10 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/UpdateSoldEstatesCommand.php" timestamp="1593086891928">
-        <mark key="'" line="18" column="31" />
-        <mark key="^" line="14" column="21" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/UpdateSoldEstatesCommand.php" timestamp="1593090607030">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Models/SoldEstateTest.php" timestamp="1593082514520">
         <mark key="'" line="54" column="0" />
@@ -141,10 +131,19 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1593088699230">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Importers/SoldEstatesImporterTest.php" timestamp="1593085386624">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SingleCommissionImporter.php" timestamp="1593091615745">
+        <mark key="'" line="32" column="20" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Kernel.php" timestamp="1593077173906">
         <mark key="[" line="22" column="33" />
@@ -158,19 +157,14 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/UpdateSoldEstatesEndretdatoCommand.php" timestamp="1593087034666">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="49" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/UpdateSoldEstatesEndretdatoCommand.php" timestamp="1593088338548">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="29" column="11" />
         <mark key="." line="27" column="48" />
         <mark key="^" line="27" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/classes/estate-strings.php" />
-      <jump line="28" column="18" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/similar.twig" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-image.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-image.twig" />
-      <jump line="1" column="12" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-image.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
       <jump line="55" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
       <jump line="135" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/vendor/_mfp.scss" />
@@ -247,7 +241,6 @@
       <jump line="64" column="17" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/buttons.pcss" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" />
-      <jump line="21" column="30" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" />
       <jump line="99" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="27" column="42" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
@@ -266,48 +259,54 @@
       <jump line="120" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="19" column="20" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SoldEstatesImporter.php" />
       <jump line="18" column="31" filename="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/UpdateSoldEstatesCommand.php" />
+      <jump line="48" column="28" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" />
+      <jump line="56" column="18" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" />
+      <jump line="21" column="30" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" />
+      <jump line="63" column="21" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SingleCommissionImporter.php" />
+      <jump line="32" column="20" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SingleCommissionImporter.php" />
+      <jump line="45" column="4" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/PendingCommissionsImporter.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcignVXBkYXRpbmcgJyAuICRlc3RhdGUtPm9wcGRyYWdzbnVtbWVyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">XSwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmRyZXRkYXRvXD4=</text>
+        <text encoding="base64">XDxzdG9yZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGF0YVsnc2FsZ3NzdW0nXSA9ICR0aGlzLT5wYXJzZUZpZWxkKCdzYWxnc3N1bScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcignQ2hlY2tpbmcgJyAuICRlc3RhdGUtPm9wcGRyYWdzbnVtbWVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcignVXBkYXRpbmcgJyAuICRlc3RhdGUtPm9wcGRyYWdzbnVtbWVyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXN0YXRlcy0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBhcnJheSAkZGF0YTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHRlcnRpYWwgPSBnZXRfdGVydGlhbChDYXJib246Om5vdygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXN0YXRlLT51cGRhdGUoWydlbmRyZXRkYXRvJyA9PiAkdGhpcy0+ZGF0YVsnZW5kcmV0ZGF0byddXSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYm91bmRzID0gZ2V0X3RlcnRpYWxfYm91bmRzKCk7CiAgICAgICAgJG51bWJlcl9vZl9kYXlzID0gbnVtYmVyX29mX2RheXNfdG9fZGF0ZSgkYm91bmRzWydkYXRlX2Zyb20nXSk7CiAgICAgICAgCiAgICAgICAgKG5ldyBTb2xkRXN0YXRlc0NsaWVudCgpKQogICAgICAgICAgICAtPndpdGhOdW1iZXJPZkRheXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJ0ltcG9ydGluZyAnIC4gJGVzdGF0ZS0+b3BwZHJhZ3NudW1tZXIgLiAnLCBhY2NvdW50OiAnIC4gJGFjY291bnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZW5kcmV0ZGF0bycgPT4gJGVzdGF0ZVsnZW5kcmV0ZGF0byddLAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJGVzdGF0ZS0+b3BwZHJhZ3NudW1tZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXN0YXRlc19wYXJzZXItPmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFyc2VkID0gKG5ldyBFc3RhdGVYbWxQYXJzZXIoJHhtbCkpLT5kYXRhOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZXN0YXRlcyA9IFNvbGRFc3RhdGU6OndoZXJlTnVsbCgnZW5kcmV0ZGF0bycpLT5nZXQoKTsK</text>
+        <text encoding="base64">aWYgKHNlbGY6OnNob3VsZEJlVXBkYXRlZCgkcGFyc2VkWydlbmRyZXRkYXRvJ10sICRlc3RhdGUpKSB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkeG1sID0gKG5ldyBTb2xkRXN0YXRlc0NsaWVudCgpKQogICAgICAgICAgICAtPndpdGhOdW1iZXJPZkRheXMobnVtYmVyX29mX2RheXNfdG9fZGF0ZSgkYm91bmRzWydkYXRlX2Zyb20nXSkpCiAgICAgICAgICAgIC0+Z2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJ1Nob3VsZCBiZSB1cGRhdGVkJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbnVtYmVyX29mX2RheXMgPSBudW1iZXJfb2ZfZGF5c190b19kYXRlKCRib3VuZHNbJ2RhdGVfZnJvbSddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyKCdTaG91bGQgYmUgdXBkYXRlZCcpOwogICAgICAgICAgICAobmV3IFNpbmdsZUNvbW1pc3Npb25JbXBvcnRlcigpKQogICAgICAgICAgICAgICAgLT53aXRoWG1sKCR4bWwpCiAgICAgICAgICAgICAgICAtPndpdGhBY2NvdW50KCRhY2NvdW50KQogICAgICAgICAgICAgICAgLT53aXRoRXN0YXRlKCRlc3RhdGUpCiAgICAgICAgICAgICAgICAtPnN0b3JlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -316,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlbmRyZXRkYXRvXD4=</last-search>
+      <last-search encoding="base64">XDxzdG9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmRyZXRkYXRvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
