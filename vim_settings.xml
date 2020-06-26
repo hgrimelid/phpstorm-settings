@@ -91,16 +91,19 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/CommissionsImporter.php" timestamp="1593090656000">
-        <mark key="'" line="21" column="30" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="48" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/webpack.mix.js" timestamp="1593159011082">
         <mark key="'" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/UpdateEstate.php" timestamp="1593109312907">
         <mark key="[" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/desktop/viewing-and-employees.twig" timestamp="1593162171421">
+        <mark key="'" line="42" column="0" />
+        <mark key="j" line="5" column="0" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="20" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/google-map.twig" timestamp="1593158590232">
         <mark key="'" line="27" column="0" />
@@ -127,6 +130,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/viewings.twig" timestamp="1593162144552">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="26" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593109261544">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,12 +149,6 @@
         <mark key="]" line="59" column="47" />
         <mark key="." line="59" column="46" />
         <mark key="^" line="59" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/SingleCommissionImporter.php" timestamp="1593091615745">
-        <mark key="'" line="32" column="20" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates-frontpage.js" timestamp="1593159803990" />
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Kernel.php" timestamp="1593119451308">
@@ -268,10 +271,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3Ig</text>
+        <text encoding="base64">IGxnOnBsLTQ=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3Ig</text>
+        <text encoding="base64">IGxnOnBsLTQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZVw+</text>
