@@ -123,10 +123,11 @@
         <mark key="." line="22" column="64" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/BilagImporter.php" timestamp="1593174827455">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/BilagImporter.php" timestamp="1593176660682">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/viewings.twig" timestamp="1593162144552">
         <mark key="[" line="3" column="27" />
@@ -137,11 +138,11 @@
       <file name="/Dummy.txt" timestamp="1593173410342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/BilagsXmlParser.php" timestamp="1593173332129">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/BilagsXmlParser.php" timestamp="1593176701140">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/ImportBilagsCommand.php" timestamp="1593174835653">
         <mark key="[" line="18" column="38" />
@@ -162,11 +163,11 @@
         <mark key="." line="323" column="0" />
         <mark key="^" line="326" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_26_135734_create_bilags_table.php" timestamp="1593174470523">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="20" column="49" />
-        <mark key="^" line="20" column="49" />
-        <mark key="." line="26" column="49" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_26_135734_create_bilags_table.php" timestamp="1593176646473">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="40" />
+        <mark key="^" line="20" column="40" />
+        <mark key="." line="20" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -275,16 +276,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>now</text>
+        <text>endretdato</text>
       </register>
       <register name="-" type="4">
-        <text>now</text>
+        <text>endretdato</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmNvZGVkX3JlZ2lvbl9pZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYmlsYWdzZGF0bycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbmRyZXRkYXRvJyA9PiAkbGluZS0+ZmluZCgnZW5kcmV0ZGF0bycpLT50ZXh0KCksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIoJGFjY291bnQpOwo=</text>
