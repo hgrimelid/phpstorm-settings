@@ -115,17 +115,17 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/BilagImporter.php" timestamp="1593237111307">
-        <mark key="[" line="46" column="58" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/BilagImporter.php" timestamp="1593243671377">
+        <mark key="[" line="35" column="66" />
+        <mark key="]" line="36" column="60" />
+        <mark key="^" line="36" column="60" />
+        <mark key="." line="36" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/BilagsXmlParser.php" timestamp="1593237096788">
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/BilagsXmlParser.php" timestamp="1593243639298">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="74" />
         <mark key="." line="16" column="0" />
-        <mark key="^" line="21" column="20" />
+        <mark key="^" line="22" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/NewCompanyController.php" timestamp="1593237712671">
         <mark key="[" line="34" column="29" />
@@ -166,10 +166,9 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_26_135734_create_bilags_table.php" timestamp="1593237203819">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="49" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_26_135734_create_bilags_table.php" timestamp="1593243612405">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="43" />
         <mark key="." line="20" column="0" />
       </file>
     </filemarks>
@@ -279,43 +278,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iYWxpZ24tdG9wIHB4LTYgcHktNCB3aGl0ZXNwYWNlLW5vLXdyYXAgdGV4dC1zbSBsZWFkaW5nLTUgZm9udC1tZWRpdW0gdGV4dC1ncmF5LTkwMCB0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcHBkcmFnc251bW1lcicgPT4gJGxpbmUtPmZpbmQoJ29wcGRyYWdzbnVtbWVyJyktPnRleHQoKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>Aksept</text>
+        <text encoding="base64">LT5udWxsYWJsZSgp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXNzaW9uc190b3RhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzY29wZUJ5UGVyaW9kKEJ1aWxkZXIgJHF1ZXJ5LCBzdHJpbmcgJGZyb20sIHN0cmluZyAkdG8pOiBCdWlsZGVyCiAgICB7CiAgICAgICAgcmV0dXJuICRxdWVyeS0+d2hlcmVCZXR3ZWVuKCdha3NlcHRkYXRvJywgWyRmcm9tLCAkdG9dKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcHBkcmFnc251bW1lcicgPT4gJGxpbmUtPmZpbmQoJ29wcGRyYWdzbnVtbWVyJyktPnRleHQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iYWxpZ24tdG9wIHB4LTYgcHktNCB3aGl0ZXNwYWNlLW5vLXdyYXAgdGV4dC1zbSBsZWFkaW5nLTUgZm9udC1tZWRpdW0gdGV4dC1ncmF5LTkwMCB0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdsaW5qZW51bW1lcicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJweC02IHB5LTMgYm9yZGVyLWIgYm9yZGVyLWdyYXktMjAwIGJnLWdyYXktNTAgdGV4dC1sZWZ0IHRleHQteHMgbGVhZGluZy00IGZvbnQtbWVkaXVtIHRleHQtZ3JheS01MDAgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGVyIHRleHQtcmlnaHQiPlByaXM8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iYWxpZ24tdG9wIHB4LTYgcHktNCB3aGl0ZXNwYWNlLW5vLXdyYXAgdGV4dC1zbSBsZWFkaW5nLTUgZm9udC1tZWRpdW0gdGV4dC1ncmF5LTkwMCB0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBATk9LKCRlc3RhdGUtPnR1cm5vdmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJweC02IHB5LTMgYm9yZGVyLWIgYm9yZGVyLWdyYXktMjAwIGJnLWdyYXktNTAgdGV4dC1sZWZ0IHRleHQteHMgbGVhZGluZy00IGZvbnQtbWVkaXVtIHRleHQtZ3JheS01MDAgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGVyIHRleHQtcmlnaHQiPlByaXM8L3RoPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ICRlc3RhdGUtPm92ZXJza3JpZnQgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBATk9LKCRlc3RhdGUtPnR1cm5vdmVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSgncGFydGlhbHMucmVnaW9uLnN0YXRzLnR1cm5vdmVyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ICRlc3RhdGUtPm92ZXJza3JpZnQgfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0dXJub3ZlcicgPT4gJGVzdGF0ZXMtPmdldFRvdGFsVHVybm92ZXIoKSwK</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSgncGFydGlhbHMucmVnaW9uLnN0YXRzLnR1cm5vdmVyJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZXN0YXRlcyA9IFNvbGRFc3RhdGUKICAgICAgICAgICAgOjpieVRlcnRpYWwoJHRlcnRpYWxbJ3llYXInXSwgJHRlcnRpYWxbJ251bWJlciddKQogICAgICAgICAgICAtPndoZXJlSW4oJ2RlcGFydG1lbnRfaWQnLCAkdGhpcy0+cmVnaW9uLT5kZXBhcnRtZW50cy0+cGx1Y2soJ2lkJykpCiAgICAgICAgICAgIC0+d2l0aCgnY29tbWlzc2lvbnMnKQogICAgICAgICAgICAtPm9yZGVyQnkoJ29wcGRyYWdzbnVtbWVyJyktPmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0dXJub3ZlcicgPT4gJGVzdGF0ZXMtPmdldFRvdGFsVHVybm92ZXIoKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRvcHBkcmFnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZXN0YXRlcyA9IFNvbGRFc3RhdGUKICAgICAgICAgICAgOjpieVRlcnRpYWwoJHRlcnRpYWxbJ3llYXInXSwgJHRlcnRpYWxbJ251bWJlciddKQogICAgICAgICAgICAtPndoZXJlSW4oJ2RlcGFydG1lbnRfaWQnLCAkdGhpcy0+cmVnaW9uLT5kZXBhcnRtZW50cy0+cGx1Y2soJ2lkJykpCiAgICAgICAgICAgIC0+d2l0aCgnY29tbWlzc2lvbnMnKQogICAgICAgICAgICAtPm9yZGVyQnkoJ29wcGRyYWdzbnVtbWVyJyktPmdldCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcHBkcmFnc251bW1lcicgPT4gJHRoaXMtPmRhdGFbJ29wcGRyYWdzbnVtbWVyJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRvcHBkcmFnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
