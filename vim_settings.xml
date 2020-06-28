@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxFc3RhdGVfQ29udGVudF9Ub2dnbGVyXD4=</entry>
         <entry encoding="base64">XDxXbUNvbGxhcHNpYmxlXD4=</entry>
         <entry encoding="base64">XDxzZXRfcHJvamVjdF9wcm9wZXJ0aWVzXD4=</entry>
         <entry encoding="base64">XDxzaW1pbGFyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxlbmNvZGVkX3JlZ2lvbl9pZFw+</entry>
         <entry encoding="base64">XDxieVRlcnRpYWxcPg==</entry>
         <entry encoding="base64">XDxjb21taXNzaW9uc190b3RhbFw+</entry>
+        <entry encoding="base64">XDxDYXJib25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -61,6 +61,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1593285373993">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/CompanyController.php" timestamp="1593180151401">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="27" column="11" />
@@ -69,33 +72,6 @@
         <mark key="'" line="11" column="28" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/region/sold-estates.blade.php" timestamp="1593245827152">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="40" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1593236637716">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="141" column="28" />
-        <mark key="]" line="141" column="28" />
-        <mark key="." line="141" column="27" />
-        <mark key="^" line="141" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/company/regions.blade.php" timestamp="1593235780072">
-        <mark key="[" line="15" column="130" />
-        <mark key="]" line="15" column="142" />
-        <mark key="." line="15" column="141" />
-        <mark key="^" line="15" column="142" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Commission.php" timestamp="1593177941172" />
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" timestamp="1593246177568">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="106" column="5" />
-        <mark key="^" line="57" column="39" />
-        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/BilagsCollection.php" timestamp="1593245585342">
         <mark key="[" line="23" column="59" />
@@ -110,17 +86,18 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/routes/web.php" timestamp="1593180514156">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="44" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" timestamp="1593285474973">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/BilagImporter.php" timestamp="1593244689342">
-        <mark key="[" line="35" column="66" />
-        <mark key="]" line="36" column="60" />
-        <mark key="^" line="36" column="60" />
-        <mark key="." line="36" column="59" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/region/sold-estates.blade.php" timestamp="1593245827152">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/BilagsXmlParser.php" timestamp="1593243639298">
         <mark key="[" line="16" column="0" />
@@ -135,18 +112,53 @@
         <mark key="^" line="28" column="60" />
         <mark key="." line="28" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" timestamp="1593244791896">
-        <mark key="'" line="59" column="6" />
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="36" column="25" />
-        <mark key="^" line="36" column="26" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1593236637716">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="141" column="28" />
+        <mark key="]" line="141" column="28" />
+        <mark key="." line="141" column="27" />
+        <mark key="^" line="141" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/pages/region.blade.php" timestamp="1593238403341">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/ImportBilagsCommand.php" timestamp="1593285395405">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="72" />
+        <mark key="." line="19" column="71" />
+        <mark key="^" line="19" column="72" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/company/regions.blade.php" timestamp="1593235780072">
+        <mark key="[" line="15" column="130" />
+        <mark key="]" line="15" column="142" />
+        <mark key="." line="15" column="141" />
+        <mark key="^" line="15" column="142" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" timestamp="1593246177568">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="106" column="5" />
+        <mark key="^" line="57" column="39" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/routes/web.php" timestamp="1593180514156">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/pages/new-company.blade.php" timestamp="1593246275730">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_26_135734_create_bilags_table.php" timestamp="1593243612405">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" timestamp="1593236048575">
         <mark key="'" line="48" column="39" />
@@ -155,29 +167,14 @@
         <mark key="." line="118" column="27" />
         <mark key="^" line="127" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/pages/region.blade.php" timestamp="1593238403341">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593180092058">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/ImportBilagsCommand.php" timestamp="1593246324212">
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="49" />
-        <mark key="^" line="20" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_26_135734_create_bilags_table.php" timestamp="1593243612405">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Importers/BilagImporter.php" timestamp="1593244689342">
+        <mark key="[" line="35" column="66" />
+        <mark key="]" line="36" column="60" />
+        <mark key="^" line="36" column="60" />
+        <mark key="." line="36" column="59" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="6" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
-      <jump line="97" column="88" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/main-estate-info.twig" />
       <jump line="48" column="7" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/single-estate.pcss" />
       <jump line="155" column="1" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/stylesheets/settings/_colors.scss" />
       <jump line="38" column="22" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" />
@@ -276,18 +273,20 @@
       <jump line="21" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
       <jump line="22" column="36" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/NewCompanyController.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" />
+      <jump line="86" column="25" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
+      <jump line="8" column="23" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>$tertial['date_from'])</text>
+        <text>from_date</text>
       </register>
       <register name="-" type="4">
-        <text>$tertial['date_from'])</text>
+        <text>from_date</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21taXNzaW9uc190b3RhbFw+</text>
+        <text encoding="base64">XDxDYXJib25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFBlcmlvZCgpCiAgICB7CiAgICAgICAgaWYgKGFycmF5X2tleV9leGlzdHMoJ2RhdGVfZnJvbScsICR0aGlzLT52YWxpZGF0ZWQpICYmIGFycmF5X2tleV9leGlzdHMoJ2RhdGVfdG8nLCAkdGhpcy0+dmFsaWRhdGVkKSkgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ2RhdGVfZnJvbScgPT4gJHRoaXMtPnZhbGlkYXRlZFsnZGF0ZV9mcm9tJ10sCiAgICAgICAgICAgICAgICAnZGF0ZV90bycgPT4gJHRoaXMtPnZhbGlkYXRlZFsnZGF0ZV90byddLAogICAgICAgICAgICBdOwogICAgICAgIH0KCiAgICAgICAgLy8gV2UncmUgbG9va2luZyBhdCBhbiBlbnRpcmUgdGVydGlhbAogICAgICAgIHJldHVybiBnZXRfdGVydGlhbF9ib3VuZHMoJHRoaXMtPnRvZGF5LT5mb3JtYXQoJ1ktbS1kJykpOwogICAgfQo=</text>
@@ -326,9 +325,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb21taXNzaW9uc190b3RhbFw+</last-search>
+      <last-search encoding="base64">XDxDYXJib25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21taXNzaW9uc190b3RhbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxDYXJib25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
