@@ -61,10 +61,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/testing/lottstift-acceptance-codeception/.idea/lottstift-acceptance-codeception.iml" timestamp="1593517222134">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1593427647487">
+        <mark key="'" line="51" column="38" />
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="51" column="39" />
+        <mark key="^" line="51" column="39" />
+        <mark key="." line="51" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/front-estates.twig" timestamp="1593423097047">
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="44" />
         <mark key="." line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" timestamp="1593421828253">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" timestamp="1593422114484">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1593429160192">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="121" column="13" />
+        <mark key="]" line="121" column="15" />
+        <mark key="." line="121" column="14" />
+        <mark key="^" line="121" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" timestamp="1593428870018">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="6" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" timestamp="1593428696744">
         <mark key="[" line="39" column="41" />
@@ -77,71 +112,9 @@
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1593428057266">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/single-post-listing.twig" timestamp="1593428281983">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_29_083548_change_in_region_periods_table.php" timestamp="1593412920037">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1593429160192">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="121" column="13" />
-        <mark key="]" line="121" column="15" />
-        <mark key="." line="121" column="14" />
-        <mark key="^" line="121" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/employee.twig" timestamp="1593429388298">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1593427647487">
-        <mark key="'" line="51" column="38" />
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="51" column="39" />
-        <mark key="^" line="51" column="39" />
-        <mark key="." line="51" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" timestamp="1593428870018">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="36" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="6" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/node_modules/tailwindcss/stubs/defaultConfig.stub.js" timestamp="1593422836573">
         <mark key="[" line="274" column="0" />
         <mark key="]" line="279" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/icon-macro.twig" timestamp="1593426738810">
-        <mark key="[" line="3" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/composer.json" timestamp="1593412310308" />
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1593428924059">
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="41" column="40" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="41" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" timestamp="1593421828253">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" timestamp="1593422114484">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates.vue" timestamp="1593423093913">
         <mark key="[" line="322" column="17" />
@@ -154,10 +127,37 @@
         <mark key="]" line="14" column="50" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/buttons.twig" timestamp="1593428049828" />
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_04_23_124201_create_region_periods_table.php" timestamp="1593412590905">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="64" />
+      <file name="$USER_HOME$/Projects/testing/lottstift-acceptance-codeception/.idea/workspace.xml" timestamp="1593517157806" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1593428057266">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/icon-macro.twig" timestamp="1593426738810">
+        <mark key="[" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/employee.twig" timestamp="1593429388298">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1593428924059">
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="41" column="40" />
+        <mark key="^" line="37" column="48" />
+        <mark key="." line="41" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/single-post-listing.twig" timestamp="1593428281983">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_29_083548_change_in_region_periods_table.php" timestamp="1593412920037">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -266,10 +266,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>JAVA</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>JAVA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxieVRlcnRpYWxBbmREZXBhcnRtZW50c1w+</text>
