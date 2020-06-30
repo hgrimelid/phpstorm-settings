@@ -32,8 +32,8 @@
         <entry>action GotoAction</entry>
         <entry>e</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -78,9 +78,9 @@
         <mark key="]" line="23" column="44" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" timestamp="1593421828253">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/scripts.js" timestamp="1593519666446">
+        <mark key="[" line="91" column="46" />
+        <mark key="]" line="91" column="64" />
         <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" timestamp="1593422114484">
@@ -88,12 +88,12 @@
         <mark key="]" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1593429160192">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="121" column="13" />
-        <mark key="]" line="121" column="15" />
-        <mark key="." line="121" column="14" />
-        <mark key="^" line="121" column="15" />
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" timestamp="1593519821431">
+        <mark key="'" line="48" column="9" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/frontpage-sections/employees.twig" timestamp="1593428870018">
         <mark key="[" line="6" column="36" />
@@ -101,6 +101,7 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates-frontpage.js" timestamp="1593519797487" />
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" timestamp="1593428696744">
         <mark key="[" line="39" column="41" />
         <mark key="]" line="39" column="46" />
@@ -154,16 +155,8 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/migrations/2020_06_29_083548_change_in_region_periods_table.php" timestamp="1593412920037">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="28" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
-      <jump line="11" column="105" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
       <jump line="29" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/helpers.pcss" />
       <jump line="38" column="25" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page-about.twig" />
@@ -261,51 +254,54 @@
       <jump line="38" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" />
       <jump line="144" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" />
       <jump line="51" column="38" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" />
+      <jump line="115" column="6" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" />
+      <jump line="36" column="9" filename="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/tailwind.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>JAVA</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>JAVA</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxieVRlcnRpYWxBbmREZXBhcnRtZW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBhcHBseSBwYi0zMDsK</text>
+        <text encoding="base64">ICAgICAgICAnLm1kOnctMS8yJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAYXBwbHkgcGItMzA7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlubGluZS1ibG9jayI+TWVueTwvc3Bhbj4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0iaW5saW5lLWJsb2NrIiBzcmM9Int7IHRoZW1lLmxpbmsgfX0vZGlzdC9pY29ucy9idXJnZXIuc3ZnIiBhbHQ9Ik1lbnlpa29uIj48L2J1dHRvbj4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICcuL3ZpZXdzLyoqLyoudHdpZycsCiAgICAnLi9zcmMvKiovKi52dWUnLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICcuL3NyYy8qKi8qLmpzeCcsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBdLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSB0cmFuc3BhcmVudCBib3R0b20gYm9yZGVyIHdoZW4gZXhwYW5kZWQKICAgIGpRdWVyeSgnLmVtc2YtdG9wLWdyYWRpZW50JykudG9nZ2xlQ2xhc3MoJ2Vtc2Ytbm8tdHJhbnNwYXJlbnQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogUmVtb3ZlIHRyYW5zcGFyZW5jeSwgdXNlZCB3aGVuIGV4cGFuZGluZyBtb2JpbGUgbWVudS4gU2VlIHNjcmlwdHMuanMgKi8KLmVtc2Ytbm8tdHJhbnNwYXJlbnQgewogIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCgKICAgIDE4MGRlZywKICAgIHRoZW1lKCdjb2xvcnMub2Zmd2hpdGUuZGVmYXVsdCcpIDAlLAogICAgdGhlbWUoJ2NvbG9ycy5vZmZ3aGl0ZS5kZWZhdWx0JykgMTAwJQogICk7Cn0K</text>
+        <text encoding="base64">ICBAYXBwbHkgcGItMzA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlubGluZS1ibG9jayI+TWVueTwvc3Bhbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDE4MGRlZywKICAgIHRoZW1lKCdjb2xvcnMub2Zmd2hpdGUuZGVmYXVsdCcpIDAlLAogICAgdGhlbWUoJ2NvbG9ycy5vZmZ3aGl0ZS5kZWZhdWx0JykgOTAlLAogICAgdGhlbWUoJ2NvbG9ycy5jaGFyY29hbC50cmFuc3BhcmVudCcpIDkwJSwKICAgIHRoZW1lKCdjb2xvcnMuY2hhcmNvYWwudHJhbnNwYXJlbnQnKSAxMDAlCiAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0iaW5saW5lLWJsb2NrIiBzcmM9Int7IHRoZW1lLmxpbmsgfX0vZGlzdC9pY29ucy9idXJnZXIuc3ZnIiBhbHQ9Ik1lbnlpa29uIj48L2J1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
   </component>
