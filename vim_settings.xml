@@ -66,6 +66,9 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="/Dummy.txt" timestamp="1593587316936">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1593586415156">
         <mark key="[" line="52" column="29" />
         <mark key="]" line="52" column="57" />
@@ -102,11 +105,8 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/base-redesign.twig" timestamp="1593428696744">
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="46" />
-        <mark key="." line="39" column="45" />
-        <mark key="^" line="39" column="46" />
+      <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/PhpStorm/ch-0/202.5958.28/PhpStorm 2020.2 EAP.app.vmoptions" timestamp="1593587373408">
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/pcss/styles.pcss" timestamp="1593429495137">
         <mark key="[" line="3" column="12" />
