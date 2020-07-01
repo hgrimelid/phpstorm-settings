@@ -75,9 +75,9 @@
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/ControllerHelpers/Reports/ReportsControllerHelper.php" timestamp="1593603112974">
         <mark key="'" line="42" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1593605186562">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1593609269364">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="146" column="89" />
         <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/static/sunnfjordsti/source/_trails/test.blade.php" timestamp="1593592626585">
@@ -141,11 +141,12 @@
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/ControllerHelpers/DepartmentsSummary.php" timestamp="1593604016719" />
       <file name="$USER_HOME$/Projects/laravel/realestate/composer.json" timestamp="1593601585304" />
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" timestamp="1593606416285">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="57" column="64" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" timestamp="1593609722145">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="72" column="69" />
+        <mark key="]" line="72" column="73" />
+        <mark key="^" line="72" column="73" />
+        <mark key="." line="72" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/ControllerHelpers/PeriodQueryGenerator.php" timestamp="1593604057457" />
       <file name="$USER_HOME$/Projects/static/sunnfjordsti/source/index.blade.php" timestamp="1593593403580">
@@ -156,11 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="4" filename="$USER_HOME$/Projects/laravel/realestate/database/migrations/2019_01_30_140956_add_finn_importstatisticsurl.php" />
-      <jump line="55" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
-      <jump line="64" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
-      <jump line="110" column="37" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
-      <jump line="117" column="37" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="22" column="56" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/Xml/SoldEstatesParser.php" />
       <jump line="20" column="26" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
@@ -256,48 +252,57 @@
       <jump line="27" column="30" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
       <jump line="49" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
       <jump line="50" column="30" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
+      <jump line="72" column="25" filename="$USER_HOME$/Projects/laravel/reapistats/app/Services/PendingObjects/PendingTertial.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIENhbGN1bGF0ZXMgc3RhcnQgYW5kIGVuZCBkYXRlcyBmb3IgdGVydGlhbCBjb3JyZXNwb25kaW5nCiAgICAgKiB0byBwcm92aWRlZCBkYXRlLgogICAgICogQHBhcmFtIHN0cmluZyAkZGF0ZQogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldEJvdW5kcygpOiB2b2lkCiAgICB7CiAgICAgICAgJHRlcnRpYWxfbm8gPSAoaW50KSBjZWlsKCR0aGlzLT5kYXRlLT5tb250aCAvIDQpOwogICAgICAgICR0ZXJ0aWFsX2VuZF9tb250aCA9ICR0ZXJ0aWFsX25vICogNDsKICAgICAgICAkdGVydGlhbF9zdGFydF9tb250aCA9ICR0ZXJ0aWFsX2VuZF9tb250aCAtIDM7CiAgICAgICAgJHRoaXMtPmZyb20gPSBDYXJib246OmNyZWF0ZUZyb21EYXRlKCR0aGlzLT5kYXRlLT55ZWFyLCAkdGVydGlhbF9zdGFydF9tb250aCwgMSktPnN0YXJ0T2ZNb250aCgpLT5mb3JtYXQoJ1ktbS1kJyk7CiAgICAgICAgJHRoaXMtPnRvID0gQ2FyYm9uOjpjcmVhdGVGcm9tRGF0ZSgkdGhpcy0+ZGF0ZS0+eWVhciwgJHRlcnRpYWxfZW5kX21vbnRoLCAxKS0+ZW5kT2ZNb250aCgpLT5mb3JtYXQoJ1ktbS1kJyk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>year</text>
       </register>
       <register name="-" type="4">
-        <text>end_month</text>
+        <text>year</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXJ0aWFsX25vXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZnJvbSA9IENhcmJvbgogICAgICAgICAgICA6OmNyZWF0ZUZyb21EYXRlKCR0aGlzLT5kYXRlLT55ZWFyLCAkc3RhcnRfbW9udGgsIDEpCiAgICAgICAgICAgIC0+c3RhcnRPZk1vbnRoKCk7CgogICAgICAgICR0aGlzLT50byA9IENhcmJvbgogICAgICAgICAgICA6OmNyZWF0ZUZyb21EYXRlKCR0aGlzLT5kYXRlLT55ZWFyLCAkZW5kX21vbnRoLCAxKQogICAgICAgICAgICAtPmVuZE9mTW9udGgoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+eWVhciA9IENhcmJvbjo6cGFyc2UoJHRoaXMtPmRhdGUpLT55ZWFyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIENhbGN1bGF0ZXMgc3RhcnQgYW5kIGVuZCBkYXRlcyBmb3IgdGVydGlhbCBjb3JyZXNwb25kaW5nCiAgICAgKiB0byBwcm92aWRlZCBkYXRlLgogICAgICogQHBhcmFtIHN0cmluZyAkZGF0ZQogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldEJvdW5kcygpOiB2b2lkCiAgICB7CiAgICAgICAgJHRlcnRpYWxfbm8gPSAoaW50KSBjZWlsKCR0aGlzLT5kYXRlLT5tb250aCAvIDQpOwogICAgICAgICR0ZXJ0aWFsX2VuZF9tb250aCA9ICR0ZXJ0aWFsX25vICogNDsKICAgICAgICAkdGVydGlhbF9zdGFydF9tb250aCA9ICR0ZXJ0aWFsX2VuZF9tb250aCAtIDM7CiAgICAgICAgJHRoaXMtPmZyb20gPSBDYXJib246OmNyZWF0ZUZyb21EYXRlKCR0aGlzLT5kYXRlLT55ZWFyLCAkdGVydGlhbF9zdGFydF9tb250aCwgMSktPnN0YXJ0T2ZNb250aCgpLT5mb3JtYXQoJ1ktbS1kJyk7CiAgICAgICAgJHRoaXMtPnRvID0gQ2FyYm9uOjpjcmVhdGVGcm9tRGF0ZSgkdGhpcy0+ZGF0ZS0+eWVhciwgJHRlcnRpYWxfZW5kX21vbnRoLCAxKS0+ZW5kT2ZNb250aCgpLT5mb3JtYXQoJ1ktbS1kJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIENhcmJvbiAqLwo=</text>
+        <text encoding="base64">CiAgICAgICAgJGVuZF9tb250aCA9IChpbnQpIGNlaWwoJHRoaXMtPmRhdGUtPm1vbnRoIC8gNCkgKiA0OwogICAgICAgICRzdGFydF9tb250aCA9ICRlbmRfbW9udGggLSAzOwoKICAgICAgICAkdGhpcy0+ZnJvbSA9IENhcmJvbgogICAgICAgICAgICA6OmNyZWF0ZUZyb21EYXRlKCR0aGlzLT5kYXRlLT55ZWFyLCAkc3RhcnRfbW9udGgsIDEpCiAgICAgICAgICAgIC0+c3RhcnRPZk1vbnRoKCk7CgogICAgICAgICR0aGlzLT50byA9IENhcmJvbgogICAgICAgICAgICA6OmNyZWF0ZUZyb21EYXRlKCR0aGlzLT5kYXRlLT55ZWFyLCAkZW5kX21vbnRoLCAxKQogICAgICAgICAgICAtPmVuZE9mTW9udGgoKTsKCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdmFyIENhcmJvbiAqLwo=</text>
+      <register name="4" type="8">
+        <text>private
+private
+private
+private
+private</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVydGlhbF9lbmRfbW9udGggPSAkdGVydGlhbF9ubyAqIDQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENhbGN1bGF0ZXMgc3RhcnQgYW5kIGVuZCBkYXRlcyBmb3IgdGVydGlhbCBjb3JyZXNwb25kaW5nCiAgICAgKiB0byBwcm92aWRlZCBkYXRlLgogICAgICogQHBhcmFtIHN0cmluZyAkZGF0ZQogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldEJvdW5kcygpOiB2b2lkCiAgICB7CiAgICAgICAgJHRlcnRpYWxfbm8gPSAoaW50KSBjZWlsKCR0aGlzLT5kYXRlLT5tb250aCAvIDQpOwogICAgICAgICR0ZXJ0aWFsX2VuZF9tb250aCA9ICR0ZXJ0aWFsX25vICogNDsKICAgICAgICAkdGVydGlhbF9zdGFydF9tb250aCA9ICR0ZXJ0aWFsX2VuZF9tb250aCAtIDM7CiAgICAgICAgJHRoaXMtPmZyb20gPSBDYXJib246OmNyZWF0ZUZyb21EYXRlKCR0aGlzLT5kYXRlLT55ZWFyLCAkdGVydGlhbF9zdGFydF9tb250aCwgMSktPnN0YXJ0T2ZNb250aCgpLT5mb3JtYXQoJ1ktbS1kJyk7CiAgICAgICAgJHRoaXMtPnRvID0gQ2FyYm9uOjpjcmVhdGVGcm9tRGF0ZSgkdGhpcy0+ZGF0ZS0+eWVhciwgJHRlcnRpYWxfZW5kX21vbnRoLCAxKS0+ZW5kT2ZNb250aCgpLT5mb3JtYXQoJ1ktbS1kJyk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ2RhdGVfZnJvbScgPT4gJGRhdGVfZnJvbSwKICAgICAgICAgICAgJ2RhdGVfdG8nID0+ICRkYXRlX3RvLAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIENhcmJvbiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGRhdGUpIHsKICAgICAgICAgICAgJGRhdGUgPSBDYXJib246OnBhcnNlKCRkYXRlKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkZGF0ZSA9IENhcmJvbjo6bm93KCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIENhcmJvbiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
