@@ -89,11 +89,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/redesign/front-estates.twig" timestamp="1593428057266">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="46" />
-      </file>
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/page.twig" timestamp="1593428924059">
         <mark key="[" line="41" column="40" />
         <mark key="]" line="41" column="40" />
@@ -139,6 +134,7 @@
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/desktop/viewing-and-employees.twig" timestamp="1593525051654">
         <mark key="[" line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ManagesFrequencies.php" timestamp="1593585412958" />
       <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/src/javascripts/lib/vue/estates.vue" timestamp="1593522438305">
         <mark key="'" line="116" column="29" />
         <mark key="[" line="171" column="71" />
