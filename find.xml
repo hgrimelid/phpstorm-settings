@@ -15,11 +15,11 @@
     <mask>*.ctp</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.blade.php</mask>
     <mask>*.js</mask>
     <mask>*.pcss</mask>
     <mask>*.twig</mask>
     <mask>*.*</mask>
+    <mask>*.blade.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
