@@ -3,14 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
     <mask>*.module</mask>
-    <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>*.css</mask>
@@ -19,7 +18,8 @@
     <mask>*.pcss</mask>
     <mask>*.twig</mask>
     <mask>*.*</mask>
-    <mask>*.blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
