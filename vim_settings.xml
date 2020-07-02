@@ -61,6 +61,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" timestamp="1593693180432">
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="77" column="14" />
+        <mark key="^" line="77" column="15" />
+        <mark key="." line="77" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/realestate/config/firewall.php" timestamp="1593676654797">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -105,12 +111,6 @@
       <file name="/" timestamp="1593692247106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/CreateReportCommand.php" timestamp="1593674028686">
-        <mark key="[" line="19" column="73" />
-        <mark key="]" line="19" column="81" />
-        <mark key="^" line="19" column="81" />
-        <mark key="." line="19" column="80" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/BilagTest.php" timestamp="1593687059360">
         <mark key="'" line="19" column="14" />
         <mark key="[" line="9" column="7" />
@@ -122,6 +122,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" timestamp="1593693081890">
+        <mark key="'" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/pages/company.blade.php" timestamp="1593680860173">
         <mark key="[" line="8" column="10" />
@@ -155,12 +158,6 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/ImportBilagsCommand.php" timestamp="1593674614126">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="23" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Unit/SoldEstateTest.php" timestamp="1593686702799">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="29" />
@@ -170,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="19" filename="$USER_HOME$/Projects/laravel/reapistats/app/Console/Commands/ImportBilagsCommand.php" />
       <jump line="107" column="14" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
       <jump line="48" column="39" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
       <jump line="53" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
@@ -270,15 +266,16 @@
       <jump line="91" column="89" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
       <jump line="31" column="32" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" />
       <jump line="30" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzaGlkID0gZ2V0X2VuY29kZWRfaGFzaGlkKCRyZWdpb24tPmlkKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXJyYXkg</text>
       </register>
       <register name="-" type="4">
-        <text>hashid</text>
+        <text encoding="base64">YXJyYXkg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxcPg==</text>
