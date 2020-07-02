@@ -32,8 +32,8 @@
         <entry>action GotoAction</entry>
         <entry>e</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -318,7 +318,7 @@
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
   </component>
