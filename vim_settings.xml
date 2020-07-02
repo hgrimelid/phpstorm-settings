@@ -118,10 +118,8 @@
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Services/Clients/BilagClient.php" timestamp="1593674740366">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" timestamp="1593695978180">
+        <mark key="'" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" timestamp="1593693081890">
         <mark key="'" line="21" column="0" />
@@ -167,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="14" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
       <jump line="48" column="39" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
       <jump line="53" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="48" column="37" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
@@ -267,6 +264,7 @@
       <jump line="31" column="32" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" />
       <jump line="30" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" />
+      <jump line="39" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
