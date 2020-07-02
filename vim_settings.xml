@@ -80,11 +80,6 @@
         <mark key="^" line="56" column="34" />
         <mark key="." line="56" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/helpers.php" timestamp="1593675296273">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/BilagCollectionTest.php" timestamp="1593687108939">
         <mark key="]" line="11" column="29" />
         <mark key="^" line="11" column="29" />
@@ -150,6 +145,9 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" timestamp="1593696863216">
+        <mark key="'" line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/region/heading.blade.php" timestamp="1593680352880">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="45" />
@@ -165,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="39" filename="$USER_HOME$/Projects/laravel/reapistats/app/RegionPeriod.php" />
       <jump line="53" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="48" column="37" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="11" column="28" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstateCollection.php" />
@@ -265,6 +262,7 @@
       <jump line="30" column="9" filename="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" />
       <jump line="39" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" />
+      <jump line="5" column="23" filename="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
