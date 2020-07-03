@@ -108,6 +108,12 @@
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" timestamp="1593693081890">
         <mark key="'" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Wordpress/emsf/wp-content/themes/emsf/views/partials/single-estate/freetexts.twig" timestamp="1593771034728">
+        <mark key="[" line="68" column="26" />
+        <mark key="]" line="68" column="26" />
+        <mark key="^" line="52" column="57" />
+        <mark key="." line="68" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Site/SiteStatus.php" timestamp="1593761940830">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -132,10 +138,6 @@
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreateSiteSuccessMail.php" timestamp="1593768606567">
         <mark key="[" line="10" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Unit/SoldEstateTest.php" timestamp="1593686702799">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1593768377470">
         <mark key="'" line="16" column="4" />
@@ -257,11 +259,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="&quot;" type="4">
+        <text>break-all</text>
       </register>
       <register name="-" type="4">
-        <text>Command description</text>
+        <text>break-all</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYWlsXD4=</text>
