@@ -80,20 +80,13 @@
         <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/region/period.blade.php" timestamp="1593681157442" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1593763253491" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1593763397604">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1593760561637" />
-      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/pages/region.blade.php" timestamp="1593680854396">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="64" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" timestamp="1593678960635">
-        <mark key="'" line="42" column="42" />
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="41" column="36" />
-        <mark key="^" line="41" column="36" />
-        <mark key="." line="41" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/BilagsTableSeeder.php" timestamp="1593685334250">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="45" />
@@ -120,6 +113,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Site/SiteStatus.php" timestamp="1593761940830">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1593689301112">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -136,12 +135,6 @@
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" timestamp="1593698131181">
         <mark key="'" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/region/heading.blade.php" timestamp="1593680352880">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="44" />
-        <mark key="^" line="0" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreateSiteSuccessMail.php" timestamp="1593760723785">
         <mark key="[" line="10" column="7" />
       </file>
@@ -149,8 +142,10 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tailwind.config.js" timestamp="1593680384717">
-        <mark key="'" line="9" column="12" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1593763492750">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -258,8 +253,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXJyYXkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXJyYXkg</text>
@@ -268,34 +263,34 @@
         <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KEJpbGFnOjpjbGFzcywgNSktPmNyZWF0ZSgKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2JlbG9wJyA9PiAtIDEwMDAwICogMTAwLAogICAgICAgICAgICAgICAgJ2RlcGFydG1lbnRfaWQnID0+ICRkZXBhcnRtZW50LT5pZCwKICAgICAgICAgICAgXQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cDo6Z2V0KCRkb21haW4pLT5vaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzaGlkID0gZ2V0X2VuY29kZWRfaGFzaGlkKCRyZWdpb24tPmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID0gcm91dGUoJ3JlZ2lvblJlcG9ydCcsICRoYXNoaWQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVnaW9uX3BlcmlvZCA9IFJlZ2lvblBlcmlvZAogICAgICAgICAgICA6OnF1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZSgncmVnaW9uX2lkJywgJHJlZ2lvbi0+aWQpCiAgICAgICAgICAgIC0+YnlUZXJ0aWFsKCRwZXJpb2QtPnllYXIsICRwZXJpb2QtPnRlcnRpYWwpCiAgICAgICAgICAgIC0+Zmlyc3QoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChmb3JtYXRfdG9fbm9rKCRiaWxhZ3MtPmdldFRvdGFsKCkpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3Vtcy0+dG9BcnJheSgpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYWJvcnRJZihQcm9qZWN0ICRwcm9qZWN0KTogdm9pZAogICAgewogICAgICAgIGFib3J0X2lmKAogICAgICAgICAgICAkcHJvamVjdC0+aGFzX3Byb2R1Y3Rpb25fc2l0ZSwKICAgICAgICAgICAgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VELAogICAgICAgICAgICAnWW91IGFyZSBub3QgYWxsb3dlZCB0byBhZGQgYW5vdGhlciBwcm9kdWN0aW9uIHNpdGUgdG8gdGhpcyBwcm9qZWN0LicKICAgICAgICApOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhYm9ydF91bmxlc3MoJHByb2plY3QtPmNhbl9sYXVuY2hfcHJvZHVjdGlvbiwgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VEKTsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcQ29ubmVjdGlvbkV4Y2VwdGlvbjsKdXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcUmVzcG9uc2U7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpnZXQoJGRvbWFpbik7CiAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+b2soKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkaGFzaGlkID0gZ2V0X2VuY29kZWRfaGFzaGlkKCRyZWdpb24tPmlkKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkZXBhcnRtZW50X2lkJyA9PiAkZGVwYXJ0bWVudC0+aWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAkdXJsID0gcm91dGUoJ3JlZ2lvblJlcG9ydCcsICRoYXNoaWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVnaW9uX3BlcmlvZCA9IFJlZ2lvblBlcmlvZAogICAgICAgICAgICA6OnF1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZSgncmVnaW9uX2lkJywgJHJlZ2lvbi0+aWQpCiAgICAgICAgICAgIC0+YnlUZXJ0aWFsKCRwZXJpb2QtPnllYXIsICRwZXJpb2QtPnRlcnRpYWwpCiAgICAgICAgICAgIC0+Zmlyc3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
