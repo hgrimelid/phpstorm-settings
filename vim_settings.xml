@@ -147,15 +147,15 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/TestEmailCommand.php" timestamp="1593768839073">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="20" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/TestEmailCommand.php" timestamp="1593771476259">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="5" />
+        <mark key="^" line="24" column="5" />
+        <mark key="." line="24" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="46" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
       <jump line="22" column="36" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/NewCompanyController.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" />
       <jump line="86" column="25" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
@@ -255,6 +255,7 @@
       <jump line="60" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
       <jump line="56" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
       <jump line="16" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
+      <jump line="5" column="8" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/TestEmailCommand.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
