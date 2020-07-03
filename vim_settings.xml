@@ -79,12 +79,17 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/partials/region/period.blade.php" timestamp="1593681157442" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CheckServerStatusJob.php" timestamp="1593765011823">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1593763253491" />
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1593763397604">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1593763505410">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1593760561637" />
       <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/BilagsTableSeeder.php" timestamp="1593685334250">
@@ -106,12 +111,6 @@
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" timestamp="1593693081890">
         <mark key="'" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/resources/views/pages/company.blade.php" timestamp="1593680860173">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Site/SiteStatus.php" timestamp="1593761940830">
         <mark key="[" line="4" column="0" />
@@ -142,6 +141,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1593764612364">
+        <mark key="'" line="44" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1593763492750">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -149,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="48" column="37" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
       <jump line="11" column="28" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstateCollection.php" />
       <jump line="19" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
@@ -249,48 +250,49 @@
       <jump line="21" column="0" filename="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" />
       <jump line="39" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" />
       <jump line="5" column="23" filename="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" />
+      <jump line="44" column="23" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>$output</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJyYXkg</text>
+        <text>$output</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSHR0cDo6Z2V0KCRkb21haW4pLT5vaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIocHJpbnRfcigkb3V0cHV0LCB0cnVlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYWJvcnRJZihQcm9qZWN0ICRwcm9qZWN0KTogdm9pZAogICAgewogICAgICAgIGFib3J0X2lmKAogICAgICAgICAgICAkcHJvamVjdC0+aGFzX3Byb2R1Y3Rpb25fc2l0ZSwKICAgICAgICAgICAgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VELAogICAgICAgICAgICAnWW91IGFyZSBub3QgYWxsb3dlZCB0byBhZGQgYW5vdGhlciBwcm9kdWN0aW9uIHNpdGUgdG8gdGhpcyBwcm9qZWN0LicKICAgICAgICApOwogICAgfQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhYm9ydF91bmxlc3MoJHByb2plY3QtPmNhbl9sYXVuY2hfcHJvZHVjdGlvbiwgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VEKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcQ29ubmVjdGlvbkV4Y2VwdGlvbjsKdXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpnZXQoJGRvbWFpbik7CiAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+b2soKTsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYWJvcnRJZihQcm9qZWN0ICRwcm9qZWN0KTogdm9pZAogICAgewogICAgICAgIGFib3J0X2lmKAogICAgICAgICAgICAkcHJvamVjdC0+aGFzX3Byb2R1Y3Rpb25fc2l0ZSwKICAgICAgICAgICAgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VELAogICAgICAgICAgICAnWW91IGFyZSBub3QgYWxsb3dlZCB0byBhZGQgYW5vdGhlciBwcm9kdWN0aW9uIHNpdGUgdG8gdGhpcyBwcm9qZWN0LicKICAgICAgICApOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkaGFzaGlkID0gZ2V0X2VuY29kZWRfaGFzaGlkKCRyZWdpb24tPmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBhYm9ydF91bmxlc3MoJHByb2plY3QtPmNhbl9sYXVuY2hfcHJvZHVjdGlvbiwgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VEKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID0gcm91dGUoJ3JlZ2lvblJlcG9ydCcsICRoYXNoaWQpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcQ29ubmVjdGlvbkV4Y2VwdGlvbjsKdXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcUmVzcG9uc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVnaW9uX3BlcmlvZCA9IFJlZ2lvblBlcmlvZAogICAgICAgICAgICA6OnF1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZSgncmVnaW9uX2lkJywgJHJlZ2lvbi0+aWQpCiAgICAgICAgICAgIC0+YnlUZXJ0aWFsKCRwZXJpb2QtPnllYXIsICRwZXJpb2QtPnRlcnRpYWwpCiAgICAgICAgICAgIC0+Zmlyc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpnZXQoJGRvbWFpbik7CiAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+b2soKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
