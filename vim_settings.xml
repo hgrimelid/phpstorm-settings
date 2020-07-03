@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxieVRlcnRpYWxcPg==</entry>
         <entry encoding="base64">XDxjb21taXNzaW9uc190b3RhbFw+</entry>
         <entry encoding="base64">XDxnZXRCaWxhZ3NcPg==</entry>
         <entry encoding="base64">XDxyZWdpb25cPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyZWdpb25fcGVyaW9kXD4=</entry>
         <entry encoding="base64">XDxDb2xsZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry encoding="base64">XDxNYWlsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.testing</entry>
@@ -92,10 +92,6 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1593760561637" />
-      <file name="$USER_HOME$/Projects/laravel/reapistats/database/seeds/BilagsTableSeeder.php" timestamp="1593685334250">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="45" />
-      </file>
       <file name="/" timestamp="1593760274880">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,26 +130,29 @@
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" timestamp="1593698131181">
         <mark key="'" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreateSiteSuccessMail.php" timestamp="1593760723785">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreateSiteSuccessMail.php" timestamp="1593768606567">
         <mark key="[" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Unit/SoldEstateTest.php" timestamp="1593686702799">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1593764612364">
-        <mark key="'" line="44" column="23" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1593768377470">
+        <mark key="'" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Site.php" timestamp="1593763492750">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Console/Commands/TestEmailCommand.php" timestamp="1593768839073">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+        <mark key="." line="22" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="37" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstate.php" />
-      <jump line="11" column="28" filename="$USER_HOME$/Projects/laravel/reapistats/app/SoldEstateCollection.php" />
-      <jump line="19" column="6" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
       <jump line="56" column="46" filename="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" />
       <jump line="22" column="36" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/NewCompanyController.php" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/laravel/reapistats/app/Http/Controllers/RegionReportController.php" />
@@ -251,48 +250,51 @@
       <jump line="39" column="21" filename="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" />
       <jump line="5" column="23" filename="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" />
       <jump line="44" column="23" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
+      <jump line="60" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
+      <jump line="56" column="12" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
+      <jump line="16" column="4" filename="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>$output</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>$output</text>
+        <text>Command description</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxcPg==</text>
+        <text encoding="base64">XDxNYWlsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIocHJpbnRfcigkb3V0cHV0LCB0cnVlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYWJvcnRJZihQcm9qZWN0ICRwcm9qZWN0KTogdm9pZAogICAgewogICAgICAgIGFib3J0X2lmKAogICAgICAgICAgICAkcHJvamVjdC0+aGFzX3Byb2R1Y3Rpb25fc2l0ZSwKICAgICAgICAgICAgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VELAogICAgICAgICAgICAnWW91IGFyZSBub3QgYWxsb3dlZCB0byBhZGQgYW5vdGhlciBwcm9kdWN0aW9uIHNpdGUgdG8gdGhpcyBwcm9qZWN0LicKICAgICAgICApOwogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHVzZSBNYWlsOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgY29uc29sZSBjb21tYW5kLgogICAgICoKICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBjb21tYW5kIGluc3RhbmNlLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoKTsKICAgIH0KCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYWJvcnRJZihQcm9qZWN0ICRwcm9qZWN0KTogdm9pZAogICAgewogICAgICAgIGFib3J0X2lmKAogICAgICAgICAgICAkcHJvamVjdC0+aGFzX3Byb2R1Y3Rpb25fc2l0ZSwKICAgICAgICAgICAgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VELAogICAgICAgICAgICAnWW91IGFyZSBub3QgYWxsb3dlZCB0byBhZGQgYW5vdGhlciBwcm9kdWN0aW9uIHNpdGUgdG8gdGhpcyBwcm9qZWN0LicKICAgICAgICApOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhYm9ydF91bmxlc3MoJHByb2plY3QtPmNhbl9sYXVuY2hfcHJvZHVjdGlvbiwgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VEKTsKCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYWJvcnRJZihQcm9qZWN0ICRwcm9qZWN0KTogdm9pZAogICAgewogICAgICAgIGFib3J0X2lmKAogICAgICAgICAgICAkcHJvamVjdC0+aGFzX3Byb2R1Y3Rpb25fc2l0ZSwKICAgICAgICAgICAgUmVzcG9uc2U6OkhUVFBfTUVUSE9EX05PVF9BTExPV0VELAogICAgICAgICAgICAnWW91IGFyZSBub3QgYWxsb3dlZCB0byBhZGQgYW5vdGhlciBwcm9kdWN0aW9uIHNpdGUgdG8gdGhpcyBwcm9qZWN0LicKICAgICAgICApOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcQ29ubmVjdGlvbkV4Y2VwdGlvbjsKdXNlIElsbHVtaW5hdGVcSHR0cFxDbGllbnRcUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBIdHRwOjpnZXQoJGRvbWFpbik7CiAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+b2soKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -301,9 +303,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1cmxcPg==</last-search>
+      <last-search encoding="base64">XDxNYWlsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxNYWlsXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
