@@ -80,8 +80,8 @@
         <mark key="." line="39" column="35" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1593763253491" />
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1593772763700">
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1593779727413" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1593778991616">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -110,12 +110,12 @@
         <mark key="'" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1593772696914" />
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1593776895817">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="13" />
-        <mark key="^" line="40" column="14" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1593779731687">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="44" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Site/SiteStatus.php" timestamp="1593761940830">
         <mark key="[" line="4" column="0" />
@@ -256,44 +256,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>::</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJHNpdGUtPnRvQXJyYXkoKSk7CiAgICAgICAgbG9nZ2VyKCRzaXRlLT5wcm9qZWN0LT5zaXRlcy0+dG9BcnJheSgpKTsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>::</text>
+        <text encoding="base64">JHZhaWxhYmxlU3RhZ2luZ1NlcnZlcnMoKS0+Zmlyc3QoKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBRdWV1ZTo6ZmFrZSgpOwogICAgICAgIEV2ZW50OjpmYWtlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJHNpdGUtPnByb2plY3QtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmJhc2VSZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJHNpdGUtPnRvQXJyYXkoKSk7CiAgICAgICAgbG9nZ2VyKCRzaXRlLT5wcm9qZWN0LT5zaXRlcy0+dG9BcnJheSgpKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2VydmVyID0gU2VydmVyOjokdmFpbGFibGVTdGFnaW5nU2VydmVycygpLT5maXJzdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFzc3NlcnRSCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2l0ZS0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydENvCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2l0ZS0+cHJvamVjdC0+c2l0ZXMtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmhlYWRlcnMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKTogdm9pZAogICAgewogICAgICAgIHBhcmVudDo6c2V0VXAoKTsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdC0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9IG5ldyBDcmVhdGVQcm9kdWN0aW9uU2l0ZVJlcXVlc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc2l0ZSA9IFByb2plY3Q6OndpdGgoWydzZXJ2ZXInLCAnc2l0ZXMnXSkKICAgICAgICAgICAgLT5nZXQoKQogICAgICAgICAgICAtPmZpbHRlcihmdW5jdGlvbiAoU2l0ZSAkc2l0ZSkgewogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICByZXR1cm4gJHNpdGUtPnNlcnZlci0+dHlwZS0+aXNFcXVhbCgnU1RBR0lORycpOwogICAgICAgICAgICB9KQogICAgICAgICAgICAtPmZpcnN0KCk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9IG5ldyBDcmVhdGVQcm9kdWN0aW9uU2l0ZVJlcXVlc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcHJvamVjdCA9IFByb2plY3Q6OmZpcnN0T3JGYWlsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphYm9ydElmKCRwcm9qZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAkc2l0ZXMgPSBTaXRlOjphbGwoKQogICAgICAgICAgICAtPmxlZnRKb2luKCdzZXJ2ZXJzJywgJ3NlcnZlci5pZCcsICc9JywgJ3NlcnZlcnMuaWQnKS0+Zmlyc3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
