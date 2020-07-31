@@ -61,41 +61,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" timestamp="1593693180432">
-        <mark key="[" line="77" column="14" />
-        <mark key="]" line="77" column="14" />
-        <mark key="^" line="77" column="15" />
-        <mark key="." line="77" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" timestamp="1593687397183">
-        <mark key="'" line="91" column="89" />
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="56" column="34" />
-        <mark key="^" line="56" column="34" />
-        <mark key="." line="56" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CheckServerStatusJob.php" timestamp="1593765011823">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="36" />
-        <mark key="." line="39" column="35" />
-        <mark key="^" line="39" column="36" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Project.php" timestamp="1593779727413" />
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1593778991616">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.github/workflows/tests.yml" timestamp="1593771556788" />
-      <file name="/" timestamp="1593760274880">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/composer.json" timestamp="1593771513156">
         <mark key="'" line="39" column="21" />
         <mark key="[" line="67" column="14" />
         <mark key="]" line="67" column="18" />
         <mark key="." line="67" column="17" />
         <mark key="^" line="67" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/User.php" timestamp="1593693180432">
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="77" column="14" />
+        <mark key="^" line="77" column="15" />
+        <mark key="." line="77" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env.github" timestamp="1593693081890">
         <mark key="'" line="21" column="0" />
@@ -109,7 +86,21 @@
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/config/services.php" timestamp="1593772299063">
         <mark key="'" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/.env" timestamp="1593772696914" />
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" timestamp="1593698131181">
+        <mark key="'" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Http/Controllers/CreateProductionSiteController.php" timestamp="1593778991616">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/app/Bilag.php" timestamp="1593687397183">
+        <mark key="'" line="91" column="89" />
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="56" column="34" />
+        <mark key="^" line="56" column="34" />
+        <mark key="." line="56" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/tests/Feature/CreateProductionSiteTest.php" timestamp="1593779731687">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="53" column="0" />
@@ -117,23 +108,23 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="44" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreateSiteSuccessMail.php" timestamp="1593768606567">
+        <mark key="[" line="10" column="7" />
+      </file>
+      <file name="/" timestamp="1596193104175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CheckServerStatusJob.php" timestamp="1593765011823">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Support/Site/SiteStatus.php" timestamp="1593761940830">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="9" column="40" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1593689301112">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="83" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/vendor/laravel/framework/src/Illuminate/Support/Pluralizer.php" timestamp="1593698131181">
-        <mark key="'" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Mail/CreateSiteSuccessMail.php" timestamp="1593768606567">
-        <mark key="[" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/laravel/sitefleet2/app/Jobs/CreateSiteJob.php" timestamp="1593768377470">
         <mark key="'" line="16" column="4" />
@@ -149,6 +140,12 @@
         <mark key="]" line="25" column="5" />
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/laravel/reapistats/tests/Feature/Views/RegionViewTest.php" timestamp="1593689301112">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="83" />
       </file>
     </filemarks>
     <jumps>
