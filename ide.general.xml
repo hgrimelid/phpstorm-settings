@@ -16,6 +16,7 @@
         <entry key="IdeaVim::ShowCmd" value="false" />
         <entry key="InspectionProfile" value="false" />
         <entry key="LineSeparator" value="false" />
+        <entry key="Notifications" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
