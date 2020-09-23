@@ -15,13 +15,13 @@
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>*.css</mask>
     <mask>*.twig</mask>
     <mask>*.pcss</mask>
     <mask>*.*</mask>
     <mask>*.blade.php</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
