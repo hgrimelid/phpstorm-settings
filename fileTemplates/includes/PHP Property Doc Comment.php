@@ -1,2 +1,0 @@
-
-/** @var ${TYPE_HINT} */
