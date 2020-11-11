@@ -19,6 +19,7 @@
     <mask>*.blade.php</mask>
     <mask>*.blade</mask>
     <mask>*.php</mask>
+    <mask>*.pcss</mask>
     <mask>*.*</mask>
   </component>
 </application>
