@@ -7,4 +7,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta #10000e5" />
+  </action>
 </keymap>
