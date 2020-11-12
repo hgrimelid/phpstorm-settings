@@ -15,11 +15,11 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.json</mask>
-    <mask>*.twig</mask>
     <mask>*.blade.php</mask>
     <mask>*.blade</mask>
     <mask>*.php</mask>
     <mask>*.pcss</mask>
+    <mask>*.twig</mask>
     <mask>*.*</mask>
   </component>
 </application>
