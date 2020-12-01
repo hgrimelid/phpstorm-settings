@@ -1,6 +1,7 @@
 <keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="meta #10000a8" />
+    <keyboard-shortcut first-keystroke="meta #10000b4" />
   </action>
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateTerminalToolWindow">
@@ -8,6 +9,7 @@
   </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="meta #10000a8" />
+    <keyboard-shortcut first-keystroke="meta #10000b4" />
   </action>
   <action id="FileChooser.NewFolder" />
   <action id="Generate">
