@@ -4,5 +4,8 @@
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
