@@ -15,6 +15,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="HippieBackwardCompletion" />
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift meta #10000a7" />
   </action>
